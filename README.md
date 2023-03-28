@@ -13,12 +13,12 @@
 ---
 
 <p align="center">
-  [<a href="https://github.com/aljoxo/Arisen/blob/main/README.md">Installation</a> ·
+  [ <a href="https://github.com/aljoxo/Arisen/blob/main/README.md">Installation</a> ·
   <a href="https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md">Gameplay Guide</a> ·
   <a href="https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md">Changelog</a> ·
   <a href="https://loadorderlibrary.com/lists/arisen-wabbajack">Full Modlist</a> ·
   <a href="FAQ.md">FAQ</a> ·
-  <a href="https://ko-fi.com/aljoxo">Ko-fi</a>]
+  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
 ---
