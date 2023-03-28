@@ -1,5 +1,5 @@
 # Fahluaan
-![](LINK)
+![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp?token=GHSAT0AAAAAAB5KJ2ODMMPNCPT5Q7FC74WIZBCJNCQ)
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
