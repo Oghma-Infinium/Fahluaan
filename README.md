@@ -11,6 +11,8 @@
 
 ---
 
+# Installation
+
 **Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)**
 
 ***Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.***
