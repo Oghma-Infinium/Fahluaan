@@ -1,23 +1,11 @@
-# Fahluaan
-![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp?token=GHSAT0AAAAAAB5KJ2ODMMPNCPT5Q7FC74WIZBCJNCQ)
-
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
----
+![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp)
 
 <p align="center">
   [ <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
-  <a href="LINK">Gameplay Guide</a> |
-  <a href="LINK">Changelog</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Full Modlist</a> |
-  <a href="LINK">FAQ</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
