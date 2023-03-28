@@ -9,6 +9,8 @@
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
+---
+
 ## Table of Contents
   - [Haafingar](#haafingar)
   - [The Rift](#the-rift)
@@ -28,9 +30,9 @@
 
 ## Haafingar
 
-| NPC                     | NPC Replacer      |
+| NPC                     | NPC Replacer                       |
 |-------------------------|------------------------------------|
-| Addvar                  | Northbourne NPCs of Haafingar
+| Addvar                  | Northbourne NPCs of Haafingar      |
 | Aia Arria               | DIbella's Blessing                 |
 | Ahtar                   | Beards of Power                    |
 | Angeline Morrard        | Northbourne NPCs of Haafingar      |
@@ -137,7 +139,7 @@
 
 ## The Rift
 
-| NPC               | NPC Replacer      |
+| NPC                  | NPC Replacer                         |
 |----------------------|--------------------------------------|
 | Aerin                | Northbourne NPCs of the Rift         |
 | Alessandra           | DIbella's Blessing                   |
@@ -269,7 +271,7 @@
 
 ## The Reach
 
-| NPC               | NPC Replacer      |
+| NPC                     | NPC Replacer                         |
 |-------------------------|--------------------------------------|
 | Anwen                   | DIbella's Blessing                   |
 | Anton Virane            | Beards of Power                      |
@@ -391,7 +393,7 @@
 
 ## Hjaalmarch
 
-| NPC               | NPC Replacer      |
+| NPC                  | NPC Replacer                      |
 |----------------------|-----------------------------------|
 | Alva                 | DIbella's Blessing                |
 | Aslfur               | Northbourne NPCs of Hjaalmarch    |
@@ -424,7 +426,7 @@
 
 ## The Pale
 
-| NPC               | NPC Replacer      |
+| NPC                   | NPC Replacer                   |
 |-----------------------|--------------------------------|
 | Aeri                  | DIbella's Blessing             |
 | Ennodius Papius       | Modpocalypse                   |
@@ -474,7 +476,7 @@
 
 ## Falkreath
 
-| NPC               | NPC Replacer      |
+| NPC               | NPC Replacer                       |
 |-------------------|------------------------------------|
 | Vilod             | Northbourne NPCs of Falkreath Hold |
 | Ingrid            | Northbourne NPCs of Falkreath Hold |
@@ -519,7 +521,7 @@
 
 ## Eastmarch
 
-| NPC               | NPC Replacer      |
+| NPC                      | NPC Replacer                         |
 |--------------------------|--------------------------------------|
 | Ganna Uriel              | DIbella's Blessing                   |
 | Dravynea the Stoneweaver | Pandorable's NPCs                    |
@@ -605,7 +607,7 @@
 
 ## Whiterun Hold
 
-| NPC               | NPC Replacer      |
+| NPC                   | NPC Replacer                      |
 |-----------------------|-----------------------------------|
 | Alvor                 | Northbourne NPCs of Whiterun Hold |
 | Sigrid                | DIbella's Blessing                |
@@ -724,7 +726,7 @@
 
 ## Winterhold
 
-| NPC               | NPC Replacer      |
+| NPC               | NPC Replacer                     |
 |-------------------|----------------------------------|
 | Rundi             | Modpocalypse                     |
 | Borvir            | Modpocalypse                     |
@@ -784,7 +786,7 @@
 
 ## Sovngarde
 
-| NPC               | NPC Replacer      |
+| NPC                  | NPC Replacer      |
 |----------------------|-------------------|
 | Gormlaith GoldenHilt | DIbella's Blessing|
 | Felldir the Old      | Pandorable's NPCs |
@@ -801,7 +803,7 @@
 
 ## Misc
 
-| NPC               | NPC Replacer      |
+| NPC                  | NPC Replacer                   |
 |----------------------|--------------------------------|
 | Dro'marash           | Project ja-Kha'jay             |
 | Zaynabi              | Project ja-Kha'jay             |
@@ -820,7 +822,7 @@
 
 ## Dawnguard
 
-| NPC               | NPC Replacer      |
+| NPC                    | NPC Replacer                   |
 |------------------------|--------------------------------|
 | Prelate Sidanyis       | Modpocalypse                   |
 | Serana                 | Serana Re-Imagined             |
@@ -883,7 +885,7 @@
 
 ## Hearthfires
 
-| NPC               | NPC Replacer      |
+| NPC       | NPC Replacer                       |
 |-----------|------------------------------------|
 | Gunjar    | Northbourne NPCs of Falkreath Hold |
 | Rayya     | DIbella's Blessing                 |
@@ -897,7 +899,7 @@
 
 ## Dragonborn
 
-| NPC               | NPC Replacer      |
+| NPC                      | NPC Replacer                   |
 |--------------------------|--------------------------------|
 | Neloth                   | Elevated NPCs                  |
 | Illdari Sarothril        | Pandorable's NPCs              |
@@ -990,7 +992,7 @@
 
 ## Added Followers
 
-| NPC               | NPC Replacer      |
+| NPC           | NPC Replacer                            |
 |---------------|-----------------------------------------|
 | Kaidan        | Kaidan 2 - Visual Overhaul              |
 | Auri          | Auri Lenka Replacer + Sharp Teeth Addon |
