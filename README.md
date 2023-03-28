@@ -1,4 +1,4 @@
-# Arisen
+# Fahluaan
 ![](https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_with_Logo.png)
 
 
@@ -61,7 +61,7 @@
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
 
-# Introduction
+## Introduction
 
 Arisen provides a balanced, modern combat experience, featuring an expansive DAR setup, tweaked SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor. The list focuses and prioritizes exploration, and seeks to reward the player for engaging within the game world. **{I want to rework this}**
 
@@ -71,7 +71,7 @@ You can find a summary of all relevant changes on the [Gameplay Guide](https://g
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-## System Requirements
+### System Requirements
 
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
@@ -90,24 +90,24 @@ Temp Files: ~30 GB (on OS drive)
 
  > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
-# Installation
+## Installation
 
 Installing Arisen is relatively easy and, if you have Nexus Premium and a LoversLab account, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
-## Pre-Installation
+### Pre-Installation
 
 These steps are only required for installing the Modlist for the first time. Additionally, many of these steps may be covered in other modlist installs, for new users I suggest reading through here regardless.
 
-### Installing Microsoft Visual C++ Redistribution Package
+#### Installing Microsoft Visual C++ Redistribution Package
 
  1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
  2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
  3. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
  4. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**
 
-### Pagefile and crash prevention
+#### Pagefile and crash prevention
 
- Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Arisen's size and number of files required to be handled for the list, this step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
+Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Arisen's size and number of files required to be handled for the list, this step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
 
  To set up your pagefile:
  1. Press **Win Key + R**
@@ -126,7 +126,7 @@ These steps are only required for installing the Modlist for the first time. Add
  14. Click *OK*
  15. Restart your computer in order for your new pagefile to take effect.
 
-### Setting Shader Cache Size
+#### Setting Shader Cache Size
  Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following: 
 
  1. Right-click on your desktop and select **NVIDIA Control Panel**
@@ -137,20 +137,20 @@ These steps are only required for installing the Modlist for the first time. Add
  6. You may exit out of the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
-### Steam Setup
+#### Steam Setup
 
  If you have your Steam Library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) and move it elsewhere. Locations such as Desktop, Documents, Downloads, OneDrive, etc. will cause issues with installing and playing the list.
 
-### Game Language
+#### Game Language
 
- While the list can be theoretically played in other languages that are not English (though support will not be offered for other languages), it is necessary for the install that your Skyrim install is set to English.
+While the list can be theoretically played in other languages that are not English (though support will not be offered for other languages), it is necessary for the install that your Skyrim install is set to English.
 
  1. Right click on your Skyrim in Steam
  2. Click *Properties*
  3. Click *Language*
  4. Set the Language to English.
 
-### Installing Creation Club Content
+#### Installing Creation Club Content
 
  If you have never installed the Creation Club Content before, please do the following:
  1. Purchase the *Skyrim Anniversary Edition* Upgrade from Steam. If you do not do this, you can not install or play the list. 
@@ -164,13 +164,13 @@ These steps are only required for installing the Modlist for the first time. Add
  8.  Proceed with the rest of the installation.
 
 
-## Wabbajack Installation
+### Wabbajack Installation
 
-### Installing Wabbajack
+#### Installing Wabbajack
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
 
-### Downloading and Installing Arisen
+#### Downloading and Installing Arisen
 
 Downloading and installing Arisen can take a while depending on your internet connection and computer. To install Arisen, complete the following steps.
 
@@ -199,7 +199,7 @@ Patreon downloads incase they give problems.
 - [Eskyrim Fomod v1.2](https://www.patreon.com/file?h=68233071&i=11449877)
 - [Eskyrim Sprint](https://www.patreon.com/file?h=68233071&i=11449874)
 
-## Problems with installation
+### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -223,13 +223,13 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Unable to download `Skyrim_Default.ini`:
  - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
 
-# Post-Installation and Optional Setup
+## Post-Installation and Optional Setup
 
-## Game Folder
+### Game Folder
 
 Arisen uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
-## Antivirus Exceptions
+### Antivirus Exceptions
 
 Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will very likely need to fully remove them from your PC in order to actually launch the game through MO2.
 
@@ -247,7 +247,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
     - Nemesis Unlimited Behavior Engine.exe (`Path to Modlist\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
     - Synthesis.exe (`Path to Modlist\tools\Synthesis\Synthesis.exe`)
 
-## Widescreen Fixes
+### Widescreen Fixes
 
 Arisen offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
@@ -259,7 +259,7 @@ Arisen offers some mods to provide Ultrawide and Widescreen Support. Under the *
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
-## Controller and Gamepad Setup
+### Controller and Gamepad Setup
 
 Arisen offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
  1. Under the **Gamepad Support** Separator in MO2, activate the mods under it.
@@ -267,14 +267,14 @@ Arisen offers some mods to provide support for individuals who wish to play with
    a. Alternatively you can reset your controlmap in-game.
  3. Refer to the [controlmap](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen_Gamepad_Keymap.png) and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
 
-## Removing Nudity from the list
+### Removing Nudity from the list
 
 Arisen offers the ability for the user to remove nudity and some NSFW elements from the list. In order to set it up correctly please follow these steps:
  1. Under the **Non-Nude** Separator in MO2, activate the mods under it.
  2. You're done. It's that easy.
  > Please note that there is some clipping on some larger bodyslide presets with the underwear that is added by this addition. I will make 0 attempts to fix these and please do not bother the original mod author about it.
 
-## Performance Options
+### Performance Options
 
 **WIP**
 
@@ -286,9 +286,9 @@ Arisen offers the ability for the user to remove nudity and some NSFW elements f
  - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md).
  - To troubleshoot any issues you may be having, click [here](discord.gg/WakingDreams).
 
-# Playing the List
+## Playing the List
 
-## Starting the Game
+### Starting the Game
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
  - If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
@@ -312,7 +312,7 @@ Arisen offers the ability for the user to remove nudity and some NSFW elements f
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen%20Standard%20Keybinds%201.4.png)
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen_Gamepad_Keymap.png)
 
-## In-Game MCM options
+### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
      - Dragons by default are set to appear after 7 to 21 days, and will appear at word walls before appearing in the wild. If you wish to make them spawn faster/slower/instantly or want to make them spawn based on level instead, you can change it here.
@@ -333,16 +333,16 @@ Arisen offers the ability for the user to remove nudity and some NSFW elements f
  - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default: `G`).
  - **True Directional Movement**: Change your *Target Lock* keybind here.
 
-## Note about Survival Mode
+### Note about Survival Mode
 
 Survival Mode is **NOT** enabled by default, to do so you must do it in the in-game settings menu accessed via the System Page.
 Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you would like to have Fast Travel active while playing with Survival Mode, navigate to the `SurvivalModeImproved.ini` located at `[Path to Modlist]\mods\Survival Mode Improved - SKSE\SKSE\Plugins` and change the line `bDisableFastTravel=1` to `bDisableFastTravel=0`.
 
-## Note For Content Creators
+### Note For Content Creators
 
 [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) includes some songs from Nir Shor which are not allowed to be played on Twitch or YouTube due to DMCA rules. The modpage has a [Content Creator Version](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=277975&nmm=1&game_id=1704) which I suggest you download if you wish to play the list on stream or upload videos about it in order to avoid copyright strikes. If you install this patch, make sure to disable the `Yet Another Music Merge - Chapter II Patch` in the left pane of MO2. This should be safe to do mid game without any issues.
 
-# Updating the modlist
+## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then check the Changelog [here](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md).
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
@@ -351,9 +351,40 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-# Tweaking the Game Settings
+### Tweaking the Game Settings
 
-## BethINI
+#### Performance INI Options
+
+Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Arisen - Default Profile`.
+
+`**Skyrim.ini**
+[Display]
+fSAOIntensity=15
+fSAOExpFactor=0.220
+fSAORadius=800.0000
+fSAOBias=0.5000
+fSAOValueDiffFactor=0.3000`
+
+Some additional edits can be made in the **ENBSeries.ini** found in the `Stock Game` folder (`[Path to Modlist]\Stock Game`)
+
+`**ENBSeries.ini**
+[EFFECT]
+EnableDepthOfField=false
+EnableAmbientOcclusion=false
+EnableDetailedShadow=false`
+
+`[SSAO_GAME]
+AOAmount=1.5
+AOAmountInterior=0.5
+ColorfulMix=true`
+
+`[COMPLEXFIRELIGHTS]
+EnableBigRange=false`
+
+`[COMPLEXPARTICLELIGHTS]
+EnableBigRange=false`
+
+#### BethINI
 
 Before running BethINI please make sure that your paths are correctly set. I also suggest backing up the original `.ini` files just in case. 
 
@@ -385,14 +416,14 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 > - Uncheck `Complex Grass Collision`
 > - Uncheck `Complex Grass`
 
-# Removing the Modlist
-Simply delete the folder. Congratulations, you have uninstalled Arisen.
+## Removing the Modlist
+Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
 
-# Contact
+## Contact
 
 Please check the [FAQ](NEEDS LINK) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
-# Credits and Thanks
+## Credits and Thanks
 
 - _YOU_ for reading this.
 - Bingus for ENB tweaking, asset editing, mod page screenshots, and branding art for Arisen (Logo, Banner, and Splash).
