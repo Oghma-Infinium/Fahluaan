@@ -4,7 +4,7 @@
   [ <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="LINK">Full Modlist</a> |
+  <a href="LINK">Modlist</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
