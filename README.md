@@ -1,5 +1,5 @@
 # Fahluaan
-![](https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_with_Logo.png)
+![](LINK)
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -13,11 +13,11 @@
 ---
 
 <p align="center">
-  [ <a href="https://github.com/aljoxo/Arisen/blob/main/README.md">Installation</a> |
-  <a href="https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md">Gameplay Guide</a> |
-  <a href="https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md">Changelog</a> |
-  <a href="https://loadorderlibrary.com/lists/arisen-wabbajack">Full Modlist</a> |
-  <a href="FAQ.md">FAQ</a> |
+  [ <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
+  <a href="LINK">Gameplay Guide</a> |
+  <a href="LINK">Changelog</a> |
+  <a href="LINK">Full Modlist</a> |
+  <a href="LINK">FAQ</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
@@ -25,7 +25,7 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)**
 
-***Arisen requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.***
+***Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.***
 
 # Contents
   - [Introduction](#Introduction)
@@ -41,7 +41,7 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Arisen](#downloading-and-installing-arisen)
+      - [Downloading and Installing Fahluaan](#downloading-and-installing-Fahluaan)
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
@@ -63,11 +63,11 @@
 
 ## Introduction
 
-Arisen provides a balanced, modern combat experience, featuring an expansive DAR setup, tweaked SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor. The list focuses and prioritizes exploration, and seeks to reward the player for engaging within the game world. **{I want to rework this}**
+Fahluaan is a comprehensive modlist that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/arisen-wabbajack).
+The full modlist can be viewed [here](LINK).
 
-You can find a summary of all relevant changes on the [Gameplay Guide](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md).
+You can find a summary of all relevant changes on the [Gameplay Guide](LINK).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -92,7 +92,7 @@ Temp Files: ~30 GB (on OS drive)
 
 ## Installation
 
-Installing Arisen is relatively easy and, if you have Nexus Premium and a LoversLab account, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing Fahluaan is relatively easy and, if you have Nexus Premium and a LoversLab account, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
@@ -107,7 +107,7 @@ These steps are only required for installing the Modlist for the first time. Add
 
 #### Pagefile and crash prevention
 
-Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Arisen's size and number of files required to be handled for the list, this step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
+Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Fahluaan's size and number of files required to be handled for the list, this step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
 
  To set up your pagefile:
  1. Press **Win Key + R**
@@ -170,13 +170,13 @@ While the list can be theoretically played in other languages that are not Engli
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing Arisen
+#### Downloading and Installing Fahluaan
 
-Downloading and installing Arisen can take a while depending on your internet connection and computer. To install Arisen, complete the following steps.
+Downloading and installing Fahluaan can take a while depending on your internet connection and computer. To install Fahluaan, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
-2. Press the download button on Arisen and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Arisen. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+2. Press the download button on Fahluaan and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\Fahluaan. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
 4. Press the play button to begin.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
@@ -227,7 +227,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-Arisen uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+Fahluaan uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ### Antivirus Exceptions
 
@@ -249,27 +249,27 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-Arisen offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
 **Some additional tweaking for visual consistency:**
  1. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
     a. PositionX=-0.127  
-![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
+![](IMG)
  2. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
- ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
- ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
+ ![](IMG)
+ ![](IMG)
 
 ### Controller and Gamepad Setup
 
-Arisen offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
+Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
  1. Under the **Gamepad Support** Separator in MO2, activate the mods under it.
  2. Go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
    a. Alternatively you can reset your controlmap in-game.
- 3. Refer to the [controlmap](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen_Gamepad_Keymap.png) and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
+ 3. Refer to the [controlmap](LINK) and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
 
 ### Removing Nudity from the list
 
-Arisen offers the ability for the user to remove nudity and some NSFW elements from the list. In order to set it up correctly please follow these steps:
+Fahluaan offers the ability for the user to remove nudity and some NSFW elements from the list. In order to set it up correctly please follow these steps:
  1. Under the **Non-Nude** Separator in MO2, activate the mods under it.
  2. You're done. It's that easy.
  > Please note that there is some clipping on some larger bodyslide presets with the underwear that is added by this addition. I will make 0 attempts to fix these and please do not bother the original mod author about it.
@@ -280,10 +280,9 @@ Arisen offers the ability for the user to remove nudity and some NSFW elements f
 
 ## Documentation
 
- - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md).
- - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Animation%20Documentation.md).
- - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Graphics%20Documentation.md).
- - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md).
+ - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](LINK).
+ - To know what graphic mods are used in the list, click [here](LINK).
+ - To know what NPC Replacers used by this list, click [here](LINK).
  - To troubleshoot any issues you may be having, click [here](discord.gg/WakingDreams).
 
 ## Playing the List
@@ -291,14 +290,10 @@ Arisen offers the ability for the user to remove nudity and some NSFW elements f
 ### Starting the Game
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
- - If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
 
- ![](https://cdn.discordapp.com/attachments/1008052853002219683/1020222827938463764/RegistryKey.png)
-
- 
- - Launch the "Arise My Champion!" Executable in MO2
- - Arisen comes with a start save by default, so when you load into the main menu, choose "Continue".
- - Arisen uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as our alternate start mod.
+ - Launch the "Fahluaan" Executable in MO2
+ - Fahluaan comes with a start save by default, so when you load into the main menu, choose "Continue".
+ - Fahluaan uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as our alternate start mod.
     - In order to start the character creation process hit **Enter**.
        - Note: If you do not press enter then you will simply load into the start cell unable to move or do anything.
     - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM and customize your Standing Stone, whether or not you're a vampire/werewolf, equipment, spells, and starting location. Do note that after changing your loadout and starting equipment via the MCM, you must hit **Enter** again and select the **Swap Gear** option for these changes to take effect.
@@ -306,32 +301,15 @@ Arisen offers the ability for the user to remove nudity and some NSFW elements f
  - For **advanced users**, if you are starting a NEW GAME instead of pressing CONTINUE from the main menu, do the following steps:
      1. Wait about **2 to 3 minutes** for every mod and script to initialize.
      2. Open the Mod Configuration Menu at the System Page, and navigate to the **MCM Recorder**.
-     3. Run the Arisen Start Save MCM Recorder.    
+     3. Run the Fahluaan Start Save MCM Recorder.    
      - There is no reason to start a NEW GAME over using the included start save, unless you need to do so for the sake of modifications made to the list. Failing to run the MCM Recorder will leave out many customizations made and will likely give you a very different experience to what is intended.
  - Read over the Control map for your preferred input.
-![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen%20Standard%20Keybinds%201.4.png)
-![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen_Gamepad_Keymap.png)
+![](IMG)
+![](IMG)
 
 ### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
-     - Dragons by default are set to appear after 7 to 21 days, and will appear at word walls before appearing in the wild. If you wish to make them spawn faster/slower/instantly or want to make them spawn based on level instead, you can change it here.
- - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
- - **AutoBody AE**: Change your *AutoBody Menu* keybind here. (Default: `;`)
- - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
- - **Dodge Framework**: Change your *dodge* keybind here (Default: `L Alt`).
- - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default: `B`).
- - **Improved Alternate Conversation Camera**: Tweak the dialogue camera here.
-     - Notable settings include: Switch Target (for Witcher-Style Dialogue Camera), Force Third/First Person, Camera Offsets.
- - **Lucien**: Can choose a name or nickname for Lucien to call you by (if available).
- - **Pronouns**: If you selected They/Them, you must go into the MCM and set up Fallback pronouns. If you set Multiple, you can select the % chance of pronouns.
- - **Seiro's Hotkeys**: Set up additional hotkeys here.
- - **SmoothCam**: If you are unsatisfied with the base SmoothCam preset used, you can choose from some others here. You can change your shoulder swap keybind here. (Default: `Mouse4`).
- - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
-    - Please note that enabling Sunhelm will **require you to sleep** each time you want to level up.
-    - I suggest putting the "Widget Display Type" to *Alpha Based*
- - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default: `G`).
- - **True Directional Movement**: Change your *Target Lock* keybind here.
 
 ### Note about Survival Mode
 
@@ -344,7 +322,7 @@ Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you
 
 ## Updating the modlist
 
-Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then check the Changelog [here](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md).
+Before updating, please check the [changelog](LINK) and back up your saves. You may need to start a new game after certain updates.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
@@ -355,7 +333,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 #### Performance INI Options
 
-Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Arisen - Default Profile`.
+Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Fahluaan - Default Profile`.
 
 `**Skyrim.ini**
 [Display]
@@ -390,10 +368,10 @@ Before running BethINI please make sure that your paths are correctly set. I als
 
  - **Game**: `Skyrim Special Edition`
  - **Game Path**: `[Path to Modlist]\Stock Game`
-   - example: `F:\Arisen\Stock Game`
+   - example: `F:\Fahluaan\Stock Game`
  - **Mod Organizer**: `[Path to Modlist]` 
-   - example: `F:\Arisen`
- - **INI Path**: `Mod Organizer > Arisen - Default Profile`
+   - example: `F:\Fahluaan`
+ - **INI Path**: `Mod Organizer > Fahluaan - Default Profile`
 
 To get some more FPS, tweak the following value in the detail section in BethINI.
 
@@ -421,17 +399,17 @@ Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
 
 ## Contact
 
-Please check the [FAQ](NEEDS LINK) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [FAQ](LINK) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Bingus for ENB tweaking, asset editing, mod page screenshots, and branding art for Arisen (Logo, Banner, and Splash).
-- Ylikollikas for a significant amount of help with the original versions of Arisen and the Special Attacks System.
-- Curly for Ascensio as it helped me a lot when originally starting development.
+- Bingus for ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
+- Ylikollikas for the original Special Attack system that was used in Arisen.
+- Curly for the original iteration of Ascensio that provided me a baseline to work off of.
 - iAmMe for helping me with the CK, documentation, and general WJ related things.
 - Chanka and fray for their help with moderation, playtesting, and documentation.
-- AnnieDOS, Felivarth, Izol, Maelstrom, Roxiie, SamsyTheUnicorn, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
+-  A Helping Hand, AnnieDOS, Felivarth, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) and Cacophony for their wonderful community that inspired me to start modding more.
 - JustThatKing, jdsmith2816, and Total for their feedback on graphics and other things.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
