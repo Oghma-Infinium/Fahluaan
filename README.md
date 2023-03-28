@@ -6,6 +6,7 @@
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Full Modlist</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
@@ -20,8 +21,7 @@
 # Contents
   - [Introduction](#Introduction)
     - [System Requirements](#system-requirements)
-    - [Setting Up Pagefile](#setting-up-pagefile)
-  - [Installation](#installation)
+  - [Installation](#installation-1)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistribution Package](#installing-microsoft-visual-c-redistribution-package)
       - [Pagefile and crash prevention](#pagefile-and-crash-prevention)
@@ -82,7 +82,7 @@ Temp Files: ~30 GB (on OS drive)
 
 ## Installation
 
-Installing Fahluaan is relatively easy and, if you have Nexus Premium and a LoversLab account, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing Fahluaan is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
@@ -133,7 +133,7 @@ Larger Skyrim modlists require a significant amount of memory, running out of me
 
 #### Game Language
 
-While the list can be theoretically played in other languages that are not English (though support will not be offered for other languages), it is necessary for the install that your Skyrim install is set to English.
+The English Steam version of Skyrim is the only supported version. I understand that this may be frustrating for non-English speaking users or users with the GOG/Bethesda.net versions, but due to the core file differences between the different versions, I am only able to support one game version.
 
  1. Right click on your Skyrim in Steam
  2. Click *Properties*
@@ -233,9 +233,9 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  7. Click the "Add an exclusion" button at the top and choose "Folder".
  8. Navigate to your Install folder for the list and click "Select Folder".
  9. **(OPTIONAL)** You can repeat these steps for the other executables:
-    - ModOrganizer.exe (`Path to Modlist\ModOrganizer.exe`)
-    - Nemesis Unlimited Behavior Engine.exe (`Path to Modlist\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
-    - Synthesis.exe (`Path to Modlist\tools\Synthesis\Synthesis.exe`)
+    - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
+    - Nemesis Unlimited Behavior Engine.exe (`[Path to Modlist]\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
+    - Synthesis.exe (`[Path to Modlist]\tools\Synthesis\Synthesis.exe`)
 
 ### Widescreen Fixes
 
@@ -263,17 +263,6 @@ Fahluaan offers the ability for the user to remove nudity and some NSFW elements
  1. Under the **Non-Nude** Separator in MO2, activate the mods under it.
  2. You're done. It's that easy.
  > Please note that there is some clipping on some larger bodyslide presets with the underwear that is added by this addition. I will make 0 attempts to fix these and please do not bother the original mod author about it.
-
-### Performance Options
-
-**WIP**
-
-## Documentation
-
- - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](LINK).
- - To know what graphic mods are used in the list, click [here](LINK).
- - To know what NPC Replacers used by this list, click [here](LINK).
- - To troubleshoot any issues you may be having, click [here](discord.gg/WakingDreams).
 
 ## Playing the List
 

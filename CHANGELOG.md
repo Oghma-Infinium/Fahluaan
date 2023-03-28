@@ -6,6 +6,7 @@
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Full Modlist</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
@@ -168,7 +169,6 @@
  - Necromantic Grimoire - Mysticism Rebalance
  - CC Zombies - Adamant Rebalance
  - Tragedian's Interesting NPCs - 3DNPC Followers Reimagined
- - Taunt Your Enemies - Taunting Matters - Settings Loader
  - Mists of Tamriel - Settings Loader
  - Hood Plus Hair for Serana Re-Imagined
  - SmoothCam - Sepia
@@ -584,14 +584,11 @@
  - Simonrim I4 Addons
  - GG's High Hrothgar fixed stairs
  - Natural Waterfalls - Majestic Mountains Patch
- - Natural Waterfalls Fish Patch
  - Far Object LOD Improvement Project SSE
  - HD LODs Textures SE
  - Elven Ears for Breton NPCs
  - WeldingMans Smelter with ENB Light
  - Dual Wield Parrying SKSE
- - Enhanced Landscapes - Mountains and Cliffs
- - Enhanced Landscapes - Mountains and Cliffs - Misc Patches
  - Vampires have Claws
  - A Cat's Life
  - Relationship Dialogue Overhaul - Update and MCM
@@ -1294,9 +1291,11 @@
     - Reason: Compatibility issues with Precision Creatures.
  - Taunt Your Enemies - Taunting Matters
     - Reason: Abuseable and didn't add much to gameplay.
-       - Taunt Your Enemies - Taunting Matters - Settings Loader
  - Serio's Cycle Hotkeys
     - Reason: Unneeded.
+ - Immersive Fallen Trees SSE
+    - Reason: . . .
+       - Immersive Fallen Trees Patch
     
 ### Dev Notes
 
