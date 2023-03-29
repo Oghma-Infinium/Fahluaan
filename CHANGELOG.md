@@ -23,8 +23,7 @@
 
  - This changelog should provide a general idea of every mod addition/removal from Arisen to Fahluaan.
 
-<added> 
-
+<Added> 
  - Aetherius - A Race Overhaul
  - Hype's Farmhouse Door - Skyland - CleverCharff - Shubui - Vanilla color palette
  - Ryn's Standing Stones Patch Collection
@@ -605,11 +604,9 @@
  - Dave's Lilypads
  - Ivy Replacer by Pfuscher
  - Reach Bush Be Gone - Base Object Swapper
+</Added>
 
-</added>
-
-<removed>
-
+<Removed>
  - Legacy of the Dragonborn
     - Ahzidal's Armor Set - My Version - LOTD
     - Visage of Mzund - My Version - LOTD
@@ -1308,5 +1305,4 @@
        - Immersive Fallen Trees Patch
  - Happy Little Shrubes
     - Reason: Visual Consistency.
-
-</removed>
+</Removed>
