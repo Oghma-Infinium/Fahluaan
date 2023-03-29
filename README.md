@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp)
 
 <p align="center">
-  [ <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820">Nexus</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Modlist</a> |
@@ -386,13 +387,15 @@ Please check the [FAQ](LINK) first if you have any issues. **PLEASE DO NOT DM ME
 - Bingus for ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
 - Ylikollikas for the original Special Attack system that was used in Arisen.
 - Curly for the original iteration of Ascensio that provided me a baseline to work off of.
-- iAmMe for helping me with the CK, documentation, and general WJ related things.
+- iAmMe27 for helping me with the CK, documentation, and general WJ related things.
+- Lively for his GuideBook Plugin which I used as a template for the in-game readme.
 - Chanka and fray for their help with moderation, playtesting, and documentation.
 -  A Helping Hand, AnnieDOS, Felivarth, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) and Cacophony for their wonderful community that inspired me to start modding more.
 - JustThatKing, jdsmith2816, and Total for their feedback on graphics and other things.
-- Noggog for Mutagen and the xEdit team for xEdit and their tools.
+- Bethesda Game Studios.
+- ElminsterAU and the xEdit team
+- Noggog for Mutagen and Synthesis.
 - Halgari and the WJ Team for this amazing platform.
 - [Cosmofujia](https://www.patreon.com/fujiacosmo) for a significant amount of high quality Weapon Models.
 - Aelarr and Anreme for permissions to use some custom mods from The Owl Archives server.
-- Lively for his GuideBook Plugin which I used as a template for the in-game readme.

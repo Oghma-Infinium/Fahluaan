@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp)
 
 <p align="center">
-  [ <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820">Nexus</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Modlist</a> |
@@ -18,7 +19,11 @@
 
 ## 0.1.0
 
-### Added 
+### Info
+
+ - This changelog should provide a general idea of every mod addition/removal from Arisen to Fahluaan.
+
+<added> 
 
  - Aetherius - A Race Overhaul
  - Hype's Farmhouse Door - Skyland - CleverCharff - Shubui - Vanilla color palette
@@ -597,8 +602,13 @@
  - Forgotten Herbs
  - A Canticle Tree
  - Wolf Armors and Weapons Retexture SE
+ - Dave's Lilypads
+ - Ivy Replacer by Pfuscher
+ - Reach Bush Be Gone - Base Object Swapper
 
-### Removed
+</added>
+
+<removed>
 
  - Legacy of the Dragonborn
     - Ahzidal's Armor Set - My Version - LOTD
@@ -1296,8 +1306,7 @@
  - Immersive Fallen Trees SSE
     - Reason: . . .
        - Immersive Fallen Trees Patch
-    
-### Dev Notes
+ - Happy Little Shrubes
+    - Reason: Visual Consistency.
 
- - Dev Notes and Reasons will not be provided in future versions of this changelog, I maintained them here for sake of consistency with previous Arisen changelogs.
- - This changelog should provide a general idea of every mod addition/removal from Arisen to Fahluaan.
+</removed>

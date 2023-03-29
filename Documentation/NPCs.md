@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp)
 
 <p align="center">
-  [ <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820">Nexus</a> |
+  <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Modlist</a> |
