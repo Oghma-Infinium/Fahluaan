@@ -1,13 +1,13 @@
-![](https://raw.githubusercontent.com/aljoxo/Fahluaan/main/images/Banner.webp)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Banner.webp)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820">Nexus</a> |
-  <a href="https://github.com/aljoxo/Fahluaan/blob/main/README.md">Installation</a> |
-  <a href="https://github.com/aljoxo/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-  <a href="https://github.com/aljoxo/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="LINK">Modlist</a> |
-  <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
-  <a href="https://github.com/aljoxo/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
 </p>
 
@@ -40,7 +40,6 @@
     - [Widescreen Fixes](#widescreen-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
     - [Removing Nudity from the list](#removing-nudity-from-the-list)
-    - [Documentation](#documentation)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
@@ -58,9 +57,9 @@ Fahluaan is a comprehensive modlist that focuses on bringing the combat and game
 
 The full modlist can be viewed [here](LINK).
 
-You can find a summary of all relevant changes on the [Gameplay Guide](LINK).
+You can find a summary of all relevant changes on the [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md).
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][https://creativecommons.org/licenses/by-nc-sa/4.0/].
 
 ### System Requirements
 
@@ -159,7 +158,7 @@ The English Steam version of Skyrim is the only supported version. I understand 
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
+Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
 
 #### Downloading and Installing Fahluaan
 
@@ -302,7 +301,7 @@ Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you
 
 ## Updating the modlist
 
-Before updating, please check the [changelog](LINK) and back up your saves. You may need to start a new game after certain updates.
+Before updating, please check the [changelog](https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
@@ -315,32 +314,32 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Fahluaan - Default Profile`.
 
-`**Skyrim.ini**
-[Display]
-fSAOIntensity=15
-fSAOExpFactor=0.220
-fSAORadius=800.0000
-fSAOBias=0.5000
-fSAOValueDiffFactor=0.3000`
+`**Skyrim.ini**  
+[Display]  
+fSAOIntensity=15  
+fSAOExpFactor=0.220  
+fSAORadius=800.0000  
+fSAOBias=0.5000  
+fSAOValueDiffFactor=0.3000`  
 
 Some additional edits can be made in the **ENBSeries.ini** found in the `Stock Game` folder (`[Path to Modlist]\Stock Game`)
 
-`**ENBSeries.ini**
-[EFFECT]
-EnableDepthOfField=false
-EnableAmbientOcclusion=false
-EnableDetailedShadow=false`
+`**ENBSeries.ini**  
+[EFFECT]  
+EnableDepthOfField=false  
+EnableAmbientOcclusion=false  
+EnableDetailedShadow=false`  
 
-`[SSAO_GAME]
-AOAmount=1.5
-AOAmountInterior=0.5
-ColorfulMix=true`
+`[SSAO_GAME]  
+AOAmount=1.5  
+AOAmountInterior=0.5  
+ColorfulMix=true`  
 
-`[COMPLEXFIRELIGHTS]
-EnableBigRange=false`
+`[COMPLEXFIRELIGHTS]  
+EnableBigRange=false`  
 
-`[COMPLEXPARTICLELIGHTS]
-EnableBigRange=false`
+`[COMPLEXPARTICLELIGHTS]  
+EnableBigRange=false`  
 
 #### BethINI
 
@@ -379,7 +378,7 @@ Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
 
 ## Contact
 
-Please check the [FAQ](LINK) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
