@@ -28,6 +28,7 @@
 ### Added
 
  - Aetherius - A Race Overhaul
+ - Lawless - A Bandit Overhaul
  - Hype's Farmhouse Door - Skyland - CleverCharff - Shubui - Vanilla color palette
  - Ryn's Standing Stones Patch Collection
  - Ahzidal's Armor Set - My Version
@@ -317,6 +318,7 @@
  - ElSopa - Potions Redone - My patches SE
  - Sleeping Tree Sap - My version SE
  - Vaermina's Torpor - My version SE
+ - Blood Potion - My version SE
  - Saadia - High Poly Replacer
  - Ebony Armors and Weapons Retexture SE
  - Parallax Spell Impacts
@@ -511,8 +513,6 @@
  - Jewels of the Nords - Nordic Jewelry Reintegration
  - Wyrmstooth - Creation Club Ingredient Patches
  - Stellaris
- - Animated Potions
- - Animated Potions - Settings Loader
  - FYX - The first Rampart and Watchtower of Solitude
  - Durnehviir Resurrected
  - Weapons Armor Clothing and Clutter Fixes
@@ -574,7 +574,6 @@
  - CBBE - 3BA Vanilla Armors - No Rim Lighting
  - Natural Waterfalls
  - Rodryk's DB Mesh and Collision Optimization
- - Skyrim's Paraglider Art Resources
  - Axarien's Kaidan NPCs
  - Gore
  - Kaidan 2 - Visual Overhaul
@@ -607,6 +606,8 @@
  - Dave's Lilypads
  - Ivy Replacer by Pfuscher
  - Reach Bush Be Gone - Base Object Swapper
+ - Carved Nordic Armors and Weapons Retexture SE
+ - Sit on Stuff
 
 ### Removed
 
@@ -1308,4 +1309,16 @@
        - Immersive Fallen Trees Patch
  - Happy Little Shrubes
     - Reason: Visual Consistency.
+ - Phoenix Compendium
+    - Reason: Sound Quality was really hit or miss.
+       - Enigma Series Compatibility Patches (Official)
+ - Smaller Potion of Blood
+    - Reason: Redundant.
+       - Smaller and Better Blood Potion
+ - Skyrim's Paraglider
+    - Reason: I feel like the Paraglider trivialized most exploration a little bit too much, especially considering how easy it is to get and how early you are able to get it.
+       - Skyrim's Paraglider Anniversary Edition Update
+       - Paraglider Auto-Equip Tarhiel's Gale
+       - Skyrim's Paraglider - Stamina Drain
+       - Skyrim's Paraglider - Tarhiel's Gale Cooldown
 </Details>

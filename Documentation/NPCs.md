@@ -367,7 +367,7 @@
 | Orchendor               | Modpocalypse                         |
 | Kaie                    | DIbella's Blessing                   |
 | Moth gro-Bagol          | Pandorable's NPCs                    |
-| Atar                    | Modpocalypse                         |
+| Atar                    | Markarth Side Refine                 |
 | Adeber                  | Markarth Side Refine                 |
 | Willem                  | Markarth Side Refine                 |
 | Emmanuel Admand         | Modpocalypse                         |
