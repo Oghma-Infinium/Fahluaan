@@ -250,6 +250,7 @@
  - At Your Own Pace - Misc
  - In the Shadow of the Crown - No Stone Unturned Alternative
  - KG's Vanilla-esque Farmhouse Walls with Parallax
+ - KG's Farmhouse Walls - Dave's Polar Peaks Recolor
  - Rain Extinguishes Fires
  - Seeking Out Sneaks - Improved AI Search Behavior
  - Fishing - Reduced Cut
@@ -611,6 +612,8 @@
  - Ancient Amidianborn Dwarven Armory
  - The Dragon Cult - Expanded
  - Polar Peaks
+ - INDIGO
+ - Icy Windhelm
 
 ### Removed
 

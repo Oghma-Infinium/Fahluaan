@@ -75,3 +75,4 @@ Solution(s)
 ## [Insert Issue with the Civil War]
 Solution(s)
  1. The civil war is broken in vanilla. I generally suggest not doing it.
+ 2. Fast traveling after battles can cause issues as the game tends to get stuck in a perpetually battle state.
