@@ -467,6 +467,7 @@
  - Better Combat Escape - NG
  - Leviathan Animations II - Greatsword Low Stance
  - Sexier Vanilla - Guards (Plus Sexier Requiem - Guards)
+ - Sexier Vanilla - Guards - Immersion Tweaks
  - East Empire Company Armor
  - East Empire Company Armor - HIMBO Refit
  - Mrf's Solitude

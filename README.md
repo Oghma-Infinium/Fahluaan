@@ -39,7 +39,8 @@
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Widescreen Fixes](#widescreen-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
-    - [Removing Nudity from the list](#removing-nudity-from-the-list)
+    - [Optional Tweaks](#optional-tweaks)
+    - [Performance](#performance)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
@@ -255,12 +256,20 @@ Fahluaan offers some mods to provide support for individuals who wish to play wi
  1. Under the **Gamepad Support** Separator in MO2, activate the mods under it.
  2. Refer to the [controlmap](LINK) and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
 
-### Removing Nudity from the list
+### Optional Tweaks
 
-Fahluaan offers the ability for the user to remove nudity and some NSFW elements from the list. In order to set it up correctly please follow these steps:
- 1. Under the **Non-Nude** Separator in MO2, activate the mods under it.
- 2. You're done. It's that easy.
- > Please note that there is some clipping on some larger bodyslide presets with the underwear that is added by this addition. I will make 0 attempts to fix these and please do not bother the original mod author about it.
+This section will cover the following Optional Tweaks that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
+ 1. **Blade and Blunt - Vanilla Difficult Modifiers**: Reverts difficulty multipliers to Vanilla. Can load anywhere.
+ 2. **Improved Alternate Conversation Camera**: Can be safely enabled/disabled mid-save. Enabled by default.
+ 3. **QuickLoot RE - Disable in Combat**: A custom `.toml` config that disables QuickLoot RE from popping up while in combat. Enabled by default.
+ 4. **DWC Player Werewolf Replacer**: Textures for the player's werewolf model, reinstall the mod to choose the ones that best fit your taste.
+ 5. **Fahluaan - Arachnophobia Patch**: Disables many spiders and other potentially triggering creatures throughout the game. Load below Synthesis patches.
+ 6. **Yet Another Music Merge - Content Creator Version and Music Patches for Content Creators**: If this is relevant to you, you should probably enable this.
+ 7. **Dark Souls Undressed and NeverNude Body**: Enable these two mods in order to disable any nudity in the list.
+
+ ### Performance
+
+ Supported performance options for Fahluaan.
 
 ## Playing the List
 
@@ -280,9 +289,6 @@ Fahluaan offers the ability for the user to remove nudity and some NSFW elements
      2. Open the Mod Configuration Menu at the System Page, and navigate to the **MCM Recorder**.
      3. Run the Fahluaan Start Save MCM Recorder.    
      - There is no reason to start a NEW GAME over using the included start save, unless you need to do so for the sake of modifications made to the list. Failing to run the MCM Recorder will leave out many customizations made and will likely give you a very different experience to what is intended.
- - Read over the Control map for your preferred input.
-![](IMG)
-![](IMG)
 
 ### In-Game MCM options
 
@@ -318,26 +324,7 @@ fSAOIntensity=15
 fSAOExpFactor=0.220  
 fSAORadius=800.0000  
 fSAOBias=0.5000  
-fSAOValueDiffFactor=0.3000`  
-
-Some additional edits can be made in the **ENBSeries.ini** found in the `Stock Game` folder (`[Path to Modlist]\Stock Game`)
-
-`**ENBSeries.ini**  
-[EFFECT]  
-EnableDepthOfField=false  
-EnableAmbientOcclusion=false  
-EnableDetailedShadow=false`  
-
-`[SSAO_GAME]  
-AOAmount=1.5  
-AOAmountInterior=0.5  
-ColorfulMix=true`  
-
-`[COMPLEXFIRELIGHTS]  
-EnableBigRange=false`  
-
-`[COMPLEXPARTICLELIGHTS]  
-EnableBigRange=false`  
+fSAOValueDiffFactor=0.3000` 
 
 #### BethINI
 
@@ -356,20 +343,6 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
     - Do make note that if you remove shadows you must also disable the [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133) mod in the ENB Menu.
-
-If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
-
-To quote her, here is a short answer to improve performance with an ENB turned on.
-> #### How can I improve performance?
-> - Uncheck `EnableLens`.
-> - Uncheck `EnableBloom`.
-> - Uncheck `EnableDepthofField`.
-> - Uncheck `EnableTessellation` in `WATER`.
-> - Uncheck `ComplexFireLights` and `ComplexFireLights` OR
->   - Uncheck `EnableBigRange` in these two settings.
-> - Uncheck `Detailed Shadows`
-> - Uncheck `Complex Grass Collision`
-> - Uncheck `Complex Grass`
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
