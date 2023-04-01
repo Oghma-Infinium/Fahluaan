@@ -5,7 +5,7 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="LINK">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
@@ -14,6 +14,9 @@
 ---
 
 # FAQ
+
+## Q: What mod is it that makes favorited items/potions/quest items show on my character?
+A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `F5` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
 
 ## Q: I can't level up, what do I do?  
 A: You likely have Survival Mode enabled, go sleep in a bed.

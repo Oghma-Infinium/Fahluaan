@@ -5,7 +5,7 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="LINK">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
@@ -217,7 +217,6 @@
  - Interesting Follower Requirements for Interesting NPCs
  - Dynamic Mercenary Fees
  - Sleek Wolf Armor - Replacer and Standalone
- - Paragliding Vampire Werewolf Patch
  - Insightful Leveling
  - ConsolePlusPlus
  - 4thunknown's Dremora Markynaz 3BA Bodyslide
@@ -346,7 +345,6 @@
  - Daedric Armors and Weapons Retexture SE
  - Cale's Patch Compendium
  - SpiderWIP
- - Majestic Mountains - Simplicity of Snow Patch
  - Environs - Whiterun Watchtower Doesn't Stay Broken
  - Environs - The Shrines of Talos
  - Mythic Dawn armor SE
@@ -414,7 +412,6 @@
  - Cooking Categories Improvements (Constructible Object Custom Keyword System - Fixes)
  - Outlandish Cultist Robes
  - Iron Armors and Weapons Retexture SE
- - CC's HQ Mines Redone
  - FYX - Smooth Wells - Alternate Textures Patch
  - Vampire Lines Expansion
  - Ryn's Dragon Mounds Collection
@@ -451,7 +448,6 @@
  - aMidianBorn Armor Variants Lite - Patches
  - Cathedral - 3D Dragons Tongue with ENB Light and Glow Map
  - No more Reach Mountain Moss
- - Northern Grass SE
  - Dark Brotherhood Rising Revengeance
  - Vestige - An Artifact Overhaul
  - White Phial - Tweaks and Enhancements
@@ -607,7 +603,13 @@
  - Ivy Replacer by Pfuscher
  - Reach Bush Be Gone - Base Object Swapper
  - Carved Nordic Armors and Weapons Retexture SE
+ - Skyrim Remastered - Caves
  - Sit on Stuff
+ - Environs - Riften Warehouse
+ - Metallurgy - Ingots Ore and Veins HD
+ - Ancient Amidianborn Dwarven Armory
+ - The Dragon Cult - Expanded
+ - Polar Peaks
 
 ### Removed
 
@@ -1105,9 +1107,6 @@
        - Great City of Dragon Bridge - CFTO Ferry Integration
  - Scamps SE
     - Reason: Enemies felt out of place and summons posed a tedious balance issue.
- - Ogres SE
-    - Reason: Enemies felt out of place and didn't add much to the game.
-       - 4thUnknown's Ogre retexture
  - SunHelm Survival and needs
     - Reason: Replaced with SMI-SKSE.
        - Harsher Sunhelm Cold
@@ -1321,4 +1320,17 @@
        - Paraglider Auto-Equip Tarhiel's Gale
        - Skyrim's Paraglider - Stamina Drain
        - Skyrim's Paraglider - Tarhiel's Gale Cooldown
+ - CC's Enhanced Ore Veins SSE Edition
+    - Reason: Visual Consistency.
+ - No More Vanilla Grass
+    - Reason: Honestly, this mod should have never been in the list since it was mostly just used for dev.
+ - Cathedral - 3D Pine Grass
+    - Reason: Simplifying grass setup.
+ - Origins Of Forest - 3D Forest Grass
+    - Reason: Simplifying grass setup.
+       - Origins Of Forest - 3D Forest Grass Reduced
+ - Veydosebrom Regions - A Skyrim Grass Overhaul - ENB Complex Grass
+    - Reason: Simplifying grass setup.
+ - Majestic Mountains (and associated patches, I lost track)
+    - Reason: Bingus and I decided to do this for visual consistency.
 </Details>

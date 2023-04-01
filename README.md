@@ -5,7 +5,7 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="LINK">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
@@ -55,7 +55,7 @@
 
 Fahluaan is a comprehensive modlist that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
 
-The full modlist can be viewed [here](LINK).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/fahluaan).
 
 You can find a summary of all relevant changes on the [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md).
 
@@ -253,9 +253,7 @@ Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the
 
 Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
  1. Under the **Gamepad Support** Separator in MO2, activate the mods under it.
- 2. Go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
-   a. Alternatively you can reset your controlmap in-game.
- 3. Refer to the [controlmap](LINK) and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
+ 2. Refer to the [controlmap](LINK) and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
 
 ### Removing Nudity from the list
 
