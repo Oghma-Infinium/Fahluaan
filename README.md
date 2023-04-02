@@ -263,13 +263,14 @@ This section will cover the following Optional Tweaks that are included as a par
  2. **Improved Alternate Conversation Camera**: Can be safely enabled/disabled mid-save. Enabled by default.
  3. **QuickLoot RE - Disable in Combat**: A custom `.toml` config that disables QuickLoot RE from popping up while in combat. Enabled by default.
  4. **DWC Player Werewolf Replacer**: Textures for the player's werewolf model, reinstall the mod to choose the ones that best fit your taste.
- 5. **Fahluaan - Arachnophobia Patch**: Disables many spiders and other potentially triggering creatures throughout the game. Load below Synthesis patches.
- 6. **Yet Another Music Merge - Content Creator Version and Music Patches for Content Creators**: If this is relevant to you, you should probably enable this.
- 7. **Dark Souls Undressed and NeverNude Body**: Enable these two mods in order to disable any nudity in the list.
+ 5. **No Survival Camera Effects**: Disables the image space effects of Survival Mode. Disabled by default.
+ 6. **Fahluaan - Arachnophobia Patch**: Disables many spiders and other potentially triggering creatures throughout the game. Load below Synthesis patches.
+ 7. **Yet Another Music Merge - Content Creator Version and Music Patches for Content Creators**: If this is relevant to you, you should probably enable this.
+ 8. **Dark Souls Undressed and NeverNude Body**: Enable these two mods in order to disable any nudity in the list.
 
  ### Performance
 
- Supported performance options for Fahluaan.
+ Supported performance options for Fahluaan, more information is written in the notes in MO2.
 
 ## Playing the List
 
@@ -293,6 +294,22 @@ This section will cover the following Optional Tweaks that are included as a par
 ### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
+ - **Animated Overlays**: Allows for some additional character customization using RaceMenu's overlays.
+ - **Better Third Person Selection**: Enable or Disable certain Filters here (ex: Stealing Only WHile Undetected).
+ - **Dodge Framework**: Change Dodge keybind here. (Default: `L Alt`).
+ - **Improved Alternate Conversation Camera**: Edit the dialogue view. Can also be done through the `.ini` file in Mod Organizer.
+ - **Lamas Tiny HUD**: Read more about the setup [here](https://www.nexusmods.com/skyrimspecialedition/mods/82545).
+ - **Lucien**: Customize Lucien here and pick from approved names that he can call the PC.
+ - **NPCs Names Distributor**: Enable "Obscure Names" setting here, if that's your thing.
+ - **OBody Standalone**: Set OBody menu key here. (Default: `;`).
+ - **Pronouns**: Customize your pronouns here. If using "They/Them" make sure to set fallback pronouns in this menu.
+ - **Read the Room**: Set helmet toggling behavior here, by default only works with toggle. Set Toggle Helmet keybind. (Default: `[`).
+ - **Simple Offence Suppression**: Toggle SOS off or on. Should be unnecessary in the vast majority of cases.
+ - **SmoothCam**: Default preset is a slightly modified version of Vanilla Enhanced 2.0.
+ - **Swift Potion NG**: Set Potion Hotkey. (Default: `F`). Decide whether or not potions should be automatically consumed. 
+ - **Swiftly Order Squad**: Keybinds for follower management. Follower Controls hotkey. (Default `U`).
+ - **Ultimate Immersion Toggle**: Hide UI Keybind. (Default: `X`).
+ - **Weapon Styles**: If you change where your weapon sheathes via IED, then change the animation here so it matches correctly.
 
 ### Note about Survival Mode
 
