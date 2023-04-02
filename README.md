@@ -280,14 +280,9 @@ This section will cover the following Optional Tweaks that are included as a par
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
 
- - Launch the "Fahluaan" Executable in MO2
- - Fahluaan comes with a start save by default, so when you load into the main menu, choose "Continue".
- - Fahluaan uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as our alternate start mod.
-    - In order to start the character creation process hit **Enter**.
-       - Note: If you do not press enter then you will simply load into the start cell unable to move or do anything.
-    - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM and customize your Standing Stone, whether or not you're a vampire/werewolf, equipment, spells, and starting location. Do note that after changing your loadout and starting equipment via the MCM, you must hit **Enter** again and select the **Swap Gear** option for these changes to take effect.
-    - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
- - For **advanced users**, if you are starting a NEW GAME instead of pressing CONTINUE from the main menu, do the following steps:
+ 1. Launch the "Fahluaan" Executable in MO2
+ 2. Fahluaan comes with a start save by default, so when you load into the main menu, choose "Continue". When you load into the game hit `Enter` in order to start the character creation process.
+ 3. For **advanced users**, if you are starting a NEW GAME instead of pressing CONTINUE from the main menu, do the following steps:
      1. Wait about **2 to 3 minutes** for every mod and script to initialize.
      2. Open the Mod Configuration Menu at the System Page, and navigate to the **MCM Recorder**.
      3. Run the Fahluaan Start Save MCM Recorder.    
