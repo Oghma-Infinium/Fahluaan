@@ -15,9 +15,9 @@
 
 # Changelog
 
-- [0.1.0](#010)
+- [0.1.0-RC1](#010-rc1)
 
-## 0.1.0
+## 0.1.0-RC1
 
 ### Info
 
@@ -330,7 +330,6 @@
  - Spaghetti's Towns - Ivarstead
  - Spaghetti's Towns - Karthwasten
  - Spaghetti's Towns - Shor's Stone
- - LamasTinyHUD - Nordic Themed Reskin
  - Mystical Materials
  - Forsworn Skinchangers
  - Forsworn Gravesingers
@@ -1340,4 +1339,6 @@
     - Reason: Simplifying grass setup.
  - Majestic Mountains (and associated patches, I lost track)
     - Reason: Bingus and I decided to do this for visual consistency.
+ - Smart NPC Potions
+    - Reason: . . . 
 </Details>
