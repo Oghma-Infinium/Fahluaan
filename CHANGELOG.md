@@ -407,6 +407,7 @@
  - Editable Myrwatch-XelzazAE Patch
  - True Teacher Paarthurnax
  - dunFolgunthurBossBattle Script Fix
+ - DLC2TribalWerebearScript Fix
  - The Ferrymen
  - For Honor in SKYRIM I Aramusha
  - For Honor in SKYRIM I Conqueror
@@ -614,6 +615,8 @@
  - Polar Peaks
  - INDIGO
  - Icy Windhelm
+ - Edwarrs Spell Tome Books
+ - Recolored Edwarr's Spelltomes
 
 ### Removed
 
