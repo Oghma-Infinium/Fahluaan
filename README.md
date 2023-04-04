@@ -272,7 +272,7 @@ This section will cover the following Optional Tweaks that are included as a par
 
  ### Performance
 
- Supported performance options for Fahluaan, more information is written in the notes in MO2.
+ Supported performance options for Fahluaan, more information is written in the notes in MO2. If you choose to use the performance ENB Preset, make sure to also read the [performance ini options](#performance-ini-options) section.
 
 ## Playing the List
 

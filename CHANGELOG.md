@@ -557,7 +557,6 @@
  - Elven Armors and Weapons Retexture SE
  - Interesting NPCs (3DNPC) Script Optimisation - barbasdialoguedetect
  - Fearsome Fists - Thaumaturgy Consistency
- - Power Attack Key NG
  - Udefrykte. Uderfrykte. Udyrfrykte. (Bloodmoon Creature Restoration Project)
  - More Werewolves SE
  - Diverse Werewolves Collection SE
@@ -616,6 +615,9 @@
  - Icy Windhelm
  - Edwarrs Spell Tome Books
  - Recolored Edwarr's Spelltomes
+ - QW's Grass Patch 2 - Origins of Forest - Cathedral - Folkvangr
+ - Weathered Stockades Retexture - 4K - 2K
+ - One Click Power Attack NG
 
 ### Removed
 
@@ -1204,8 +1206,6 @@
     - Reason: Should be redundant with Kaputt.
  - IFrame Generator RE
     - Reason: Redundant with AE version.
- - OCPA Custom for ADXPMCO
-    - Reason: Incompatible with game version 1.6+ and redundant with Power Attack NG.
  - Player Rotation in ShowRaceMenu
     - Reason: Incompatible with game version 1.6+
  - zxlice's ultimate potion animation - ZUPA
@@ -1330,11 +1330,8 @@
     - Reason: Visual Consistency.
  - No More Vanilla Grass
     - Reason: Honestly, this mod should have never been in the list since it was mostly just used for dev.
- - Cathedral - 3D Pine Grass
+ - Origins Of Forest - 3D Forest Grass Reduced
     - Reason: Simplifying grass setup.
- - Origins Of Forest - 3D Forest Grass
-    - Reason: Simplifying grass setup.
-       - Origins Of Forest - 3D Forest Grass Reduced
  - Veydosebrom Regions - A Skyrim Grass Overhaul - ENB Complex Grass
     - Reason: Simplifying grass setup.
  - Majestic Mountains (and associated patches, I lost track)
