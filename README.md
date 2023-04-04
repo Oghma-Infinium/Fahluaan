@@ -319,6 +319,11 @@ Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you
 
 ## Updating the modlist
 
+Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
+ - `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
+ - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
+ - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
+ - In some rare cases you may see a fourth slot be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
 Before updating, please check the [changelog](https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
