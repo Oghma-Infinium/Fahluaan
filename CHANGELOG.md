@@ -395,7 +395,6 @@
  - Canis Hysteria - The Werewolf Disease
  - Wigfrid's Skyrim Tree Replacer
  - Bloodmoon
- - Majestic Mountains Double-Sided Patch
  - Elden Ring - Scythe
  - Poppy's Assorted CBBE Patches
  - Amber Refossilised
@@ -539,7 +538,6 @@
  - Ave's Ebony Emerald Ring Replacer for Beyond Skyrim - Bruma
  - Ave's Ebony Ring Replacer for Beyond Skyrim - Bruma
  - The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
- - Majestic Bruma Mountains - BS-Bruma x Majestic Mountains Patch
  - Beyond Skyrim Bruma Paper Map by Mirhayasu for FWMF
  - Legion - A Bruma Encounter Zone Overhaul
  - Creation Club The Cause - BS Bruma Scamps Synergy
@@ -551,7 +549,6 @@
  - Ave's Ring of Eidolon's Edge
  - Ave's Spelldrinker Amulet
  - Ave's Amulet of Mara
- - Ave's Moon-and-Star Jewelry Set
  - Even More Brows - HPH - COtR
  - Ring of Namira - Improved
  - Elven Armors and Weapons Retexture SE
@@ -586,7 +583,6 @@
  - OBody NG
  - Simonrim I4 Addons
  - GG's High Hrothgar fixed stairs
- - Natural Waterfalls - Majestic Mountains Patch
  - Far Object LOD Improvement Project SSE
  - HD LODs Textures SE
  - Elven Ears for Breton NPCs
@@ -618,6 +614,22 @@
  - QW's Grass Patch 2 - Origins of Forest - Cathedral - Folkvangr
  - Weathered Stockades Retexture - 4K - 2K
  - One Click Power Attack NG
+ - Viridian Knight - Dynamic Armor Variant Config
+ - Xavbio's Retextures - Practical Female Armors - aMidianborn Content Addon Combo Patch
+ - Practical Female Alternative Armors CBBE
+ - Practical Female Ebony Plate Armor
+ - Practical Female Elven Hunter Armor
+ - Practical Female Iron Plate Armor
+ - Practical Female Steel Soldier Armor
+ - Practical Female Vigil Enforcer Armor
+ - Practical Female Iron Armor
+ - Practical Female Divine Crusader Armor
+ - Practical Female Civil War Champions Armor
+ - Practical Female Armors SE
+ - Esbern Voice Consistency Fix
+ - Rally's Textures - Shibui Skyrim Recolor
+ - Infantry Armor
+ - Infantry Armor - My Patches
 
 ### Removed
 
@@ -1338,4 +1350,8 @@
     - Reason: Bingus and I decided to do this for visual consistency.
  - Smart NPC Potions
     - Reason: . . . 
+ - Viridian Knight Armor - Color Variations (hdt-SMP - CBBE - 3BA - UUNP - BHUNP - HIMBO)
+    - Reason: this was a massive mod for no reason.
+ - Screenshot Helper
+    - Reason: Not updated for 1.6.640 and unnecessary. Screenshots can now be found in Overwrite in the `Root\screenshots` folder.
 </Details>
