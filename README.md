@@ -166,6 +166,16 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing Fahluaan can take a while depending on your internet connection and computer. To install Fahluaan, complete the following steps.
 
+**FAHLUAAN BETA RELEASE IS ONLY AVAILABLE ON THE [NEXUS PAGE](https://www.nexusmods.com/skyrimspecialedition/mods/87820).**
+
+Until official release, please download the .wabbajack file from the above link.
+1. Download the file called **Fahluaan** from the Files tab. You **DO NOT** need to download the other files on the page, unless Wabbajack fails to do it later on.
+2. Use 7zip to extract the downloaded file. You should now see **Fahluaan.wabbajack**.
+3. Doubleclick **Fahluaan.wabbajack**. Wabbajack should automatically open for you. If it does not, open the Wabbajack app manually and select the **Install from disk** option.
+4. Proceed as usual from this point.
+
+**THE BELOW INSTRUCTIONS ARE A PLACEHOLDER FOR OFFICIAL RELEASE, PLEASE REFER TO THE NEXUS INSTRUCTIONS ABOVE**
+
 1. Open Wabbajack and click `Browse Modlists`
 2. Press the download button on Fahluaan and wait for it to download.
 3. Set the installation folder to be somewhere like C:\Games\Fahluaan. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
