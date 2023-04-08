@@ -16,7 +16,7 @@
 
 # Installation
 
-**Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)**
+**Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
 
 ***Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.***
 
@@ -172,7 +172,7 @@ Downloading and installing Fahluaan can take a while depending on your internet 
 > The download location does not need to be on a SSD, but it makes installing faster.
 4. Press the play button to begin.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
-6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
+6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/4WwqfK5yHg) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
@@ -273,7 +273,7 @@ This section will cover the following Optional Tweaks that are included as a par
 
  ### Performance
 
- Supported performance options for Fahluaan, more information is written in the notes in MO2. If you choose to use the performance ENB Preset, make sure to also read the [performance ini options](#performance-ini-options) section.
+ Supported performance options for Fahluaan, more information is written in the notes in MO2. If you choose to use the performance ENB Preset, make sure to also read the [performance ini options](#performance-ini-options) section. Sound Fix for Large Sector Drives can be enabled if you have a large sector drive, I have heard conflicting accounts on whether or not there is a downside to having it enabled on non-Large sector drives. If in doubt, just enable the mod.
 
 ## Playing the List
 
@@ -369,7 +369,7 @@ Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
 
 ## Contact
 
-Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/4WwqfK5yHg) discord server for support.
 
 ## Credits and Thanks
 
