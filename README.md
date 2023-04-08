@@ -380,7 +380,7 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - iAmMe27 for helping me with the CK, documentation, and general WJ related things.
 - Lively for his GuideBook Plugin which I used as a template for the in-game readme.
 - Chanka and fray for their help with moderation, playtesting, and documentation.
-- A Helping Hand, AnnieDOS, Felivarth, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
+- A Helping Hand, AnnieDOS, Felivath, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) and Cacophony for their wonderful community that inspired me to start modding more.
 - JustThatKing, jdsmith2816, and Total for their feedback on graphics and other things.
 - Bethesda Game Studios.
