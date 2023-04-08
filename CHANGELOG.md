@@ -15,7 +15,63 @@
 
 # Changelog
 
+- [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.1.0-RC2
+
+### Info
+
+ - This should be the first public release.
+ - Hopefully the optional Addons should properly show up now.
+
+<Details>
+
+### Updated
+
+ - Fahluaan Outputs
+ - BS Bruma
+ - Unofficial Skyrim Modders Patch
+ - ENBSeries
+ - Survival Mode Improved - SKSE
+ - Skyrim Skill Uncapper for SE and AE
+ - Indecent Exposure - Immersive Naked Reactions
+ - Fearsome Fists - Thaumaturgy Consistency Patch
+ - Lawless - A Bandit Overhaul
+ - Alternative Mage Robes CBBE 3BA
+
+### Added
+ 
+ - Some flora stuff, I forgor
+ - The White Phial - My version SE
+ - Extended Cut - Saints and Seducers Paper Map for FWMF
+ - Immersive KS Hairdos
+ - Miscellaneous Skyrim Unbound Addons
+ - ADXP l MCO Imperium Animation Complete Pack
+ - Skyrim Outfit System SE Revived
+
+### Removed
+
+ - Skyrim 3D Trees and Plants
+ - Read the Room - Immersive and Animated Helmet Management
+ - Read the Room - Immersive and Animated Helmet Management - Settings Loader
+ - The Witcher 3 Eyes SE
+ - Starsight Eyes
+ - Eyes of Aber SE
+ - Azurite Eyes
+ - Elemental Eyes - 4K-2K-1K
+ - Maevan2's Eye Brows SE
+ - Freckle Mania
+ - Freckle Mania 2
+ - Ziovdendian Bodypaint - Designs of the Lupine - RaceMenu Overlays - Special Edition
+ - Weathered Nordic Bodypaints -Special Edition- RaceMenu Overlays and Warpaints
+ - Niohoggr Warpaints
+ - Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males
+ - Dynamic Armor Variants
+ - Dynamic Lowered Hoods
+ - Viridian Knight - Dynamic Armor Variant Config
+
+</Details>
 
 ## 0.1.0-RC1
 

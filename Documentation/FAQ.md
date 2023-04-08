@@ -64,9 +64,9 @@ A: No.
 
 ## Known Issues
 
-### `SkyrimUncapper\src\settings\leveled.rs:119: 'index out of bounds: the len is 14 but the index is 18446744073709551615'` or Similar error when selecting a perk.
+### Character's Hair looks weird in Inventory!
 Solution(s)
- 1. Currently I have only seen this issue occur when trying to pick a perk at level 1. It seems to be fixed by being at least level 2 before choosing any perk.
+ 1. It's an issue with Show Player in Menus and SMP/HDT Hair. You can "fix" it by enabling SkyrimSouls in inventory or by not using SMP enabled hair.
 
 ### Being randomly attacked or arrested by NPCs!
 Solution(s)
@@ -75,6 +75,10 @@ Solution(s)
 ### Tolfdir won't initiate dialogue with Ancano during the "The Eye of Magnus" quest!
 Solution(s)
  1. Once in the Hall of the Elements, after Ancano finishes talking, click on Tolfdir in console and type `disable` followed by `enable`. This should trigger the fight to start.
+
+### Bloodskal Blade doesn't work!
+Solution(s)
+ 1. I know, I'm working on it. Leave me alone.
 
 ### [Insert Issue with the Civil War]
 Solution(s)
