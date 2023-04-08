@@ -75,9 +75,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Ram**    | 32gb (2x16) | 16gb (2x16) |
 | **Storage**    | 970 EVO NVMe | SATA SSD |
 
-Downloads: ~160 GB  
-Install: ~230 GB  
-Temp Files: ~30 GB (on OS drive)  
+Downloads: ~170 GB  
+Install: ~210 GB  
+Temp Files: ~40 GB (on OS drive)  
 **TOTAL:** ~390 GB  
 
  > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
