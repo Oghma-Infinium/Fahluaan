@@ -8,7 +8,8 @@
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
-  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
+  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
+  <a href="patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
@@ -280,13 +281,13 @@ This section will cover the following Optional Tweaks that are included as a par
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
 
- 1. Launch the "Fahluaan" Executable in MO2
- 2. Fahluaan comes with a start save by default, so when you load into the main menu, choose "Continue". When you load into the game hit `Enter` in order to start the character creation process.
- 3. For **advanced users**, if you are starting a NEW GAME instead of pressing CONTINUE from the main menu, do the following steps:
-     1. Wait about **2 to 3 minutes** for every mod and script to initialize.
-     2. Open the Mod Configuration Menu at the System Page, and navigate to the **MCM Recorder**.
-     3. Run the Fahluaan Start Save MCM Recorder.    
-     - There is no reason to start a NEW GAME over using the included start save, unless you need to do so for the sake of modifications made to the list. Failing to run the MCM Recorder will leave out many customizations made and will likely give you a very different experience to what is intended.
+ 1. Launch the "Fahluaan" Executable in MO2.
+ 2. Click "New Game".
+ 3. After about 30 seconds, press `esc` and open the Mod Configuration Menu.
+ 4. Navigate to the Skyrim Unbound Menu and customize your starting equipment.
+ 5. Once you are satisfied, leave the MCM and hit `Enter` to begin Character Creation.
+ 6. After Character Creation finishes, you will get a popup to select your Pronouns and the MCM Recorder will begin to run, make sure to choose "STAY HERE" from the popup after Pronouns, otherwise you could cause some issues from the overlap of Skyrim Unbound's scripts and MCM configuration. (Note: Sometimes the Pronouns popup will occur twice, just select the same option both times).
+ 7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs, then press `Enter` and choose "Continue".
 
 ### In-Game MCM options
 
@@ -379,7 +380,7 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - iAmMe27 for helping me with the CK, documentation, and general WJ related things.
 - Lively for his GuideBook Plugin which I used as a template for the in-game readme.
 - Chanka and fray for their help with moderation, playtesting, and documentation.
--  A Helping Hand, AnnieDOS, Felivarth, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
+- A Helping Hand, AnnieDOS, Felivarth, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) and Cacophony for their wonderful community that inspired me to start modding more.
 - JustThatKing, jdsmith2816, and Total for their feedback on graphics and other things.
 - Bethesda Game Studios.

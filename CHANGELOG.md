@@ -8,7 +8,8 @@
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
-  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> ]
+  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
+  <a href="patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
@@ -39,6 +40,9 @@
  - Fearsome Fists - Thaumaturgy Consistency Patch
  - Lawless - A Bandit Overhaul
  - Alternative Mage Robes CBBE 3BA
+ - Kabu's Fire Salts
+ - ERM - Enhanced Rocks and Mountains
+ - The Dragon Cult - A Draugr Overhaul
 
 ### Added
  
@@ -49,6 +53,8 @@
  - Miscellaneous Skyrim Unbound Addons
  - ADXP l MCO Imperium Animation Complete Pack
  - Skyrim Outfit System SE Revived
+ - ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On
+ - Vulcano
 
 ### Removed
 
@@ -70,6 +76,8 @@
  - Dynamic Armor Variants
  - Dynamic Lowered Hoods
  - Viridian Knight - Dynamic Armor Variant Config
+ - Vanargand Animations - Crossbows
+ - Vanargand Animations - Sneak Crossbows
 
 </Details>
 
