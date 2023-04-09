@@ -88,7 +88,7 @@ Solution(s)
 
 ### Game won't load with Gamepad mods active.
 Solution(s)
- 1. Download [this](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=376519&nmm=1&game_id=1704) mod and replace the "Gamepad Controlmap Fixed" mod under the "Gamepad Support" separator.
+ 1. Download [this](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=376519&nmm=1&game_id=1704) mod and replace the "Gamepad Controlmap Fixed" mod under the "Gamepad Support" separator. After this delete the Control map in the Stock Game folder.
 
 ### Body type won't change when trying to apply a new body through OBody.
 Solution(s)
