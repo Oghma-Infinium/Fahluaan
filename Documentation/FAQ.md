@@ -89,3 +89,9 @@ Solution(s)
 ### Game won't load with Gamepad mods active.
 Solution(s)
  1. Download [this](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=376519&nmm=1&game_id=1704) mod and replace the "Gamepad Controlmap Fixed" mod under the "Gamepad Support" separator.
+
+### Body type won't change when trying to apply a new body through OBody.
+Solution(s)
+ 1. This is an issue with Engine Fixes/RaceMenu. The safest workaround is to change obody preset, equip and unequip the chestpiece, and the body type should change.
+ 2. Restart the Game/Your PC and try again.
+ 3. Read [FAQ 9](https://www.nexusmods.com/skyrimspecialedition/mods/77016?) on the OBody modpage.
