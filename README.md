@@ -324,7 +324,7 @@ This section will cover the following Optional Tweaks that are included as a par
 ### Note about Survival Mode
 
 Survival Mode is **NOT** enabled by default, to do so you must do it in the in-game settings menu accessed via the System Page.
-Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you would like to have Fast Travel active while playing with Survival Mode, navigate to the `SurvivalModeImproved.ini` located at `[Path to Modlist]\mods\Survival Mode Improved - SKSE\SKSE\Plugins` and change the line `bDisableFastTravel=1` to `bDisableFastTravel=0`.
+Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you would like to have Fast Travel active while playing with Survival Mode, navigate to the `SurvivalModeImproved.ini` located at `[Path to Modlist]\mods\Survival Mode Improved - Settings\SKSE\Plugins` and change the line `bDisableFastTravel=1` to `bDisableFastTravel=0`.
 
 ### Note For Content Creators
 
