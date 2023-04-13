@@ -184,8 +184,6 @@ Until official release, please download the .wabbajack file from the above link.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
 6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/4WwqfK5yHg) for support.
 
-**NOTE: THE ABOVE DIRECTIONS ARE WRONG BUT I AM TOO LAZY TO DELETE THEM, THE LIST IS CURRENTLY ONLY INSTALLABLE VIA THE [NEXUS PAGE](https://www.nexusmods.com/skyrimspecialedition/mods/87820).**
-
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
@@ -324,7 +322,7 @@ This section will cover the following Optional Tweaks that are included as a par
 ### Note about Survival Mode
 
 Survival Mode is **NOT** enabled by default, to do so you must do it in the in-game settings menu accessed via the System Page.
-Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you would like to have Fast Travel active while playing with Survival Mode, navigate to the `SurvivalModeImproved.ini` located at `[Path to Modlist]\mods\Survival Mode Improved - SKSE\SKSE\Plugins` and change the line `bDisableFastTravel=1` to `bDisableFastTravel=0`.
+Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you would like to have Fast Travel active while playing with Survival Mode, navigate to the `SurvivalModeImproved.ini` located at `[Path to Modlist]\mods\Survival Mode Improved - Settings\SKSE\Plugins` and change the line `bDisableFastTravel=1` to `bDisableFastTravel=0`.
 
 ### Note For Content Creators
 
