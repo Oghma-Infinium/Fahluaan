@@ -20,6 +20,18 @@
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
 
+## 0.2.1
+
+### Info
+
+ - This update is primarily a recompile of the pervious version due to my own skill issues.
+
+### Updated
+
+ - Interesting NPCs (3DNPC) - AI Overhaul Patch (updated)
+ - Bow of Shadows - Reduced Cut
+ - Flames of Coldharbour
+
 ## 0.2.0
 
 ### Info
