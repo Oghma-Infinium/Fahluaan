@@ -86,9 +86,9 @@ Solution(s)
  1. The civil war is broken in vanilla. I generally suggest not doing it.
  2. Fast traveling after battles can cause issues as the game tends to get stuck in a perpetually battle state.
 
-### Game won't load with Gamepad mods active.
+### Any Gamepad related issue
 Solution(s)
- 1. Download [this](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=376519&nmm=1&game_id=1704) mod and replace the "Gamepad Controlmap Fixed" mod under the "Gamepad Support" separator. After this delete the Control map in the Stock Game folder.
+ 1. Make sure to delete the Control map in the Stock Game folder.
 
 ### Body type won't change when trying to apply a new body through OBody.
 Solution(s)
