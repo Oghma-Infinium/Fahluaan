@@ -54,8 +54,6 @@
  - Changed "Momentum" to "Bob and Weave" in the Hand to Hand tree.
  - Fixed* CC Quests initiating when they shouldn't. If there are any I missed please let me know.
  - Blacklisted an OBody preset that wasn't meant to be in distribution.
- - Increased number of Skyshards needed per perk point from 3 --> 4.
-    - This is compensated by more perks being available from certain quests.
  - Complete overhaul of the DAR structure and setup. This comes with many fixes but also meant that the experimental 1st person setup will be delayed a little longer than I intended.
  - Removed Step Dodge on Light Armor/Unarmored. All Dodges are now roll dodges.
  - Removed Weapon Arts.
