@@ -26,7 +26,6 @@
 
  - This update may be save safe, but if you are continuing a save you might encounter some oddities.
     - If you are continuing a save, **please save in an interior and backup your saves**.
- - Included missing pronoun patch.
  - Fixed potion inventory sizes.
  - Fixed an oversight with God-King Soul Reaver's Weapon.
  - Fixed neck gaps with certain named Khajiit. 
