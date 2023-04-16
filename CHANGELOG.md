@@ -16,8 +16,102 @@
 
 # Changelog
 
+- [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.2.0
+
+### Info
+
+ - This update may be save safe, but if you are continuing a save you might encounter some oddities.
+    - If you are continuing a save, **please save in an interior and backup your saves**.
+ - Included missing pronoun patch.
+ - Fixed potion inventory sizes.
+ - Fixed an oversight with God-King Soul Reaver's Weapon.
+ - Fixed neck gaps with certain named Khajiit. 
+ - Fixed(?) Controlmap setup for Gamepad.
+ - Fixed Muiri's missing texture.
+ - Fixed face issue with Kematu, Kleppr, and Arniel Gane. I can't catch all of these so please report any fucked up faces.
+ - ENB Tweaks.
+ - Fixed incorrect shader effect for flesh spells.
+ - Fixed Rested and Well Rested Bonuses to no longer give "Fortify Skill Rate" buffs (since it was useless).
+ - Fixed Whiterun Roof Parallax.
+ - Fixed Fire mismatch.
+ - Reduced Snow Brightness.
+ - Fixed alternate texture set on CC baskets.
+ - Changed "Momentum" to "Bob and Weave" in the Hand to Hand tree.
+ - Fixed* CC Quests initiating when they shouldn't. If there are any I missed please let me know.
+ - Blacklisted an OBody preset that wasn't meant to be in distribution.
+ - Increased number of Skyshards needed per perk point from 3 --> 4.
+    - This is compensated by more perks being available from certain quests.
+ - Complete overhaul of the DAR structure and setup. This comes with many fixes but also meant that the experimental 1st person setup will be delayed a little longer than I intended.
+ - Removed Step Dodge on Light Armor/Unarmored. All Dodges are now roll dodges.
+ - Removed Weapon Arts.
+ - Removed some errant MagicDisallowEnchanting flags from armor that should be enchantable.
+ - Removed Camera Shake*.
+
+<Details>
+
+### Updated
+
+ - Icy Mesh Remaster
+ - Practical Female Alternative Armors
+ - Expressive Remiel
+ - Vulcano
+ - Dragon War
+ - Abyss
+ - The White Phial - My version SE
+ - ElSopa - Potions Redone
+ - Flat World Map Framework
+ - Spell Perk Item Distributor
+    - Downgraded to 6.4.0 in order to avoid Outfit distribution bug in the current version that sometimes leaves NPCs naked and without an outfit.
+ - Flames of Coldharbour
+ - Vestige
+ - Project ja-Kha'jay
+ - Leaps of Faith - A Misc Quest
+ - Survival Mode Improved - SKSE
+ - Improved Follower Dialogue - Lydia
+ - Wind Ruler Armor - My patches SE
+ - Ryn's Dragon Mounds Collection
+ - Praedy's Staves AIO Patch Hub
+ - Lawless - A Bandit Overhaul
+ - Insightful Leveling
+ - aljos SimonRim Tweaks
+ - Natura
+ - Mundus
+ - Remiel
+ - Embers XD
+ - Rally's Textures - Shibui Skyrim Recolor
+ - Enemy Resistance Tweaks
+ - Casting Bar
+    - Yes I know the placement needs work, give me another update or two for the UI.
+ - Modular Armory - Community Collection
+
+### Added
+
+ - Bow of Shadows - Reduced Cut
+ - DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+ - Rudy HQ - More dramatic Red Mountain Plume
+ - Silver Armor and Weapons Retexture SE
+ - Instantly Skip Dialogue NG
+ - Comprehensive Attack Speed Patch - SKSE
+ - Obscure's College of Winterhold Loot Rebalancing
+ - Hokoron - Enemy Overhaul
+ - Ave's Jade Sapphire Ring Replacer
+ - Ascension
+ - Spaghetti's Towns - Old Hroldan
+ - Spaghetti's Towns - Stonehills
+ - Spaghetti's Towns - Nightgate Inn
+ - Interesting NPCs (3DNPC) - AI Overhaul Patch (updated)
+
+### Removed
+
+ - Modern Combat AI
+ - Awesome HD Barrels
+ - Allow Dialogue Progress Bugfix
+
+</Details>
 
 ## 0.1.0-RC2
 
