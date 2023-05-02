@@ -28,7 +28,7 @@
 This update is **save-safe.** This is mostly a maintenance update with a few bug fixes.
  
  - Fixed sprint animation when no weapons were equipped
- - Tweaked the ENB further. Small changes were made to the interior lighting, daytime brightness, and water settings. Wetsurfaces, RainWetSurfaces, and TerrainBlending were also turned off due to visual issues
+ - Tweaked the ENB further. Small changes were made to the interior lighting, daytime brightness, and water settings. Wetsurfaces, RainWetSurfaces, Letterbox, and TerrainBlending were also turned off due to visual issues
  - Fixed Auri's hut being an ugly blue wood color
  - xLODGEN missing file should be fixed now
   
