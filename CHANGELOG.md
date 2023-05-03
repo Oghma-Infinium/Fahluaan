@@ -15,11 +15,38 @@
 ---
 
 # Changelog
+  - [0.2.3](#023)
   - [0.2.2](#022)
   - [0.2.1](#021)
   - [0.2.0](#020)
   - [0.1.0-RC2](#010-rc2)
   - [0.1.0-RC1](#010-rc1)
+
+## 0.2.3
+
+### Info
+
+This update is **save-safe.** Just another bug-fixing update
+ 
+ - Fixed Penitus Oculatus armor
+ - Fixed Dark Brotherhood armor
+ - Incorporated Styyx's gamepad fixes
+ - Fixed thistles not using the Cathedral 3D textures
+ - Tweaked the color of Auri's hut (again)
+ - Transferred 0.2.2's ENB tweaks to the optional Performance ENB
+  
+
+<Details>
+
+### Updated
+- Smaller 3D Cathedral Plants
+- Kreate (once again)
+
+### Added
+- Classic Sprinting Redone
+
+</Details>
+
 
 ## 0.2.2
 
