@@ -187,7 +187,7 @@ Until official release, please download the .wabbajack file from the above link.
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
-- [Children of the Pariah](https://href.li/?https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw)
+- [Children of the Pariah](https://href.li/?https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw) - download `CotP FOMOD 1.2.1.7z`
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [ADXP 1.6.0.5](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
