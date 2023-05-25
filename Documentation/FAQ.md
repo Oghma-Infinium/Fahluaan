@@ -65,10 +65,6 @@ A: No.
 
 ## Known Issues
 
-### Character's Hair looks weird in Inventory!
-Solution(s)
- 1. It's an issue with Show Player in Menus and SMP/HDT Hair. You can "fix" it by enabling SkyrimSouls in inventory or by not using SMP enabled hair.
-
 ### Being randomly attacked or arrested by NPCs!
 Solution(s)
  1. open the console, select one of the NPCs, and type `paycrimegold 0 0`
@@ -76,10 +72,6 @@ Solution(s)
 ### Tolfdir won't initiate dialogue with Ancano during the "The Eye of Magnus" quest!
 Solution(s)
  1. Once in the Hall of the Elements, after Ancano finishes talking, click on Tolfdir in console and type `disable` followed by `enable`. This should trigger the fight to start.
-
-### Bloodskal Blade doesn't work!
-Solution(s)
- 1. I know, I'm working on it. Leave me alone.
 
 ### [Insert Issue with the Civil War]
 Solution(s)
