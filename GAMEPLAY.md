@@ -134,10 +134,41 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
      - **The Only Cure**: Same as vanilla, but the quest can not be initiated until a later level.
      - **The Whispering Door**: Same as vanilla, but the quest can not be initiated until a later level.
  - **Other Quest Changes**
+    - **The Ebony Warrior** is no longer level locked, but instead requires the completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer), [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment), and [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha).
    - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quest **Blessings of Nature**, purchase Breezehome, and complete the standard thaneship quest (help X amount of people).
-   - **The Ebony Warrior** is no longer level locked, but instead requires the completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer), [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment), and [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha).
  - **Creation Club Quests**
-   - To be written.
+   - **Bow of Shadows**: Original quest has been disabled and the Bow of Shadows has been placed as static loot in a reward chest for defeating a Morag Tong assassin.
+   - **Chryasmere**: Original quest has been disabled and Chryasmere has been placed as static loot in a [cave near winterhold](https://en.uesp.net/wiki/Skyrim:Bleakcoast_Cave).
+   - **Civil War Champions**: Original quest has been disabled and the armors have been redistributed to Imperial and Stormcloak commanders.
+   - **Daedric Mail**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Divine Crusader**: Reintegrated with [Knight of the North](https://www.nexusmods.com/skyrimspecialedition/mods/45869). Quest guide in the Articles section of the mod page.
+   - **Dwarven Mail**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Ebony Plate**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Elven Hunter**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Fearsome Fists**: Original quest has been disabled and the armors have been redistributed to NPCs accordingly.
+   - **Fishing**: Questline has been removed and the unique items have been redistributed into the world as static loot.
+   - **Ghosts of the Tribunal**: Questline has been removed and the items have been redistributed around Solstheim or as loot for the Dremora Merchant.
+   - **Goldbrand**: Original quest has been disabled and Goldbrand can now be found on [The Katariah](https://en.uesp.net/wiki/Skyrim:The_Katariah).
+   - **Headman's Cleaver**: Original quest has been disabled and the Headman's Cleaver can now be found on a named Bandit Chief holed up [in Falkreath Hold](https://en.uesp.net/wiki/Skyrim:Bilegulch_Mine).
+   - **Nordic Jewelry**: Original quest has been disabled and the jewelry can now be found in regular loot and worn by prestigious nords.
+   - **Redguard Elite Armaments**: Original quest has been disabled and you can now find the Armor and items worn by Kematu and his group.
+   - **Spell Knight**: Original quest has been disabled and the armor is now craftable as Iron, Steel, or Ebony with the appropriate perk(s).
+   - **Stalhrim Fur**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Steel Soldier**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Stendarr's Hammer**: Original quest has been disabled and Stendarr's Hammer can now be found on a Vampire hiding out in [The Rift](https://en.uesp.net/wiki/Skyrim:Dead_Drop_Falls).
+   - **Studded Dragonscale**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **The Arms of Chaos**: Original quest has been disabled and the items can now be found scattered across the warlock lairs of Skyrim.  
+   - **The Contest**: Original quest has been disabled. The Fists of Randagulf have been given to [Skjor](https://en.uesp.net/wiki/Skyrim:Skjor) amd the Iceblade of the Monarch can now be found guarded by a Spriggan [on Solstheim](https://en.uesp.net/wiki/Skyrim:Headwaters_of_Harstrad).
+   - **The Gray Cowl**: Original quest has been disabled and the Gray Cowl can now be found in the [Twilight Sepulcher](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher).
+   - **The Lord's Mail**: Original quest has been disabled and the Lord's Mail can now be found in a Spriggan den, [north of Solitude](https://en.uesp.net/wiki/Skyrim:Shadowgreen_Cavern).
+   - **The Staff of Hasedoki**: Original quest has been disabled and the Staff can be found in a warlock den between [Whiterun and Falkreath Hold](https://en.uesp.net/wiki/Skyrim:Brittleshin_Pass).
+   - **Vigil Enforcer**: Original quest has been disabled and the armors have been redistributed to NPCs accordingly.
+ - **Creation Club Homes**
+   - **Bloodchill Manor**: Requires completion of [Awakening](https://en.uesp.net/wiki/Skyrim:Awakening).
+   - **Farming**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/69029).
+   - **Gallows Hall**: Requires completion of [Conjuration Ritual Spell](https://en.uesp.net/wiki/Skyrim:Conjuration_Ritual_Spell).
+   - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead).
+   - **Shadowfoot Sanctum**: Requires being Guildmaster of the Thieves Guild.
  - **Vicn Quest Mods**
    - **Vigilant**: Requires level 25+ and the completion of [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) and [House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
    - **Glenmoril**: Requires completion of Discerning the Transmundane, [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha), Vigilant (any ending), and Sacred Anatomancer (this quest is started in the Ratway after you finish Vigilant, it is suggested you do the "Divine the Future" path).
