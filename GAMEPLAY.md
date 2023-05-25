@@ -40,8 +40,8 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
  - Skill experience starts slow, peaks in mid-game, and then returns to a slower pace. However, there are many sources to boost your leveling speed.
    - Akatosh and Tall Papa both give Experience as a shrine bonus.
    - Rested gives 10% experience; Well Rested gives 20% experience; Lover's Comfort gives 20%, but has a longer duration than Well Rested.
-   - The Gift of Charity now gives 10% experience for 4 hours instead of Fortify Persuasion for 1 hour.
-   - Ancient Knowledge gives a permanent 20% experience gain to crafting skills.
+   - [The Gift of Charity](https://elderscrolls.fandom.com/wiki/The_Gift_of_Charity) now gives 10% experience for 4 hours instead of Fortify Persuasion for 1 hour.
+   - [Ancient Knowledge](https://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge) gives a permanent 20% experience gain to crafting skills.
    - Gift of Gab gives a permanent 10% experience gain to all skills.
  - Leveling up requires sleeping in a bed. This is done to incentivize "good behavior".
  - You will gain a total of 15 perks by level 50. Perks can also be obtained through the following:
@@ -71,8 +71,8 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
      - [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha)
      - [Barrow of the Wyrm](https://tes-mods.fandom.com/wiki/Barrow_of_the_Wyrm)
      - [Someone with Backbone](https://tes-mods.fandom.com/wiki/Someone_with_Backbone)
-   - The Oghma Infinium grants **3** perks on use.
-   - Vigilant, Glenmoril, and Unslaad add their own systems through which perks can be obtained, however these systems are not considered when balancing availability of perks, and it is generally suggested to avoid these systems for balancing purposes.
+   - The [Oghma Infinium](https://en.uesp.net/wiki/Skyrim:Oghma_Infinium) grants **3** perks on use.
+   - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), and [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) add their own systems through which perks can be obtained, however these systems are not considered when balancing availability of perks, and it is generally suggested to avoid these systems for balancing purposes.
  - The first level up, level 2, gives bonus stats (20 Health, Magicka, or Stamina rather than the usual 10). You will gain a total of 500 attributes by level 50.
  - Skills will no longer contribute to level experience after level 50.
  - Leveling up does not increase carry weight. This is done to make carry weight buffs feel worthwhile. 
