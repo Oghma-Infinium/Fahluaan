@@ -15,7 +15,7 @@
 ---
 
 # Changelog
-
+- [0.3.2](#032)
 - [0.3.1](#031)
 - [0.3.0](#030)
 - [0.2.3](#023)
@@ -24,6 +24,15 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.2
+
+### Info
+
+Some rapid fire fixes
+
+ - Corrected a mistake in the uncapper.
+ - Fixed Gamepad file so it should hopefully just work without issue. . .maybe.
 
 ## 0.3.1
 
