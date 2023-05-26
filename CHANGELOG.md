@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.3.3](#033)
 - [0.3.2](#032)
 - [0.3.1](#031)
 - [0.3.0](#030)
@@ -24,6 +25,58 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.3
+
+### Info
+
+Maintenance Update. Save Safe.
+
+ - Fixed improper keyword on enchanted spear variants.
+ - Updated Bodyslide Output.
+ - Fixed some loading screen inconsistencies.
+ - Cleaned up some dev backend.
+ - Fixed Dual Katana conditions.
+ - Fixed issue with Khajiits caused by EasyNPC.
+ - NPCs will not use Katana movesets due to the current moveset being unsuitable.
+ - Removed level hard cap at level 50, you can now level after level 50, but gain half as much attribute.
+ - "Fixed" incorrect collision for the Glass War Axe.
+ - Changed Nevernude textures for female body.
+ - Changed default greatsword animations.
+ - Cleaned up some unused downloads.
+ - Dodge cost increased from 35 to 40
+
+<Details>
+
+### Updated
+
+ - Riften Docks Overhaul
+ - Gore
+ - Stormcrown - A Shout Overhaul
+ - Adamant - A Perk Overhaul
+ - Hand to Hand - An Adamant Addon
+ - Aetherius - A Race Overhaul
+ - Remote Interactions
+ - aljos Apothecary Patches
+ - Miscellaneous Skyrim Unbound Addons
+ - Blade and Blunt
+ - Fahluaan - Bodyslide Output
+ - Unofficial Skyrim Special Edition Patch
+
+### Added
+
+ - Salt and Wind - Rough Hair for KS Hairdos SE
+ - Dawnguard Armors and Weapons Retexture SE
+ - Katanas of Skyrim
+ - For Honor in Skyrim I Warden
+
+### Removed
+
+ - HQ Solitude
+ - Dark Souls Undressed - NeverNude - Underwear - CBBE - HIMBO
+    > Mod is unneeded.
+
+</Details>
 
 ## 0.3.2
 

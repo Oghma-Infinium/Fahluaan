@@ -28,7 +28,7 @@ This section will cover the absolute basics of the list, I suggest reading over 
  - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones respectively.
  - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) and [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) handle werewolves and vampires.
  - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) handles Religion as a mechanic, some changes have been made to the mod and can be read about [here](#religion-tweaks).
- - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) handles the overarching "rules" for combat.
+ - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) handles the overarching "rules" for combat. Blade and Blunt's injuries are "off" by default.
  - [Attack - Modern Combat Overhaul](https://www.skyrim-guild.com/mods/attack) is used as the framework for third-person combat in the list.
 
 ### Leveling and Progression
