@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.3.5](#035)
 - [0.3.4](#034)
 - [0.3.3](#033)
 - [0.3.2](#032)
@@ -26,6 +27,16 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.5
+
+### Info
+
+Maintenance Update. Save Safe?
+
+ - Corrected description on Quick Slash rank 1.
+ - Corrected description on Deep Cuts rank 1.
+ - Fixed New Game CTD??? I have no idea why this only happened with New Game saves and didn't affect existing saves?
 
 ## 0.3.4
 
@@ -69,7 +80,7 @@ Maintenance Update. Save Safe.
  - Changed Nevernude textures for female body.
  - Changed default greatsword animations.
  - Cleaned up some unused downloads.
- - Dodge cost increased from 35 to 40
+ - Dodge cost increased from 35 to 40.
 
 <Details>
 
