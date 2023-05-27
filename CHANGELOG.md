@@ -36,7 +36,7 @@ Maintenance Update. Save Safe?
 
  - Corrected description on Quick Slash rank 1.
  - Corrected description on Deep Cuts rank 1.
- - Fixed New Game CTD??? I have no idea why this only happened with New Game saves and didn't affect existing saves?
+ - Fixed New Game CTD??? I have no idea why this only happened with New Games and didn't affect existing saves.
 
 ## 0.3.4
 
