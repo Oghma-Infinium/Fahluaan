@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.3.4](#034)
 - [0.3.3](#033)
 - [0.3.2](#032)
 - [0.3.1](#031)
@@ -25,6 +26,30 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.4
+
+### Info
+
+Maintenance Update. Save Safe.
+ 
+ - Forgot to disable Precision debug from testing in the last compile. Update is unneeded, you can simply toggle it off in the Precision MCM.
+ - Fixed Crash when using certain weapon+shield combinations. (Colin fixed this, I'm just listing it for documentation purposes).
+ - Removed redundant plugin that caused floating objects near Ivarstead.
+ - Regenerated SynENBLightPatcher.
+ - Properly Patched Talos for Stormcrown.
+
+<Details>
+
+### Updated
+
+ - Blade and Blunt
+
+### Added
+
+ - High Gate Ruins Puzzle Reset Fix
+
+</Details>
 
 ## 0.3.3
 
