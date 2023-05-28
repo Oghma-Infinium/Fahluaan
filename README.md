@@ -21,7 +21,9 @@
 ***Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.***
 
 # Contents
-  - [Introduction](#Introduction)
+- [Installation](#installation)
+- [Contents](#contents)
+  - [Introduction](#introduction)
     - [System Requirements](#system-requirements)
   - [Installation](#installation-1)
     - [Pre-Installation](#pre-installation)
@@ -33,7 +35,7 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Fahluaan](#downloading-and-installing-Fahluaan)
+      - [Downloading and Installing Fahluaan](#downloading-and-installing-fahluaan)
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
@@ -45,10 +47,12 @@
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In-Game MCM options](#in-game-mcm-options)
+    - [Note about Survival Mode](#note-about-survival-mode)
     - [Note For Content Creators](#note-for-content-creators)
   - [Updating the modlist](#updating-the-modlist)
-  - [Tweaking the Game Settings](#tweaking-the-game-settings)
-    - [BethINI](#bethini)
+    - [Tweaking the Game Settings](#tweaking-the-game-settings)
+      - [Performance INI Options](#performance-ini-options)
+      - [BethINI](#bethini)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
@@ -187,18 +191,18 @@ Until official release, please download the .wabbajack file from the above link.
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
-- [Children of the Pariah](https://href.li/?https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw) - download `CotP FOMOD 1.2.1.7z`
+- [CotP FOMOD 1.2.1.7z](https://href.li/?https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw) - Make sure you pick the `Standard Download` option when downloading the mod.
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
-- [ADXP 1.6.0.5](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
-- [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
-- [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
-- [Creatures DXP](https://www.skyrim-guild.com/s/SG-Creatures-Preview-v022.zip)
+- [Attack+MCODXP+v1.6.0.5.zip](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
+- [Impactful+Blocking+1.4.rar](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
+- [Elder+Souls+-+The+Collection+v0.9+SE+(AMR).7z](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
+- [SG+Creatures+Preview+v0.2.2.zip](https://www.skyrim-guild.com/s/SG-Creatures-Preview-v022.zip)
 
 Patreon downloads incase they give problems.
-- [Eskyrim Fomod v1.1](https://www.patreon.com/file?h=65532242&i=10998255)
-- [Eskyrim Fomod v1.2](https://www.patreon.com/file?h=68233071&i=11449877)
-- [Eskyrim Sprint](https://www.patreon.com/file?h=68233071&i=11449874)
+- [Eskyrim MCO Installer 1.1.7z](https://www.patreon.com/file?h=65532242&i=10998255)
+- [Eskyrim MCO Installer 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449877)
+- [Eskyrim Sprint Attacks 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449874)
 
 ### Problems with installation
 
@@ -342,13 +346,13 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Fahluaan - Default Profile`.
 
-`**Skyrim.ini**  
-[Display]  
+**Skyrim.ini**  
+>[Display]  
 fSAOIntensity=15  
 fSAOExpFactor=0.220  
 fSAORadius=800.0000  
 fSAOBias=0.5000  
-fSAOValueDiffFactor=0.3000` 
+fSAOValueDiffFactor=0.3000
 
 #### BethINI
 
