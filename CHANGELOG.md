@@ -15,12 +15,539 @@
 ---
 
 # Changelog
-  - [0.2.3](#023)
-  - [0.2.2](#022)
-  - [0.2.1](#021)
-  - [0.2.0](#020)
-  - [0.1.0-RC2](#010-rc2)
-  - [0.1.0-RC1](#010-rc1)
+- [0.3.5](#035)
+- [0.3.4](#034)
+- [0.3.3](#033)
+- [0.3.2](#032)
+- [0.3.1](#031)
+- [0.3.0](#030)
+- [0.2.3](#023)
+- [0.2.2](#022)
+- [0.2.1](#021)
+- [0.2.0](#020)
+- [0.1.0-RC2](#010-rc2)
+- [0.1.0-RC1](#010-rc1)
+
+## 0.3.5
+
+### Info
+
+Maintenance Update. Save Safe?
+
+ - Corrected description on Quick Slash rank 1.
+ - Corrected description on Deep Cuts rank 1.
+ - Fixed New Game CTD??? I have no idea why this only happened with New Games and didn't affect existing saves.
+
+## 0.3.4
+
+### Info
+
+Maintenance Update. Save Safe.
+ 
+ - Forgot to disable Precision debug from testing in the last compile. Update is unneeded, you can simply toggle it off in the Precision MCM.
+ - Fixed Crash when using certain weapon+shield combinations. (Colin fixed this, I'm just listing it for documentation purposes).
+ - Removed redundant plugin that caused floating objects near Ivarstead.
+ - Regenerated SynENBLightPatcher.
+ - Properly Patched Talos for Stormcrown.
+
+<Details>
+
+### Updated
+
+ - Blade and Blunt
+
+### Added
+
+ - High Gate Ruins Puzzle Reset Fix
+
+</Details>
+
+## 0.3.3
+
+### Info
+
+Maintenance Update. Save Safe.
+
+ - Fixed improper keyword on enchanted spear variants.
+ - Updated Bodyslide Output.
+ - Fixed some loading screen inconsistencies.
+ - Cleaned up some dev backend.
+ - Fixed Dual Katana conditions.
+ - Fixed issue with Khajiits caused by EasyNPC.
+ - NPCs will not use Katana movesets due to the current moveset being unsuitable.
+ - Removed level hard cap at level 50, you can now level after level 50, but gain half as much attribute.
+ - "Fixed" incorrect collision for the Glass War Axe.
+ - Changed Nevernude textures for female body.
+ - Changed default greatsword animations.
+ - Cleaned up some unused downloads.
+ - Dodge cost increased from 35 to 40.
+
+<Details>
+
+### Updated
+
+ - Riften Docks Overhaul
+ - Gore
+ - Stormcrown - A Shout Overhaul
+ - Adamant - A Perk Overhaul
+ - Hand to Hand - An Adamant Addon
+ - Aetherius - A Race Overhaul
+ - Remote Interactions
+ - aljos Apothecary Patches
+ - Miscellaneous Skyrim Unbound Addons
+ - Blade and Blunt
+ - Fahluaan - Bodyslide Output
+ - Unofficial Skyrim Special Edition Patch
+
+### Added
+
+ - Salt and Wind - Rough Hair for KS Hairdos SE
+ - Dawnguard Armors and Weapons Retexture SE
+ - Katanas of Skyrim
+ - For Honor in Skyrim I Warden
+
+### Removed
+
+ - HQ Solitude
+ - Dark Souls Undressed - NeverNude - Underwear - CBBE - HIMBO
+    > Mod is unneeded.
+
+</Details>
+
+## 0.3.2
+
+### Info
+
+Some rapid fire fixes
+
+ - Corrected a mistake in the uncapper.
+ - Fixed Gamepad file so it should hopefully just work without issue. . .maybe.
+
+## 0.3.1
+
+### Info
+
+I only really made this version differentiation because it is genuinely easier for me to keep the changelog this way due to a large break in time.
+
+ - Katanas (one-handed) now benefit from War-Axe perks, rather than sword perks.
+ - Spears (two-handed) now benefit from Battleaxe perks, rather than greatsword perks.
+ - Quarterstaves no longer exist.
+ - Spears are integrated, Katanas will likely be somewhat more integrated in the future (depends on whether or not more suitable animations exist).
+ - Halberds will be less common.
+ - Fixed issues with sheathed Locomotion.
+ - Cleaned up old/redundant download files.
+ - Returned the ability to move dead NPCs.
+ - Potentially fixed Bloodskal Blade.
+ - Removed Perk Point rewards from Vigilant quests since Karma already exists.
+ - Transitioned to a Vanilla-Styled leveling system, feedback is appreciated as I was only able to test early game.
+ - Increased interior brightness by a little.
+ - Added the 9 Shrines of the Divines to the Skyrim Unbound starting room.
+ - Potential fix for Poison-related crashes thanks to Dareni and Simon.
+ - I probably broke Gamepads again this update.
+
+<Details>
+
+### Updated
+
+ - Fahluaan Outputs
+ - Lawless - A Bandit Overhaul
+ - Dragon War - A Dragon Overhaul
+ - Lux Via
+ - Flames of Coldharbour
+ - Amol Village
+ - Environs - The Shrines of Talos
+ - Environs - Kolskeggr
+ - Audio Overhaul for Skyrim SE
+ - Natura - Spriggans
+ - Universal Cured Serana Eye Fix
+ - Survival Mode Improved - SKSE
+ - Hand to Hand - An Adamant Addon
+ - Adamant - A Perk Overhaul
+ - DynDOLOD 3 Alpha
+ - Mysticism - A Magic Overhaul
+ - Interesting NPCs (3DNPC) - Patch Collection
+ - Sil Gahrot - Improved Shouts Learning
+ - Aetherius - A Race Overhaul
+ - Icy Mesh Remaster - Ice Glaciers - LOD - Caves
+ - Stormcrown - A Shout Overhaul
+ - Stellaris
+ - Lunaris
+ - Gore
+ - Riften Docks Overhaul
+ - Expressive Remiel Patch
+ - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+ - Bloodmoon
+ - Necrom
+ - Vulcano
+ - Arclight
+ - Mundus - A Standing Stone Overhaul
+ - Assorted mesh fixes
+ - Interesting Follower Requirements for 3DNPCs
+ - The Dragon Cult - A Draugr Overhaul
+ - ENB Series
+ - Miscellaneous Skyrim Unbound Addons
+ - Faster HDT-SMP
+ - Creation Club - Reintegrated
+ - Natura
+
+### Added
+
+ - Statue of Kynareth
+ - Statue of Kynareth - My patches SE
+ - Spaghetti's Solstheim - AIO
+ - Environs - Master Plugin
+ - Ancient Nord Armors and Weapons Retexture SE
+ - Environs - Hroggar's House
+ - Desecration
+ - Simple Offence Suppression MCM - Ascension Patch
+ - Lawless Bruma - A Bandit Overhaul for Beyond Skyrim Bruma
+ - Desecration - Deadly Spell Impacts Decals Patch
+ - Auri Follower Replacer - Chooey's Choice
+ - Chooey's Choice Requirements
+ - Kynareth Replaces Talos - Civil War Consequence
+ - Cathedral - 3D Grass Library
+ - Cathedral - 3D Solstheim Grass
+ - 4K Tel Mithryn
+ - SIRENROOT - Deluge of Deceit
+ - Betty Netch
+ - Nightingale Armor and Weapons Retexture SE
+ - Spaghetti's Palaces - Dragonsreach
+ - Timing is Everything
+ - Timing is Everything - Settings Manager
+ - Arcane
+ - TK Dodge
+ - Happy Little Trees
+ - Happy Little Trees - DynDOLOD Addon
+ - Alternate Marsh for Happy Little Trees
+ - Happy Little Trees - Alternate Cut Stumps
+ - Happy Little Logs
+ - Aspens Ablaze
+ - Aspens Ablaze - DynDOLOD Addon
+ - Skyland Happy Little Trees Bark
+ - Happy Little Trees - patches
+ - Animated Ice Floes
+ - Eivor Animations - AC Valhalla animations replacer
+ - Silly Level of Detail - Wine Cellar -- SLOD WC
+ - Happy Little Trees - Beyond Skyrim Bruma LOD Replacer
+ - CBPC Equipment Physics
+ - Follower Distance Tweaks
+ - Reading Is Good
+ - Taunt Your Enemies - Taunting Matters
+ - Remote Interactions
+ - Remote Interactions - Settings Loader
+ - Comprehensive First Person Animation Overhaul - CFPAO
+ - SmoothCam - EasyEase Preset
+ - The Coachmen
+
+### Removed
+
+ - Skaal Village Overhaul
+ - IMR ENB Addon
+    > Reason: had some issues with flickering lods.
+ - Identity Crisis
+ - The Tale of Tsatampra Xiros
+ - Animated Armoury - DAR Version - New Weapons with animations
+ - Animated Armoury - Fixes and Enchantments
+ - Goblins - Spears Addon and Bruma Patch
+ - Fishing Rods are Rapiers - Animated Armoury
+ - Animated armoury Grip position fix
+ - New Armory Series - Ash Spawn Weapons
+ - Frankly HD Nightingale Armor and Weapons
+ - Rain Extinguishes Fires
+ - Unique Solstheim Grass
+ - Unique Solstheim Grass for ENB Complex Grass
+ - Unaggressive Dragon Priests Fix
+ - DMCO
+ - DMCO Settings Loader
+ - Infinity Dodge
+ - King-Priest
+ - Wigfrid's Skyrim Tree Replacer
+ - Arisen RaceMenu Presets
+ - Show Player In Menus
+ - Elden Rim - Weapon Arts 2.05 (MCO)
+ - NPCs Names Distributor
+ - Dovah Names
+ - Drifter Armor and Outfit - My version
+ - Xtudo's Drifter Armor and Outfit - CBBE - 3BA BodySlide
+ - Attack speed to damage conversion for MCO-ADXP
+ - LamasTinyHUD - A Quick Slot Mod with Elden Souls Option
+ - Insightful Leveling
+ - Smart Training - Tweaked SE
+ - Road Signs Fast Travel - Base Object Swapper
+ - Leveling Freedom
+
+</Details>
+
+## 0.3.0
+
+### Info
+
+This version is absolutely **NOT** Save Safe.
+
+ - Increased number of Skyshards needed per perk point from 4 --> 6.
+    - This is compensated by more perks being available from certain questlines.
+    - I want Skyshards to be a reward for exploration, not as a primary focus for people while they are exploring.
+ - Disabled letterbox by default in the ENB.
+ - Draugr can no longer be damaged when "awakening" from their slumber.
+ - Fixed issue with unarmed sprint.
+ - Patched Meridia Shrine in Vigilant to give the proper buff.
+ - Gave Athis and Torvar some much needed equipment upgrades.
+ - Added more NPCs to RSV Exclusion.
+ - Some undocumented changes in the changelog.
+ - ENB Water tweaks to hide water seams better.
+ - Fixed issue with Male werewolves if using a different werewolf texture besides default.
+
+<Details>
+
+### Updated
+
+ - Beyond Skyrim Bruma
+ - Dragon War
+ - Dragon Cult
+ - Abyss
+ - DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+ - Creation Club - Reintegrated
+ - Cathedral 3D Mountain Flowers - Base Object Swapper
+ - Animated Forge Water
+ - Natural Waterfalls
+ - Smaller Cathedral 3D Plants
+ - Gore
+ - Elven Ears for Breton NPCs
+ - Chapter II - Jeremy Soule Inspired Music
+ - Mesh patches for Lux and Lux Orbis
+ - Miscellaneous Skyrim Unbound Addons
+ - The Dragon Cult - A Draugr Overhaul
+ - Lawless - A Bandit Overhaul
+ - Survival Mode Improved - SKSE
+ - Natura
+ - Ascension
+ - Flames of Coldharbour
+ - Bloodmoon
+ - Icy Mesh Remaster
+ - Swiftly Order Squad
+ - Simply Order Summons
+ - LOD Model Library for DynDOLOD
+ - Adamant
+ - Hand to Hand
+ - Simplicity of Snow
+ - Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+ - Thaumaturgy
+ - Apothecary
+ - Snowy Surfaces Sound Collision and Aesthetics
+ - Vittorias Alternate Wedding - Patches
+ - DynDOLOD
+ - DynDOLOD Resources
+ - DynDOLOD DLL SE
+ - Casting Bar
+ - Forgotten Retex Project
+ - Misc Retexture Project
+ - ENB Light Inventory Fix
+ - Praedy's Staves AIO Patch Hub
+ - aljos Apothecary Patches
+ - Miscellaneous Skyrim Unbound Addons
+ - Fancy Sleeping Tree Replacer
+ - Project ja-Kha'jay- Interesting NPCs Khajiit Addon
+ - Hokoron - Enemy Overhaul
+ - Precision Creatures
+ - Caught Red Handed - Quest Expansion
+ - Simply Order Summons
+ - QuickLoot RE
+
+### Added
+
+ - Spaghetti's Towns - AIO
+ - Survival Control Panel
+ - Ave's Silver Sapphire Ring Replacer for Beyond Skyrim - Bruma
+ - DLC2dunSeekerInvisScript Fix
+ - Khajiit Hair by Saerileth
+ - VIGILANT Music Extended
+ - UNSLAAD Music Extended
+ - SC - Khajiit Improvement - Specular Map Only
+ - Natura - Spriggans
+ - (Khajiit) Lioness Look SSE
+ - Khajiit Male Lion Textures
+ - Simple Follower Extension AE
+ - Natura - Stone Atronach Retexture
+ - DLC2MiraakScript Fix
+ - Leather Armors Retexture SE
+ - Flames of Coldharbour - Deadly Spell Impacts Decals Patch
+ - Ave's Silver Emerald Ring Replacer for Beyond Skyrim - Bruma
+ - Immersive Folded Hands (No looped)
+ - NPC Animation Remix (No Looped)
+ - Gesture Animation Remix
+ - Amon Textures HD
+    - Wrfireplaceclutter and Bright
+    - Wood Mount and Mounted Head Base
+    - Various Clutter Part One
+    - Various Clutter Part Two
+    - Some Quest Clutter
+    - Solstheim Stump AshL Tree Bask
+    - Skull Pedestal
+    - Serratedtrap and Shipkatariash
+    - rieklingpaint
+    - Quest Maps Dwemer Schematic and Ship Sail
+    - Ore Stone and Crystal Stone
+    - Nocturnal Altar
+    - Karstaag Skull
+    - Ildaris Sacophagus
+    - Forgotten Vale Forgotten Grass
+    - Forgotten Grass and Plants Textures
+    - Firebrandwine and Sanspicedwine
+    - Ectoplasm and Bones
+    - DragonMap
+    - dlc02 Scrib Meat
+    - Dawnbreaker Pedestal
+    - Byoh Straw
+ - Resurgence Armory - Stalhrim Weapons and Armor Overhaul
+ - 3BA and HIMBO Refits for Resurgence Armors
+ - Resurgence Armory - Artifact Weapons and Armor Overhaul
+    - Only CC
+ - Kanjs - Arms of Chaos
+ - Kanjs - Gallows Hall Retextures And Meshes fix
+ - HQ Solitude
+ - Dovahnique's Diverse Dark Elf Lanterns (BOS - ENB Lights - High Poly)
+ - Khajiit Has Wares - A Caravan Camp Overhaul
+ - Vanilla Script (micro)Optimizations
+ - Simplicity of Settlements - Dragon Bridge - Base Object Swapper
+ - The Dragon Bridge
+ - Animal and Creature Loot Tweaks
+ - Arclight
+ - Spear of Skyrim
+ - Spear of Skyrim - Thaumaturgy Patch
+ - Apothecary Anniversary Update
+ - Fluffy Wall Mounted Dead Animals
+ - Better Imperial Forts
+ - SB - Better Blending Helgen Mud
+ - Snowy Landscape Discoloration Removed
+ - Snowy Tree Swapper - Base Object Swapper
+ - Mushroom Remover for Dead Trees
+ - Realistic High Altitude Treeline
+ - Evil Dead Trees - Dying Trees in Evil Places
+ - Stalhrim Source
+ - Praedy's Castle Volkihar - SE
+ - Remove Ash Pebbles
+ - Weathered Dark Elf Furniture Retexture
+ - Arvak - My version
+ - Iconic's Arvak Retexture
+ - Better Pelts and Hides
+ - Dunmeri Furniture in Gray Quarter
+ - Dunmeri Barset for The Retching Netch (Base Object Swapper)
+ - Weathered Furniture - Common and Upper Class
+ - CC's HQ Barset
+ - Unique Stros M'Kai Rum
+ - Amol Village
+ - Amol Village - Performance edit
+ - Granite Hill
+ - Dunpar Wall
+ - s6o6t LORE - Oblivion gates AE
+ - DLC2dunFrostmoonTriggerScript Optimization
+ - HD Reworked Shellbug
+ - Particle Lights for ENB - Rally's Riekling Outposts
+ - Rally's Solstheim - Parallax
+ - Taunt Your Enemies
+ - Remote Interactions
+ - Remote Interactions - Settings Loader
+ - B.O.O.B.I.E.S
+ - A.S.S. for B.O.O.B.I.E.S
+ - B.O.O.B.I.E.S - Patches
+ - The Handy Icon Collection Collective
+ - Object Categorization Framework
+ - Orc Brow Horn Tweaks
+ - Khajiit Brow Whiskers
+ - Carriage Drivers - New Clothing SE
+ - CC Bone Colossus Skeleton Fix
+ - Fists of Fury
+ - Falmer Armors and Weapons Retexture SE
+ - Stormcrown - A Shout Overhaul
+ - aljos Stormcrown Patches
+
+### Removed
+
+ - Nessa
+ - Rogue Nord Armor
+ - Nessa armor replacer by Araviss
+ - Masculine Khajiit Textures
+ - Feminine Khajiit Textures
+ - Terre's 4K Fur Textures for CoverKhajiits
+ - Sprint Swimming
+ - Spaghetti's Towns - Nightgate Inn
+ - Spaghetti's Towns - Stonehills
+ - Spaghetti's Towns - Old Hroldan
+ - Spaghetti's Towns - Kynesgrove
+ - Spaghetti's Towns - Shor's Stone
+ - Spaghetti's Towns - Karthwastern
+ - Spaghetti's Towns - Riverwood
+ - Spaghetti's Towns - Rorikstead
+ - Spaghetti's Towns - Ivarstead
+ - Spaghetti's Towns - Dragon Bridge
+ - Simple Follower Extension
+ - Detailing the Eldrich - Higher-Res Riekling Architecture
+ - Stalhrim Refrozen
+ - Blended Roads - Simplicity of Snow Patch
+ - HD Ruined Book Retexture
+ - Shiny ENB Eyebrows Begone
+ - Dark Elf Lantern ENB Light - Animated Glow
+ - Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+ - Unnecessarily Fixed Fixed Dragon Stalking Fix
+ - Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+ - Modern Clap Bug Fix
+ - Mage Armor Script Fix
+ - King Olaf's Fire Festival Not Ending Fix
+ - High Gate Ruins Puzzle Reset Fix
+ - FUS RO DON'T - PushActorAway Crash Prevention Script Tweak
+ - CritterSpawn Congestion Fix
+ - dunFolgunthurBossBattle Script Fix
+ - Ammo Enchanting - Craft Magical Arrows and Bolts
+ - Styyx Enchanted Arrows
+ - Remove Small Rocks
+ - Dlizzio's Mesh Fixes - Skyrim Landscape and Water Fixes Patch
+ - Blue Palace Roof Mesh Fix
+ - Rodryk's Dragon Bridge
+ - Rodryk's Dragon Bridge - Patch Collection
+ - Rodryk's Dragon Bridge Retexture
+ - Matching LOD Textures for Rodryk's Dragon Bridge Retexture by AgentW
+ - Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
+ - Rodryk's DB Mesh and Collision Optimization
+ - Rorikstead Basalt Cliffs
+ - Improved Jail Bars
+ - OIL - My HD version SE
+ - Burned Book Retexture 4k - 2k
+ - ElSopa - Silver Mold Redone
+ - Elder Council Amulet - Replacer
+ - HD Saw dust
+ - 2K Dog Meat
+ - Chisel Replacer HD
+ - ElSopa - HD Better Bloody Rags SE
+ - Frankly HD Dragon Bones
+ - Icy Wraith Teeth
+ - CC The Cause Ayleid Crystals Retexture HD - Enb Light
+ - CC's Castle Volkihar Remastered
+ - Arri's Snow Elf Ruins Retexture Special Edition
+ - 4K Tendril Vines
+ - Fire Hurts NG
+ - Fires Hurt RE
+ - RUSTIC SPRIGGAN - Special Edition
+ - Friendly Wisp Orbs
+ - Particle Lights for ENB - Light Orbs - Motes
+ - Serana Follower Framework
+ - HD Vigilant Project - Pelinal
+ - HD Vigilant Project - Amulet of Kings
+ - Less Obtrusive Wards
+ - Paulicus Poison Block (PPB) Updated
+ - Nocturnal Moths
+ - Blackmoon's Brows
+ - EasierRider's Dungeon Pack
+ - EasierRider's Dungeon Pack - Unique rewards SE
+ - Dragon Claws Auto-Unlock
+    - Reason: Users were reporting issues with it, and since it breaking softlocks certain dungeons, I'm erring on the side of caution.
+ - Dragon Claws Auto-Unlock - Script-based Patcher
+ - Waking Nightmare
+ - Nordic Lore Integration - The Stone of Snow-Throat
+ - Headhunter - Bounties Redone
+ - SCAR Stamina Limitation Patch
+ - Forceful Tongue
+
+</Details>
 
 ## 0.2.3
 
@@ -47,15 +574,14 @@ This update is **save-safe.** Just another bug-fixing update
 
 </Details>
 
-
 ## 0.2.2
 
 ### Info
 
 This update is **save-safe.** This is mostly a maintenance update with a few bug fixes.
- 
+
  - Fixed sprint animation when no weapons were equipped
- - Tweaked the ENB further. Small changes were made to the interior lighting, daytime brightness, and water settings. Wetsurfaces, RainWetSurfaces, Letterbox, and TerrainBlending were also turned off due to visual issues
+ - Tweaked the ENB further. Small changes were made to the interior lighting, daytime brightness, and water settings. Wetsurfaces, RainWetSurfaces, and TerrainBlending were also turned off due to visual issues
  - Fixed Auri's hut being an ugly blue wood color
  - xLODGEN missing file should be fixed now
   
@@ -63,13 +589,15 @@ This update is **save-safe.** This is mostly a maintenance update with a few bug
 <Details>
 
 ### Updated
-- Kreate
+ - Kreate
 
 </Details>
 
 ## 0.2.1
 
 ### Info
+
+This update is **save-safe.**
 
  - This update is primarily a recompile of the pervious version due to my own skill issues.
 
@@ -83,12 +611,11 @@ This update is **save-safe.** This is mostly a maintenance update with a few bug
 
 </Details>
 
-
 ## 0.2.0
 
 ### Info
 
- - This update may be save safe, but if you are continuing a save you might encounter some oddities.
+This update may be save safe, but if you are continuing a save you might encounter some oddities.
     - If you are continuing a save, **please save in an interior and backup your saves**.
  - Fixed potion inventory sizes.
  - Fixed an oversight with God-King Soul Reaver's Weapon.

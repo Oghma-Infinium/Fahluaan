@@ -187,11 +187,10 @@ Until official release, please download the .wabbajack file from the above link.
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
-- [Tullfx Bloodstorm](https://drive.google.com/file/d/1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA)
+- [Children of the Pariah](https://href.li/?https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw) - download `CotP FOMOD 1.2.1.7z`
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [ADXP 1.6.0.5](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
-- [DMCO 0.9.8](https://www.skyrim-guild.com/s/DMCO_098.zip)
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 - [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
 - [Creatures DXP](https://www.skyrim-guild.com/s/SG-Creatures-Preview-v022.zip)
@@ -256,10 +255,6 @@ Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the
 **Some additional tweaking for visual consistency:**
  1. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
     a. PositionX=-0.127  
-![](IMG)
- 2. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
- ![](IMG)
- ![](IMG)
 
 ### Controller and Gamepad Setup
 
@@ -280,6 +275,7 @@ This section will cover the following Optional Tweaks that are included as a par
  6. **Fahluaan - Arachnophobia Patch**: Disables many spiders and other potentially triggering creatures throughout the game. Load below Synthesis patches.
  7. **Yet Another Music Merge - Content Creator Version and Music Patches for Content Creators**: If this is relevant to you, you should probably enable this.
  8. **Dark Souls Undressed and NeverNude Body**: Enable these two mods in order to disable any nudity in the list.
+ 9. **First Person**: While the list does include first person animations, the first person gameplay itself might be slightly weird out of the box. In order to amend this in the best way possible, please activate `IdleAnimPatches - First Person.esp` at the bottom of the load order in the right pane. This patch will cause issues with the third person combat experience at the expense of making first person feel more correct (enables directional power attacks, left hand control, and reverts some other Idle Animation changes made by the Attack - MCO mod). Some additional customization may be required in-game for Dual Wield power attacks (handle this in the One Click Power Attack MCM). I also suggest bumping fov from default 85 to 90-100 if you plan on playing in first person.
 
  ### Performance
 
@@ -304,9 +300,7 @@ This section will cover the following Optional Tweaks that are included as a par
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
  - **Animated Overlays**: Allows for some additional character customization using RaceMenu's overlays.
  - **Better Third Person Selection**: Enable or Disable certain Filters here (ex: Stealing Only WHile Undetected).
- - **Dodge Framework**: Change Dodge keybind here. (Default: `L Alt`).
  - **Improved Alternate Conversation Camera**: Edit the dialogue view. Can also be done through the `.ini` file in Mod Organizer.
- - **Lamas Tiny HUD**: Read more about the setup [here](https://www.nexusmods.com/skyrimspecialedition/mods/82545).
  - **Lucien**: Customize Lucien here and pick from approved names that he can call the PC.
  - **NPCs Names Distributor**: Enable "Obscure Names" setting here, if that's your thing.
  - **OBody Standalone**: Set OBody menu key here. (Default: `;`).

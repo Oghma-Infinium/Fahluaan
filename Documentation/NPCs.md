@@ -109,14 +109,14 @@
 | Lodvar                  | Northbourne NPCs of Haafingar      |
 | Varnius Junius          | Pandorable's NPCs                  |
 | Faida                   | DIbella's Blessing                 |
-| Azzada Lylvieve         | DIbella's Blessing                 |
-| Michel Lylvieve         | Northbourne NPCs of Haafingar      |
+| Azzada Lylvieve         | Northbourne NPCs of Haafingar      |
+| Michel Lylvieve         | Pandorable's NPCs                  |
 | Avrusa Lylvieve         | Northbourne NPCs of Haafingar      |
 | Captain Metilius        | Modpocalypse                       |
 | Commander Maro          | Northbourne NPCs of Haafingar      |
 | Emperor Titus Mede II   | Northbourne NPCs of Haafingar      |
 | Emperor Decoy           | Northbourne NPCs of Haafingar      |
-| Julienne Lylvieve       | DIbella's Blessing                 |
+| Julienne Lylvieve       | Pandorable's NPCs                  |
 | Sheogorath              | Elevated NPCs                      |
 | Pelagius the Mad        | Modpocalypse                       |
 | Tsavani                 | Project ja-Kha'jay                 |
@@ -299,7 +299,7 @@
 | Ghorza gra-Bagol        | Children of the Pariah               |
 | Grisvar the Unlucky     | Modpocalypse                         |
 | Hathrasil               | Beards of Power                      |
-| Hreinn                  | Beards of Power                      |
+| Hreinn                  | Markarth Side Refine                 |
 | Hroki                   | DIbella's Blessing                   |
 | Igmund                  | Elevated NPCs                        |
 | Nana Ildene             | DIbella's Blessing                   |
@@ -632,7 +632,7 @@
 | Lemkil                | Beards of Power                   |
 | Anoriath              | Sons of Nirn                      |
 | Saffir                | DIbella's Blessing                |
-| Carlotta Valentina    | DIbella's Blessing                |
+| Carlotta Valentina    | Northbourne NPCs of Whiterun Hold |
 | Avulstein GrayMane    | Sons of Nirn                      |
 | Olfina GrayMane       | DIbella's Blessing                |
 | Fralia GrayMane       | DIbella's Blessing                |
