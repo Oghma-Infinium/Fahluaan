@@ -16,6 +16,9 @@
 
 ## FAQ
 
+### Q: Why does my game freeze after every load transition?
+A: It's not freezing, the list has a [mod](https://www.nexusmods.com/skyrimspecialedition/mods/60958) that pauses the game after cell transitions.
+
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `F5` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
 
@@ -69,9 +72,9 @@ A: No.
 Solution(s)
  1. open the console, select one of the NPCs, and type `paycrimegold 0 0`
 
-### Tolfdir won't initiate dialogue with Ancano during the "The Eye of Magnus" quest!
+### Can't start the Forsworn Conspiracy Quest / Kibell doesn't have the dialogue to initiate the Forsworn Conspiracy!
 Solution(s)
- 1. Once in the Hall of the Elements, after Ancano finishes talking, click on Tolfdir in console and type `disable` followed by `enable`. This should trigger the fight to start.
+ 1. Open the console and type `set ANDR_MS01_Ready to 1` and then enter Markarth between the hours of 8am and 8pm and the scene between Weylin and Margaret should play out, allowing you to start the quest normally.
 
 ### [Insert Issue with the Civil War]
 Solution(s)
