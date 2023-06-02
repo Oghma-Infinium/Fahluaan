@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.3.7](#037)
 - [0.3.6](#036)
 - [0.3.5](#035)
 - [0.3.4](#034)
@@ -28,6 +29,38 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.7
+
+### Info
+
+Maintenance Update. Save-Safe.
+
+ - Cleaned unneeded file out of the download folder that caused failed installations due to being removed from the Wabbajack CDN.
+ - Fixed a mesh that cause crashes in Falkreath and Windhelm.
+ - Removed Remembrances from Belethor, this change may not reflect in existing games, however these notes were deprecated.
+ - Made some changes to stagger - may be reverted depending on feedback.
+ - Removed some unnecessary SPID files.
+ - Added Thorald to the list of RSV exclusions.
+ - Restored HoonDing's attack speed bonus.
+ - Updated miscellaneous sections on the [Gameplay Doc](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md) and [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) to reflect current list.
+
+<Details>
+
+### Updated
+
+ - NotSoFestive Spaghetti's Towns and Cities
+ - NPCs React To Invisibility
+
+### Added
+
+ - Race Menu Player Rotation
+
+### Removed
+
+ - Another Race Menu Rotation Mod
+
+</Details>
 
 ## 0.3.6
 

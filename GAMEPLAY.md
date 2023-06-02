@@ -98,7 +98,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
 #### Religion Tweaks
 
- - **HoonDing**: Attack Speed bonus has been changed to damage bonus for One-Handed builds that have no item in their offhand.
+ - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
 
 ### Quests Changes
