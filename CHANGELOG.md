@@ -15,6 +15,8 @@
 ---
 
 # Changelog
+- [0.3.7](#037)
+- [0.3.6](#036)
 - [0.3.5](#035)
 - [0.3.4](#034)
 - [0.3.3](#033)
@@ -27,6 +29,99 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.7
+
+### Info
+
+Maintenance Update. Save-Safe.
+
+ - Cleaned unneeded file out of the download folder that caused failed installations due to being removed from the Wabbajack CDN.
+ - Fixed a mesh that cause crashes in Falkreath and Windhelm.
+ - Removed Remembrances from Belethor, this change may not reflect in existing games, however these notes were deprecated.
+ - Made some changes to stagger - may be reverted depending on feedback.
+ - Removed some unnecessary SPID files.
+ - Added Thorald to the list of RSV exclusions.
+ - Restored HoonDing's attack speed bonus.
+ - Updated miscellaneous sections on the [Gameplay Doc](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md) and [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) to reflect current list.
+
+<Details>
+
+### Updated
+
+ - NotSoFestive Spaghetti's Towns and Cities
+ - NPCs React To Invisibility
+
+### Added
+
+ - Race Menu Player Rotation
+
+### Removed
+
+ - Another Race Menu Rotation Mod
+
+</Details>
+
+## 0.3.6
+
+### Info
+
+Maintenance Update. Save-Safe.
+
+ - Fixed `TreePineForestLog01MoraTapinella` using incorrect world model, causing it to be invisible.
+ - Hid `bottombar.swf` and `itemcard.swf` in Survival Mode Improved, which was overwriting Untarnished UI.
+ - Fixed Dual Katana conditions.
+ - Corrected error in the Gamepad's TK Dodge.ini file that set the Dodge cost to 35 instead of 40.
+ - Fixed missing texture on Nightingale Sheath.
+ - Fixed RSV distribution on Thonjolf which caused some buggy facial hair.
+
+<Details>
+
+### Updated
+
+ - Vulcano
+ - Desecration
+ - Stellaris
+ - Necrom
+ - Bloodmoon
+ - Abyss
+ - Lunaris
+ - Natura
+ - The Ferrymen
+ - Unofficial Skyrim Special Edition Patch
+ - Unofficial Skyrim Modder's Patch - USMP SE
+ - The Handy Icon Collection Collective
+ - FormList Manipulator - FLM
+ - Casting Bar
+ - Embers XD
+ - Vanilla Scripting Enhancements
+ - Another Race Menu Rotation Mod
+ - Rudy HQ - More dramatic Red Mountain Plume
+ - The Coachmen
+ - Another Race Menu Rotation Mod
+ - Vestige - An Artifact Overhaul
+
+### Added
+
+ - Spaghetti's Palaces - Blue Palace
+ - Dragonactorscript infinite loop fix
+ - NPCs React To Invisibility
+ - Dual Casting Fix
+ - NotSoFestive Spaghetti's Towns and Cities
+
+### Removed
+
+ - Vigilant - My patches by Xtudo SE - Immersive text edit
+    > Redundant.
+ - DLC2TribalWerebearScript Fix
+ - DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+ - DLC2dunSeekerInvisScript Fix
+ - DLC2MiraakScript Fix
+ - DLC2dunFrostmoonTriggerScript Optimization
+ - High Gate Ruins Puzzle Reset Fix
+ - Motionless Rocks Killing People Fix
+
+</Details>
 
 ## 0.3.5
 

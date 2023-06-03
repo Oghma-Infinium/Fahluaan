@@ -43,6 +43,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - [The Gift of Charity](https://elderscrolls.fandom.com/wiki/The_Gift_of_Charity) now gives 10% experience for 4 hours instead of Fortify Persuasion for 1 hour.
    - [Ancient Knowledge](https://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge) gives a permanent 20% experience gain to crafting skills.
    - Gift of Gab gives a permanent 10% experience gain to all skills.
+   - Skill books provide a permanent boost to leveling speed in their respective skill, instead of giving a level. This effect is boosted by the Scholar's Insight Black Book power. 
  - Leveling up requires sleeping in a bed. This is done to incentivize "good behavior".
  - You will gain a total of 15 perks by level 50. Perks can also be obtained through the following:
    - **Skyshards**: 6 skyshards will grant 1 perk point. (18 perks total).
@@ -97,7 +98,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
 #### Religion Tweaks
 
- - **HoonDing**: Attack Speed bonus has been changed to damage bonus for One-Handed builds that have no item in their offhand.
+ - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
 
 ### Quests Changes
