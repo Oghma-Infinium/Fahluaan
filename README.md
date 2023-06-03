@@ -379,6 +379,7 @@ Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
 
 Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/4WwqfK5yHg) discord server for support.
 
+
 ## Credits and Thanks
 
 - _YOU_ for reading this.
