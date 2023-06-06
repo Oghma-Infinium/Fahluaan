@@ -62,6 +62,10 @@ A: No.
 
 ## Known Issues
 
+### [Insert NPC] is naked despite having armor in their inventory!
+Solution(s)
+ 1. Currently there is no known solution to this as it is a non-reproducible issue with [SPID's](https://www.nexusmods.com/skyrimspecialedition/mods/36869) outfit distribution method from version 6.5 onwards. Unfortunately, the newer versions of SPID have added some much needed functions utilized by other mods, so while this issue is rare, it's entirely unavoidable.
+
 ### Being randomly attacked or arrested by NPCs!
 Solution(s)
  1. open the console, select one of the NPCs, and type `paycrimegold 0 0`
