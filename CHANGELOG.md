@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.3.8](#038)
 - [0.3.7](#037)
 - [0.3.6](#036)
 - [0.3.5](#035)
@@ -29,6 +30,25 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.3.8
+
+### Info
+
+Maintenance Update with a few additions. Save-Safe.
+
+ - Fixed installation errors with CotP (Children of the Pariah)
+
+<Details>
+
+### Added
+
+ - Relics Of The Crusader Improved
+ - Vigilant - Armor Rebalance
+ - Vigilant - Pilgrim Patch
+ - Vigilant - Wasteland Tree
+
+</Details>
 
 ## 0.3.7
 
