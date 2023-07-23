@@ -79,6 +79,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Ram**    | 32gb (2x16) | 16gb (2x16) |
 | **Storage**    | 970 EVO NVMe | SATA SSD |
 
+Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
+
 Downloads: ~170 GB  
 Install: ~210 GB  
 Temp Files: ~40 GB (on OS drive)  
