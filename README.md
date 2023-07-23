@@ -269,7 +269,7 @@ In Addition to the optional tweaks, for those with arachnophobia and/or entomoph
 
  ### Performance
 
- Supported performance options for Fahluaan, more information is written in the notes in MO2. If you choose to use the performance ENB Preset, make sure to also read the [performance ini options](#performance-ini-options) section. Sound Fix for Large Sector Drives can be enabled if you have a large sector drive, I have heard conflicting accounts on whether or not there is a downside to having it enabled on non-Large sector drives. If in doubt, just enable the mod.
+This section requires a rewrite.
 
 ## Playing the List
 
