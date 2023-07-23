@@ -14,6 +14,8 @@
 
 ---
 
+# <p align="center"> <ins>Please Note that this is not updated for the newest version of Fahluaan (0.9.0+). I am leaving this as a reference because it may be correct for some NPCs.<ins></p>
+
 # NPCs
 
 ## Table of Contents

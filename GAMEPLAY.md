@@ -26,14 +26,14 @@ This section will cover the absolute basics of the list, I suggest reading over 
 
  - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) and [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) handle the perks in the list. Some edits have been made to the perks to ensure cleaner "compatibility" with the rest of the list, they can be read about [here](#perk-tweaks).
  - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones respectively.
+ - [Aptitude](https://www.nexusmods.com/skyrimspecialedition/mods/96034) provides 20 classes to choose from, providing an initial boost to your character.
  - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) and [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) handle werewolves and vampires.
  - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) handles Religion as a mechanic, some changes have been made to the mod and can be read about [here](#religion-tweaks).
  - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) handles the overarching "rules" for combat. 
- - [Attack - Modern Combat Overhaul](https://www.skyrim-guild.com/mods/attack) is used as the framework for third-person combat in the list.
 
 ### Leveling and Progression
 
-Fahluaan modifies the vanilla leveling experience in a way to reward the player for engaging in the world in sensible ways. While perks can be obtained through leveling, the perks gained from leveling alone are unlikely to be sufficient for maintaining a full character build. Below is a general breakdown of what to expect with the leveling and progression system in Fahluaan.
+Fahluaan modifies the vanilla leveling experience in a way to reward the player for engaging in the world in sensible ways. While perks can be obtained through leveling, the perks gained from leveling alone are unlikely to be sufficient for sustaining a full character build in late game. Below is a general breakdown of what to expect with the leveling and progression system in Fahluaan.
 
 #### Changes to leveling
 
@@ -46,8 +46,6 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - Skill books provide a permanent boost to leveling speed in their respective skill, instead of giving a level. This effect is boosted by the Scholar's Insight Black Book power. 
  - Leveling up requires sleeping in a bed. This is done to incentivize "good behavior".
  - You will gain a total of 15 perks by level 50. Perks can also be obtained through the following:
-   - **Skyshards**: 6 skyshards will grant 1 perk point. (18 perks total).
-   - **Crystallized Knowledge**: Rare potions that can be found in dungeons, will grant 1 perk point. (28 total).
    - **Quests**: The following quests will grant 1 perk point on completion: (23 total). 
      - [Diplomatic Immunity](https://en.uesp.net/wiki/Skyrim:Diplomatic_Immunity)
      - [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller)
@@ -74,22 +72,32 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
      - [Someone with Backbone](https://tes-mods.fandom.com/wiki/Someone_with_Backbone)
    - The [Oghma Infinium](https://en.uesp.net/wiki/Skyrim:Oghma_Infinium) grants **3** perks on use.
    - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), and [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) add their own systems through which perks can be obtained, however these systems are not considered when balancing availability of perks, and it is generally suggested to avoid these systems for balancing purposes.
- - The first level up, level 2, gives bonus stats (20 Health, Magicka, or Stamina rather than the usual 10). You will gain a total of 500 attributes by level 50.
- - Skills will no longer contribute to level experience after level 50.
+ - The first level up, level 2, gives bonus stats (20 Health, Magicka, or Stamina rather than the usual 10). You will gain a total of 500 attributes by level 50 and 1000 attributes by level 100.
+ - There are 54 perks to accumulate through leveling by level 50, it is expected that an additional 15 to 20 are obtained via alternative sources.
  - Leveling up does not increase carry weight. This is done to make carry weight buffs feel worthwhile. 
- - Training is cheaper across the board and you can train up to 10 times per level.
+ - Survival Mode gives no penalty to carry weight.
+ - Training is slightly cheaper and you can train up to 10 times per level.
 
 ### List Tweaks
+
+#### Notable Control Changes
+
+ - In order to steal items while not sneaking, you must double tap the activator key (`E` by default).
 
 #### Perk Tweaks
 
  - **Conjuration**
-    - **Cultist**: 30/60 perks have been changed to no longer require the Summoner perk and no longer require a certain conjuration skill level, instead they become available at level 10/20.
- - **Hand to Hand**
-   - **Brace**: Changed resist incoming damage to resist stagger during unarmed power attacks.
-   - **Momentum** renamed to **Bob and Weave**: Changed attack speed bonus to damage resistance while unarmed.
+   - **Cultist**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
+ - **Heavy Armor**
+   - **Defender**: Unstoppable has been baked into this perk.
+   - **Unstoppable**: Removed.
+   - **Juggernaut**: Now gives flat +100/200 Armor Rating instead of +25/50% Armor Rating.
+ - **Light Armor**
+   - **Scout**: Unhindedered has been baked into this perk.
+   - **Unhindered**: Removed.
+   - **Specialist**: Now gives flat +100/200 Armor Rating instead of +25/50% Armor Rating.
  - **Restoration**
-   - **Pilgrim**: 30/60 perks have been changed to no longer require the Healer perk and no longer require a certain restoration skill level, instead they become available at level 10/20.
+   - **Pilgrim**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
  - **One-Handed**
    - **Dual Fury**: Changed resist incoming damage to resist stagger during dual wield power attacks.
    - **Flourish**: Changed speed gain from 20% to 10%.
@@ -100,6 +108,22 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
  - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
+
+#### Spell Tweaks
+
+ - **Abyss**
+   - Shadow Body removed.
+ - **Arclight**
+   - Arclight Body removed.
+ - **Lunaris**
+   - Lunar Body removed.
+ - **Natura**
+   - Aspect of the Bear, Viper, Fire Wyrm, Frost Wyrm, Shock Wyrm, Ferocity, and Rain removed.
+   - Aspect of the Crab 250 AR --> 200 AR.
+ - **Necrom**
+   - Eldritch Infection removed.
+ - **Vulcano**
+   - Molten Body removed.
 
 ### Quests Changes
 
@@ -123,7 +147,8 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
      - **Unfathomable Depths**: Same as vanilla, but the quest can not be initiated until a later level.
      - **Waking Nightmare**: All dialogue about the Nightmares in Dawnstar is disabled by default, until you reach the required level. When you reach the required level you can ask several people around town about the Nightmares. Once you do, Erandur will show up in the Windpeak Inn and the quest will start.
    - **Level 25+**
-     - **A Daedra's Best Friend**: Falkreath guards will not talk to you about Meeko or Lod prior to this level.       - **A Taste of Death**: To start the quest, you'll need to reach the required level, after which you'll need to talk to the innkeeper of the Silverblood Inn and ask for rumors, until you get the rumor about the Hall of the Dead and brother Verulus. The scene in the Markath's Understone Keep will not start and any dialogue won't show up until you do that.
+     - **A Daedra's Best Friend**: Falkreath guards will not talk to you about Meeko or Lod prior to this level.       
+     - **A Taste of Death**: To start the quest, you'll need to reach the required level, after which you'll need to talk to the innkeeper of the Silverblood Inn and ask for rumors, until you get the rumor about the Hall of the Dead and brother Verulus. The scene in the Markath's Understone Keep will not start and any dialogue won't show up until you do that.
      - **House of Horrors**: After you reach the required level, speak to Kelppr or Frabbi and ask: "Anything noteworthy happening?" -> This will redirect you to find Tyranus, after which the quest will start.
      - **The Cursed Tribe**: The scene outside of Largashbur will not occur until the player reaches the required level.
      - **The Wolf Queen Awakened**: Same as vanilla, but the quest can not be initiated until a later level.
@@ -137,6 +162,8 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
  - **Other Quest Changes**
     - **The Ebony Warrior** is no longer level locked, but instead requires the completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer), [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment), and [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha).
    - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quest **Blessings of Nature**, purchase Breezehome, and complete the standard thaneship quest (help X amount of people).
+   - **A Blade in the Dark** has been changed due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704). The Horn of Jurgen Windcaller will be found in Ustengrav, in order to start [A Blade in the Dark](https://en.uesp.net/wiki/Skyrim:A_Blade_in_the_Dark), you must speak to Farengar to setup a meeting with Delphine.
+   - **Season Unending** has been removed, Balgruuf will help you trap Odahviing without requiring the meeting.
  - **Creation Club Quests**
    - **Bow of Shadows**: Original quest has been disabled and the Bow of Shadows has been placed as static loot in a reward chest for defeating a Morag Tong assassin.
    - **Chryasmere**: Original quest has been disabled and Chryasmere has been placed as static loot in a [cave near winterhold](https://en.uesp.net/wiki/Skyrim:Bleakcoast_Cave).
@@ -170,7 +197,9 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Gallows Hall**: Requires completion of [Conjuration Ritual Spell](https://en.uesp.net/wiki/Skyrim:Conjuration_Ritual_Spell).
    - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead).
    - **Shadowfoot Sanctum**: Requires being Guildmaster of the Thieves Guild.
- - **Vicn Quest Mods**
+ - **Modded Quests**
+   - **The Forgotten City**: Requires level 15+.
+   - **Wyrmstooth**: Requires level 20+ and completion of [Way of the Voice](https://en.uesp.net/wiki/Skyrim:The_Way_of_the_Voice).
    - **Vigilant**: Requires level 25+ and the completion of [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) and [House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
    - **Glenmoril**: Requires completion of Discerning the Transmundane, [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha), Vigilant (any ending), and Sacred Anatomancer (this quest is started in the Ratway after you finish Vigilant, it is suggested you do the "Divine the Future" path).
    - **Unslaad**: Requires completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer) and Glenmoril.

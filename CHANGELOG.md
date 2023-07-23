@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.9.0](#090)
 - [0.3.8](#038)
 - [0.3.7](#037)
 - [0.3.6](#036)
@@ -30,6 +31,36 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.9.0
+
+### Info
+
+This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe.
+
+#### Release Date: July 23, 2023
+
+ - Changed MO2 Themeing and Separators (themeing is from bingus, I was too lazy to change it).
+ - Overhauled interiors.
+ - Overhauled NPC Appearances (again).
+ - Buffed vanilla followers and raised their level caps to keep them competitive with mod-added followers.
+ - Overhauled Loot.
+ - Overhauled Quests and Progression.
+ - Overhauled Animations.
+ - Redesigned Combat.
+ - Expanded and improved the dialogue options.
+ - Reapproached the way unique and modded armors and weapons were integrated into the list, they should be more interesting and/or more fitting now.
+    - Added five unique sets that can be found around the world or as rewards from quests.
+
+<Details>
+
+ - idk changed some stuff  
+ - good luck figuring out what  
+ - lol  
+ - lmao  
+ - rofl even  
+ 
+</Details>
 
 ## 0.3.8
 

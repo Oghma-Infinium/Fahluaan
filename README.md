@@ -190,18 +190,6 @@ Until official release, please download the .wabbajack file from the above link.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
-- [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
-
-Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
-- [Attack+MCODXP+v1.6.0.5.zip](https://www.skyrim-guild.com/s/Attack-MCODXP-v1605.zip)
-- [Impactful+Blocking+1.4.rar](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
-- [Elder+Souls+-+The+Collection+v0.9+SE+(AMR).7z](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
-- [SG+Creatures+Preview+v0.2.2.zip](https://www.skyrim-guild.com/s/SG-Creatures-Preview-v022.zip)
-
-Patreon downloads incase they give problems.
-- [Eskyrim MCO Installer 1.1.7z](https://www.patreon.com/file?h=65532242&i=10998255)
-- [Eskyrim MCO Installer 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449877)
-- [Eskyrim Sprint Attacks 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449874)
 
 ### Problems with installation
 
@@ -255,10 +243,6 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
-**Some additional tweaking for visual consistency:**
- 1. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
-    a. PositionX=-0.127  
-
 ### Controller and Gamepad Setup
 
 Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
@@ -270,15 +254,16 @@ Fahluaan offers some mods to provide support for individuals who wish to play wi
 ### Optional Tweaks
 
 This section will cover the following Optional Tweaks that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
- 1. **Blade and Blunt - Vanilla Difficult Modifiers**: Reverts difficulty multipliers to Vanilla. Can load anywhere.
- 2. **Improved Alternate Conversation Camera**: Can be safely enabled/disabled mid-save. Enabled by default.
- 3. **QuickLoot RE - Disable in Combat**: A custom `.toml` config that disables QuickLoot RE from popping up while in combat. Enabled by default.
- 4. **DWC Player Werewolf Replacer**: Textures for the player's werewolf model, reinstall the mod to choose the ones that best fit your taste.
- 5. **No Survival Camera Effects**: Disables the image space effects of Survival Mode. Disabled by default.
- 6. **Fahluaan - Arachnophobia Patch**: Disables many spiders and other potentially triggering creatures throughout the game. Load below Synthesis patches.
- 7. **Yet Another Music Merge - Content Creator Version and Music Patches for Content Creators**: If this is relevant to you, you should probably enable this.
- 8. **Dark Souls Undressed and NeverNude Body**: Enable these two mods in order to disable any nudity in the list.
- 9. **First Person**: While the list does include first person animations, the first person gameplay itself might be slightly weird out of the box. In order to amend this in the best way possible, please activate `IdleAnimPatches - First Person.esp` at the bottom of the load order in the right pane. This patch will cause issues with the third person combat experience at the expense of making first person feel more correct (enables directional power attacks, left hand control, and reverts some other Idle Animation changes made by the Attack - MCO mod). Some additional customization may be required in-game for Dual Wield power attacks (handle this in the One Click Power Attack MCM). I also suggest bumping fov from default 85 to 90-100 if you plan on playing in first person.
+ 1. **Yet Another Music Merge - Content Creator Version**: Read more [here](#note-for-content-creators).
+ 2. **Content Creator Music Patches**: Read more [here](#note-for-content-creators).
+ 3. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience.
+ 4. **QuickLoot RE - Disable in Combat**: An edited `.toml` file for QuickLoot RE to disable the loot box from appearing while in combat.
+ 5. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
+ 6. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
+ 7. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
+ 8. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
+
+In Addition to the optional tweaks, for those with arachnophobia and/or entomophobia, the `Insects Begone` Separator contains some mods to remove most of the spider and insect adjacent models and enemies from the list.
 
  ### Performance
 
@@ -301,16 +286,11 @@ This section will cover the following Optional Tweaks that are included as a par
 ### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
- - **Animated Overlays**: Allows for some additional character customization using RaceMenu's overlays.
  - **Better Third Person Selection**: Enable or Disable certain Filters here (ex: Stealing Only WHile Undetected).
  - **Improved Alternate Conversation Camera**: Edit the dialogue view. Can also be done through the `.ini` file in Mod Organizer.
- - **Lucien**: Customize Lucien here and pick from approved names that he can call the PC.
  - **OBody Standalone**: Set OBody menu key here. (Default: `;`).
- - **Pronouns**: Customize your pronouns here. If using "They/Them" make sure to set fallback pronouns in this menu.
  - **Simple Offence Suppression**: Toggle SOS off or on. Should be unnecessary in the vast majority of cases.
  - **SmoothCam**: Default preset is a slightly modified version of Vanilla Enhanced 2.0.
- - **Swift Potion NG**: Set Potion Hotkey. (Default: `F`). Decide whether or not potions should be automatically consumed. 
- - **Swiftly Order Squad**: Keybinds for follower management. Follower Controls hotkey. (Default `U`).
  - **Ultimate Immersion Toggle**: Hide UI Keybind. (Default: `X`).
  - **Weapon Styles**: If you change where your weapon sheathes via IED, then change the animation here so it matches correctly.
 
@@ -321,7 +301,7 @@ Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you
 
 ### Note For Content Creators
 
-[Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) includes some songs from Nir Shor which are not allowed to be played on Twitch or YouTube due to DMCA rules. The modpage has a [Content Creator Version](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=277975&nmm=1&game_id=1704) which I suggest you download if you wish to play the list on stream or upload videos about it in order to avoid copyright strikes. If you install this patch, make sure to disable the `Yet Another Music Merge - Chapter II Patch` in the left pane of MO2. This should be safe to do mid game without any issues.
+[Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) includes some songs from Nir Shor which are not allowed to be played on Twitch or YouTube due to DMCA rules. The list includes a version of YAMM that does not have the copyrighted music and fixed patches that can be used for those who make content. While I can not promise this will completely avoid any and all DMCA claims, it should remove the key offenders.
 
 ## Updating the modlist
 
@@ -337,19 +317,13 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
+*Please make sure to back up your RaceMenu Presets when updating. You can place them in the `[NoDelete] Fahluaan RaceMenu Presets` mod.*
+
 ### Tweaking the Game Settings
 
 #### Performance INI Options
 
-Here are recommended ini tweaks that you can make in order to potentially improve performance without messing up the visuals of the list and/or ENB. These files can be found at `[Path to Modlist]\profiles\Fahluaan - Default Profile`.
-
-**Skyrim.ini**  
->[Display]  
-fSAOIntensity=15  
-fSAOExpFactor=0.220  
-fSAORadius=800.0000  
-fSAOBias=0.5000  
-fSAOValueDiffFactor=0.3000
+This section requires a rewrite - Stay tuned.
 
 #### BethINI
 
@@ -360,7 +334,7 @@ Before running BethINI please make sure that your paths are correctly set. I als
    - example: `F:\Fahluaan\Stock Game`
  - **Mod Organizer**: `[Path to Modlist]` 
    - example: `F:\Fahluaan`
- - **INI Path**: `Mod Organizer > Fahluaan - Default Profile`
+ - **INI Path**: `Mod Organizer > Fahluaan - Default`
 
 To get some more FPS, tweak the following value in the detail section in BethINI.
 
@@ -381,7 +355,6 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 
 - _YOU_ for reading this.
 - [Bingus](https://ko-fi.com/beangas) for ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
-- Ylikollikas for animation assistance.
 - Curly for the original iteration of Ascensio that provided me a baseline to work off of.
 - [iAmMe27](https://ko-fi.com/iamme27) for general modding, documentation, and WJ assistance.
 - A Helping Hand, AnnieDOS, Chanka, Felivath, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
@@ -394,6 +367,6 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - [LivelyDismay](https://github.com/LivelyDismay) for his GuideBook and modding guides.
 - [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
 - [Styyx](https://github.com/Styyx1) for assistance with scripting and backend work.
-- [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), and the Simon Discord for many ideas and mod assistance.
+- [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), and the Simon Makes Mods Discord for many ideas and mod assistance.
 - [Cosmofujia](https://www.patreon.com/fujiacosmo) for a significant amount of high quality Weapon Models.
 - [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
