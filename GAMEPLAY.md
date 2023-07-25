@@ -45,7 +45,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - Gift of Gab gives a permanent 10% experience gain to all skills.
    - Skill books provide a permanent boost to leveling speed in their respective skill, instead of giving a level. This effect is boosted by the Scholar's Insight Black Book power. 
  - Leveling up requires sleeping in a bed. This is done to incentivize "good behavior".
- - You will gain a total of 15 perks by level 50. Perks can also be obtained through the following:
+ - Perks can also be obtained through the following:
    - **Quests**: The following quests will grant 1 perk point on completion: (23 total). 
      - [Diplomatic Immunity](https://en.uesp.net/wiki/Skyrim:Diplomatic_Immunity)
      - [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller)
