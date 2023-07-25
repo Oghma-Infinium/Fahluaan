@@ -84,6 +84,10 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
  - In order to steal items while not sneaking, you must double tap the activator key (`E` by default).
 
+#### Survival Mode Tweaks
+
+ - Hunger and Exhaustion are disabled. This is because I felt there is enough positive incentive to seek out food and rest for the buffs they provide, that also keeping needs felt unnecessary.
+
 #### Perk Tweaks
 
  - **Conjuration**
