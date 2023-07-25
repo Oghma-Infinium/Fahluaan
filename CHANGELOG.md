@@ -15,8 +15,8 @@
 ---
 
 # Changelog
-- [0.9.1](#091)
-- [0.9.0](#090)
+- [0.9.1](#091) Release Date: July, 25, 2023
+- [0.9.0](#090) Release Date: July 23, 2023
 - [0.3.8](#038)
 - [0.3.7](#037)
 - [0.3.6](#036)
@@ -35,7 +35,7 @@
 
 ## 0.9.1
 
-Probably **not** Save Safe, sorry. Minor Fixes and some updates. (Release Date: June, 25, 2023).
+Probably **not** Save Safe, sorry. Minor Fixes and some updates. 
 
  - Locked fps at 61 by default. You can undo this in the ENB menu.
  - Tweaked ENB.
@@ -74,7 +74,7 @@ Probably **not** Save Safe, sorry. Minor Fixes and some updates. (Release Date: 
 
 ### Info
 
-This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe. (Release Date: July 23, 2023).
+This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe. 
 
  - Changed MO2 Themeing and Separators (themeing is from bingus, I was too lazy to change it).
  - Overhauled interiors.
