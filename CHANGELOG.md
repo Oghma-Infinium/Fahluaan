@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.9.2](#091) Release Date: July 25, 2023
 - [0.9.1](#091) Release Date: July, 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [0.3.8](#038)
@@ -32,6 +33,18 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.9.2
+
+Recompiled for gallery and updated one mod.
+
+<Details>
+
+### Updated
+ 
+ - Environs - Abandoned Abodes
+
+</Details>
 
 ## 0.9.1
 
