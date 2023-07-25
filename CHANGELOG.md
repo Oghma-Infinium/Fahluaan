@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.9.1](#091)
 - [0.9.0](#090)
 - [0.3.8](#038)
 - [0.3.7](#037)
@@ -32,13 +33,48 @@
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
 
+## 0.9.1
+
+Probably **not** Save Safe, sorry. Minor Fixes and some updates. (Release Date: June, 25, 2023).
+
+ - Locked fps at 61 by default. You can undo this in the ENB menu.
+ - Tweaked ENB.
+ - Fixed Muiri's Purple Hair.
+ - Adjusted default Skyrim Unbound Preset to always set the player to be Dragonborn.
+ - Regenerated NPC Fixes and Oblivion Interactions Synthesis patch.
+ - Fixed performance grass giving purple textures (blame Bingus for this).
+ - Fixed some SMIM meshes.
+ - Fixed Otar's tooltip.
+ - Added Daedric Shrines to the empty area of the start room.
+ - Removed ~5gb of unused downloads.
+
+<Details>
+
+### Updated
+
+ - Skill of Sneaking
+ - Improved Camera SE
+ - Gore
+ - FYX - 3D Shack Kit Walls
+ - Spaghetti's Orc Strongholds - AIO
+ - Aptitude - A Minimalistic Class Overhaul
+ - Buy and Sell Torches - bug fix
+
+### Added
+
+ - Environs - Abandoned Abodes
+ - Stuck on Screen Load Door Prompt Fix
+ - Simple Snow Improvements - Solstheim Ruins (BOS)
+
+</Details>
+
+### Info
+
 ## 0.9.0
 
 ### Info
 
-This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe.
-
-#### Release Date: July 23, 2023
+This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe. (Release Date: July 23, 2023).
 
  - Changed MO2 Themeing and Separators (themeing is from bingus, I was too lazy to change it).
  - Overhauled interiors.

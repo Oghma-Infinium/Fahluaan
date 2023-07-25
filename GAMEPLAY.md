@@ -26,7 +26,7 @@ This section will cover the absolute basics of the list, I suggest reading over 
 
  - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) and [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) handle the perks in the list. Some edits have been made to the perks to ensure cleaner "compatibility" with the rest of the list, they can be read about [here](#perk-tweaks).
  - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones respectively.
- - [Aptitude](https://www.nexusmods.com/skyrimspecialedition/mods/96034) provides 20 classes to choose from, providing an initial boost to your character.
+ - [Aptitude](https://www.nexusmods.com/skyrimspecialedition/mods/96034) provides 21 classic Elder Scrolls classes to choose from, providing an initial boost to your character. Aptitude also edits Aetherius, please check the page to see the differences.
  - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) and [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) handle werewolves and vampires.
  - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) handles Religion as a mechanic, some changes have been made to the mod and can be read about [here](#religion-tweaks).
  - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) handles the overarching "rules" for combat. 
@@ -39,8 +39,8 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
  - Skill experience starts slow, peaks in mid-game, and then returns to a slower pace. However, there are many sources to boost your leveling speed.
    - Akatosh and Tall Papa both give Experience as a shrine bonus.
-   - Rested gives 10% experience; Well Rested gives 20% experience; Lover's Comfort gives 20%, but has a longer duration than Well Rested.
-   - [The Gift of Charity](https://elderscrolls.fandom.com/wiki/The_Gift_of_Charity) now gives 10% experience for 4 hours instead of Fortify Persuasion for 1 hour.
+   - Rested gives 10% experience; Well Rested gives 15% experience, and Lover's Comfort gives 20%.
+   - [The Gift of Charity](https://elderscrolls.fandom.com/wiki/The_Gift_of_Charity) now gives 10% experience for 30 minutes instead of Fortify Persuasion for 1 hour.
    - [Ancient Knowledge](https://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge) gives a permanent 20% experience gain to crafting skills.
    - Gift of Gab gives a permanent 10% experience gain to all skills.
    - Skill books provide a permanent boost to leveling speed in their respective skill, instead of giving a level. This effect is boosted by the Scholar's Insight Black Book power. 
@@ -135,7 +135,6 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Dragonborn**: Level 30+ and the completion of [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller).
  - **Level Locked Quests**
    - **Level 15+**
-     - **The Forsworn Conspiracy**: To start the quest, you'll need to reach the required level, after which you'll need to talk to Kibell, the carriage driver of Markarth. You first need to ask him: "What do you know about Markarth?" , followed by "Bent a few folks' arms the wrong way?". If you're the required level, the quest will attempt to start. Next, when you enter Markarth between 8 am and 8 pm, the attack scene at the market will occur and the quest will proceed as normal.
      - **Grimsever's Return**: Same as vanilla, but the quest can not be initiated until a later level.
      - **Dungeon Delving (Markarth Thane Quest)**: Same as vanilla, but the quest can not be initiated until a later level.
      - **Kill the Giant (Dawnstar Thane Quest)**: Same as vanilla, but the quest can not be initiated until a later level.
