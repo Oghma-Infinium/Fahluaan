@@ -37,6 +37,7 @@
 
 Probably **not** Save Safe, sorry. Minor Fixes and some updates. 
 
+ - Racial Bonuses have been changed, read more on the [Aptitude mod page](https://www.nexusmods.com/skyrimspecialedition/mods/96034).
  - Locked fps at 61 by default. You can undo this in the ENB menu.
  - Tweaked ENB.
  - Fixed Muiri's Purple Hair.
