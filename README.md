@@ -273,8 +273,9 @@ This section requires a rewrite.
  3. After about 30 seconds, press `esc` and open the Mod Configuration Menu.
  4. Navigate to the Skyrim Unbound Menu and customize your starting equipment.
  5. Once you are satisfied, leave the MCM and hit `Enter` to begin Character Creation.
- 6. After Character Creation finishes, you will get a popup to select your Pronouns and the MCM Recorder will begin to run, make sure to choose "STAY HERE" from the popup after Pronouns, otherwise you could cause some issues from the overlap of Skyrim Unbound's scripts and MCM configuration. (Note: Sometimes the Pronouns popup will occur twice, just select the same option both times).
- 7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs, then press `Enter` and choose "Continue".
+ 6. After Character Creation finishes, you will get a popup to select your Class the MCM Recorder will begin to run.
+ 7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room.
+ 8. To leave the starting room, read the book on the table.
 
 ### In-Game MCM options
 

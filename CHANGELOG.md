@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [0.9.3](#093) Release Date: July 27, 2023
 - [0.9.2](#092) Release Date: July 25, 2023
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
@@ -33,6 +34,48 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 0.9.3
+
+Should be Save Safe.
+
+ - Hid hunger text from food when survival mode is enabled since the list doesnt have hunger enabled.
+ - Added CFPAO's Magic animations. This took too much time.
+ - Fixed purple campfires from CC Camping (thank bingus).
+ - Fixed Stalhrim Armor missing textures.
+ - Corrected lighting in Riverwood interiors (thank bingus).
+ - Fixed texture mismatch on female head and hands.
+ - Fixed landscape texture mismatches caused by Folkvangr.
+ - Added additional character customization mods.
+ - Added RaceMenu presets.
+ - Fixed Syrabane's blessing giving Magicka Rate instead of Magicka Rate Mult.
+
+<Details>
+
+### Updated
+ 
+ - Environs - Abandoned Abodes
+ - powerofthree's Papyrus Extender
+ - Embers XD
+ - CC - Camping Embers XD Patch
+ - Relics of the Crusader Improved
+
+### Added
+
+ - SkyALERT - Detection Meter Vanilla Presets
+ - Even More Makeup by Koralina - ESL
+ - Niohoggr Warpaints
+ - Yyvengar Bodypaint - Designs of the Lupine - RaceMenu Overlays
+ - Wolfpaint - Face - Facepaint Collection for Racemenu Overlays
+ - Sharpened Teeth - Character Creation Addon
+ - Fahluaan - Character Presets
+ - High Poly Trama Roots
+
+### Removed
+
+ - Naomi - High Poly Preset
+
+</Details>
 
 ## 0.9.2
 

@@ -129,6 +129,10 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
  - **Vulcano**
    - Molten Body removed.
 
+#### Combat Tweaks and Additions
+
+ - Heal Rate Multiplier is reduced by 100% base. When you fall below 50% Health, your Heal Rate Multiplier is increased by 100%; When you fall below 25% Health, your Heal Rate Multiplier is increased by an additional 100%. This means that Health can not regenerate above 50% Health if you have no other sources of Health Regen in your build (Racial, Perks, Food, etc).
+
 ### Quests Changes
 
 Fahluaan changes a significant amount of vanilla quests in one way or another in order to offer a more complete roleplaying exprience. The following list is non-exhaustive. Please note that not all MCM Options from Timing is Everything may work as intended in the list.

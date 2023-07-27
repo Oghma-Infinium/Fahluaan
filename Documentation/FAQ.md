@@ -16,6 +16,9 @@
 
 ## FAQ
 
+### Q: Why does my game freeze after every load transition?
+A: It's not freezing, the list has a [mod](https://www.nexusmods.com/skyrimspecialedition/mods/60958) that pauses the game after cell transitions.
+
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
 
