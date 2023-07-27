@@ -239,10 +239,13 @@ Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the
 ### Controller and Gamepad Setup
 
 Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
- 1. Under the **Gamepad Support** Separator in MO2, activate the mods under it.
- 2. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
+ 1. Under the **Gamepad Support** Separator in MO2, activate the `Fahluaan - Controller Support` mod.
+ 2. Once in game, open the Settings > Controls and Reset Controls to default with the `Y` button (or equivalent) on your controller.
+ 3. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
    - [Keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png)
    - [Gamepad](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png)
+
+If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
 
 ### Optional Tweaks
 

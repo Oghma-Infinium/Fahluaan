@@ -35,7 +35,39 @@
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
 
+## 0.9.4
+
+### Info
+
+Some Hotfixes and stuff.
+
+ - Fixed Vaermina Blessing. If you have Vaermina's blessing, please swap your shrine blessing before updating to avoid any issues.
+ - Fixed Pilgrim of Stendarr Perk.
+ - Added Gamepad support.
+ - Corrected some file pathing that caused issues with the Skyrim Unbound Default configuration.
+
+<Details>
+
+### Updated
+
+ - Embers XD
+ - Assorted mesh fixes
+ - Environs - The Ruined Tundra Farmhouse
+
+### Added
+
+ - Pilgrim - Vaermina Blessing Fix
+ - Pilgrim - Pilgrim of Stendarr Fix
+ - Cathedral - 3D Happy Little Pine Shrubs and Solstheim Ash Shrub Add-on
+ - Disable Annoying Werewolf Killmove
+ - Vampire Armors and Weapons Retexture SE
+
+</Details>
+
+
 ## 0.9.3
+
+### Info
 
 Should be Save Safe.
 
@@ -79,6 +111,8 @@ Should be Save Safe.
 
 ## 0.9.2
 
+### Info
+
 Recompiled for gallery and updated one mod.
 
 <Details>
@@ -90,6 +124,8 @@ Recompiled for gallery and updated one mod.
 </Details>
 
 ## 0.9.1
+
+### Info
 
 Probably **not** Save Safe, sorry. Minor Fixes and some updates. 
 
