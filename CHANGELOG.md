@@ -125,8 +125,6 @@ Probably **not** Save Safe, sorry. Minor Fixes and some updates.
 
 </Details>
 
-### Info
-
 ## 0.9.0
 
 ### Info
