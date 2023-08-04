@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [1.0.0](#095) Release Date: August 1, 2023
 - [0.9.4](#094) Release Date: July 28, 2023
 - [0.9.3](#093) Release Date: July 27, 2023
 - [0.9.2](#092) Release Date: July 25, 2023
@@ -35,6 +36,117 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.0.0
+
+### Info
+
+**Not Save Safe**.
+
+ - New branding stuff thanks to bingus. I felt like the old Arisen stuff was maybe not the best to keep around anymore.
+ - Classes and Races were changed around a little bit again, read more on the [Aptitude](https://www.nexusmods.com/skyrimspecialedition/mods/96034) mod page.
+ - Added a new unique set.
+ - Added Khajiit Speak patch for the entire list (thanks to trawzwified).
+ - Fixed Backpacks giving movespeed instead of nerfing it.
+ - Fixed Sanguine Rose tooltip.
+ - Cleaned up downloads.
+ - Removed duplicate Nocturnal statue in the Thieves Guild HQ.
+ - Fixed Pilgrim tree progressing past 100 (thanks to Styyx).
+ - Fixed Caravans getting stuck and never moving between cities.
+ - Aela's shield is no longer vendorable.
+ - Increased the number of radiant quests required to progress the Companions (3 quests - 5 quests - 4 quests).
+ - Fast travel is now disabled when Survival Mode is enabled, however you can fast travel by acquiring Travel Packs added by [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220).
+ - Updated Fahluaan's version of the Unofficial Skyrim Creation Club Content Patch.
+ - Changes to the Relentless (Cleave) perk.
+ - Removed carry weight penalty at start, it will be covered by another mod in the future.
+ - Reduced the combat effectiveness of generic Bandits across the board, they were a little too strong.
+ - Meme RaceMenu presets have been added as an optional mod for those who want them.
+ - Tweaked Equipment Physics.
+ - Fixed Southfringe Sanctum freeze (I think).
+
+<Details>
+
+### Updated
+
+ - Fahluaan - Bodyslide Output
+ - Fahluaan - DynDOLOD Output
+ - Aptitude - A Minimalistic Class Overhaul
+ - Gore
+ - Environs - Kolskeggr
+ - Assorted mesh fixes
+ - The Taste of Death Improved Shutdown
+ - Pilgrim - Custom Skills Framework Addon
+ - Fahluaan - Character Presets
+ - Slampire's Creation Cave - CC Reintegration
+ - Apothecary - An Alchemy Overhaul
+ - Embers XD
+ - Mundus - A Standing Stone Overhaul
+ - Aetherius - A Race Overhaul
+ - Stormcrown - A Shout Overhaul
+ - Arena - An Encounter Zone Overhaul
+ - VIGILANT - Alessia Replacer
+ - Unique Northern Vanilla Farmhouses - Base Object Swapper
+ - Blade and Blunt - A Combat Overhaul
+ - Riften Docks Overhaul
+ - GORE - Miscellaneous Patches
+ - FormList Manipulator - FLM
+ - Gift of the Underking
+
+### Added
+
+ - Sinding prison anims
+ - Greatsword Out Of Combat Animations
+ - Spaghetti's Faction Halls - Jorrvaskr
+ - Hand placed enemies - Light
+ - USSEP Caravan Bug Workaround
+ - Drengin's Blue Palace - Mesh Only Replacer
+ - Gourmet - A Cooking Overhaul
+ - Gourmet Patch Page
+ - Dragons Fall Down - Immersive Airborne Death
+ - Warmage of Shornhelm - Redone Spell Knight Armor for Thamauturgy
+ - Song of the Green Auri's fancy pod
+ - Customizable Companions Questline Progression Requirements
+ - Defeat the Dragon Cult
+ - At Your Own Pace - Dawnguard
+ - At Your Own Pace - Scion Patch
+ - Immersive Death Cycle
+ - Vigilant - Alessia Replacer - Statue Patch
+ - Journeyman - A Fast Travel Overhaul
+ - Vampire Clothing Expansion
+ - Vampire Clothing Expansion - 3BAv2 Uniboob - It just works version
+ - dMenu
+ - Champion's Mettle
+ - Wheeler - Quick Action Wheel Of Skyrim
+ - Colored And Animated Celtic Icons For SkyUI SE
+ - IED - Weapons Repositioner
+ - Silverblood Mercenary Fix
+ - Switch Camera During Dialogue
+ - Gore x Vigilant
+ - Follower Distance Tweaks - Gore - Vigilant
+ - eeekie's Gore x Vigilant
+ - Raven HDT-SMP Armor
+ - Raven Armor - 3BA and HIMBO Conversion
+ - V's Blursed RaceMenu Presets
+ - EVG Animated Traversal - Patch Collection
+ - EVG Animated Traversal Skyrim Integration Patch
+ - Bleak Falls Barrow - Animated Traversal
+ - Relic of Dawnstar
+ - Undead summons emerge from the ground
+ - FK's Diverse Racial Skeletons
+
+### Removed
+
+ - New Animation for Draugr Bleedout
+ - Vanargand Animations - Crossbows
+ - Vanargand Animations - Sneak Crossbows
+ - Apothecary Food AddOn
+ - Huntsman - A Hunting Expansion
+ - Brewer - An Alcohol Brewing Mod
+ - Cooking Categories Improvement
+ - Apothecary Anniversary Update
+ - Dawnguard Tweaks and Enhancements
+
+</Details>
 
 ## 0.9.4
 

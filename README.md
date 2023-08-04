@@ -244,6 +244,7 @@ Fahluaan offers some mods to provide support for individuals who wish to play wi
  3. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
    - [Keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png)
    - [Gamepad](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png)
+ 4. The [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) mod binds the quick wheel to `Left Trigger` by default. You may want to change this due to the controller config. To do some open the dMenu using `Home` on your keyboard and change the keybind in the **Mod Config** tab.
 
 If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
 
@@ -254,10 +255,13 @@ This section will cover the following Optional Tweaks that are included as a par
  2. **Content Creator Music Patches**: Read more [here](#note-for-content-creators).
  3. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience.
  4. **QuickLoot RE - Disable in Combat**: An edited `.toml` file for QuickLoot RE to disable the loot box from appearing while in combat.
- 5. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
- 6. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
- 7. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
- 8. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
+ 5. **No ENB Lens Effect**: Disables ENB Lens effect (the frost and rain overlays).
+ 6. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
+ 7. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
+ 8. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
+ 9. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
+ 10. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
+ 11. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
 
 In Addition to the optional tweaks, for those with arachnophobia and/or entomophobia, the `Insects Begone` Separator contains some mods to remove most of the spider and insect adjacent models and enemies from the list.
 

@@ -25,11 +25,13 @@ This section will cover the absolute basics of the list, I suggest reading over 
 ### Core Mods
 
  - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) and [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) handle the perks in the list. Some edits have been made to the perks to ensure cleaner "compatibility" with the rest of the list, they can be read about [here](#perk-tweaks).
- - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones respectively.
- - [Aptitude](https://www.nexusmods.com/skyrimspecialedition/mods/96034) provides 21 classic Elder Scrolls classes to choose from, providing an initial boost to your character. Aptitude also edits Aetherius, please check the page to see the differences.
+ - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones respectively. Some race changes have been made, read more [here](#race-tweaks).
+ - [Aptitude](https://www.nexusmods.com/skyrimspecialedition/mods/96034) provides 21 classic Elder Scrolls classes to choose from, providing an initial boost to your character.
  - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) and [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) handle werewolves and vampires.
  - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) handles Religion as a mechanic, some changes have been made to the mod and can be read about [here](#religion-tweaks).
  - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) handles the overarching "rules" for combat. 
+ - I also suggest getting acquainted with the [Wheeler - Quick Action Wheel of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/97345) mod. The page provides significant documentation on how to set it up and use the mod. 
+   > The default keybinds to bring up the wheel are `Middle Mouse Button/Mouse3` for Keyboard and `Left Trigger` for Controller. You can edit these keybinds (and other aspects of the wheel) in the [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221) GUI, which can be opened with the `Home` button on your keyboard.
 
 ### Leveling and Progression
 
@@ -106,7 +108,12 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - **Dual Fury**: Changed resist incoming damage to resist stagger during dual wield power attacks.
    - **Flourish**: Changed speed gain from 20% to 10%.
  - **Two-Handed**
-   - **Cleave** renamed to **Relentless**: Changes Cleave effect to resist stagger during two-handed power attacks.
+   - **Cleave** renamed to **Relentless**: Changes Cleave effect to power attacks with deal increased stagger.
+
+#### Race Tweaks
+
+ - **Khajiit**: Removed 25% Stamina Cost reduction. Added 50% Resistance to Shock.
+ - **Breton**: Reduced Spell Absorb chance from 15% to 10%.
 
 #### Religion Tweaks
 
