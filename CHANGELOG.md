@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [1.0.1](#101) Release Date: August 4, 2023
 - [1.0.0](#095) Release Date: August 4, 2023
 - [0.9.4](#094) Release Date: July 28, 2023
 - [0.9.3](#093) Release Date: July 27, 2023
@@ -36,6 +37,24 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.0.1
+
+### Info
+
+**Save Safe**.
+
+ - Properly included the Khajiit Speaks patch that I said was added last version (blame Wabbajack compiler settings).
+ - Xander will no longer rock the bright purple hair.
+ - Changed the Startup Custom Splash to the transparent version of the logo.
+
+<Details>
+
+### Updated
+
+ - SMI-SKSE
+
+</Details>
 
 ## 1.0.0
 
