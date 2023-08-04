@@ -15,7 +15,7 @@
 ---
 
 # Changelog
-- [1.0.0](#095) Release Date: August 1, 2023
+- [1.0.0](#095) Release Date: August 4, 2023
 - [0.9.4](#094) Release Date: July 28, 2023
 - [0.9.3](#093) Release Date: July 27, 2023
 - [0.9.2](#092) Release Date: July 25, 2023
