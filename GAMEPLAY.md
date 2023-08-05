@@ -207,7 +207,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Vigil Enforcer**: Original quest has been disabled and the armors have been redistributed to NPCs accordingly.
  - **Creation Club Homes**
    - **Bloodchill Manor**: Requires completion of [Awakening](https://en.uesp.net/wiki/Skyrim:Awakening).
-   - **Farming**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/69029).
+   - **Farming**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/92174).
    - **Gallows Hall**: Requires completion of [Conjuration Ritual Spell](https://en.uesp.net/wiki/Skyrim:Conjuration_Ritual_Spell).
    - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead).
    - **Shadowfoot Sanctum**: Requires being Guildmaster of the Thieves Guild.

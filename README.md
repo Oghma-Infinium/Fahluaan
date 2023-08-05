@@ -244,7 +244,7 @@ Fahluaan offers some mods to provide support for individuals who wish to play wi
  3. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
    - [Keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png)
    - [Gamepad](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png)
- 4. The [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) mod binds the quick wheel to `Left Trigger` by default. You may want to change this due to the controller config. To do some open the dMenu using `Home` on your keyboard and change the keybind in the **Mod Config** tab.
+ 4. The [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) will likely need some additional configuration to play nicely with controller. To do some open the dMenu using `Home` on your keyboard and change the keybind(s) in the **Mod Config** tab.
 
 If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
 

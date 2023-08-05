@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [1.1.0](#110) Release Date: August 5, 2023
 - [1.0.1](#101) Release Date: August 4, 2023
 - [1.0.0](#095) Release Date: August 4, 2023
 - [0.9.4](#094) Release Date: July 28, 2023
@@ -37,6 +38,80 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.1.0
+
+### Info
+
+According to Simon this should be **Save Safe**. **Save in an interior before updating if you plan on continuing an existing save.**
+
+ - Bingus made me do some graphic stuff. File size may have gone up or down, I have no idea.
+ - Added Starfrost and Candlehearth to (I think) complete the Survival Lite suite. Survival is still optional, but it's much more in line with what I want from survival now.
+ - Do not update while you have any rested buff.
+ - While this update is save safe, if you aren't too far into your playthrough, I would restart just for safety.
+ - Wheeler keybinds have been fixed a bit.
+ - Wheeler now uses the same font as the rest of the main UI (Sanguis).
+  - Changed Wheeler Menu controller keybinds to not default to Left Trigger, I still suggest playing around with these as a controller player since I do not have a controller and do not really know what works well for them.
+    - Right Thumb to open in inventory, no bind to open outside of inventory.
+    - DPAD Right/Left to move between items.
+    - Check dMenu (`Home` to open) for the rest of the binds.
+ - Fixed purple lods caused by IMR.
+ - Sunder appropriately sheathes like a mace now.
+ - Regenerated Khajiit Speak patch.
+
+<Details>
+
+### Updated
+
+ - Fahluaan - TexGen Output
+ - Fahluaan - DynDOLOD Output
+ - DynDOLOD 3 Alpha
+ - DynDOLOD DLL SE
+ - DynDOLOD Resources SE 3
+ - Mysticism - A Magic Overhaul
+ - Relic of Dawnstar - TESLORE
+ - Gore
+ - Navigator - Navmesh Fixes
+ - Immersive Equipment Displays
+ - Vampire Clothing Expansion
+ - Press H to Horse
+
+### Added
+
+ - Starfrost - A Survival Overhaul
+ - Candlehearth - An Inn Overhaul
+ - Wheeler - Untarnished UI Edit
+ - Followers won't have a hunting bow or infinite iron arrows
+ - Weathered Bars and Counters Retexture - 4K - 2K
+ - Skyland Bits and Bobs - A Clutter Overhaul
+ - 4K SMIM Whiterun Bench
+ - ElSopa - HD Grindstone - Hearthfire SE
+ - ElSopa - HD Medieval Hammer - DLC02 patch by Xtudo
+ - Renthals's tanning rack
+ - No More Ugly Branches
+ - Sacks - Replacer - Pfuscher
+ - DialogueTransformer
+ - DialogueTransformer - Khajiit Speak
+
+### Removed
+
+ - Switch Camera During Dialogue
+ - Reach Tree Branch Retexture
+ - Silly Level of Detail - Wine Cellar -- SLOD WC
+ - Better Wall Basket Feathers
+ - Gildergreen Roots Removed
+ - ElSopa HD - Realistic Dark Elf Urns SE
+ - Vanilla Forge Stone Top Replacer 2-4k
+ - CC's HQ Barset
+ - Skyrim Remastered - Metal Cages and SMIM Imperial Jails
+ - RUSTIC EAST EMPIRE COMPANY SIGNAGE
+ - ElSopa - Papers HD SE
+ - Sweet Snowberries SE
+ - Skyland Noble Furniture
+ - Stations of Sorcerers - Arcane Enchanters and Alchemy Labs Retexture
+ - Better Chests
+
+</Details>
 
 ## 1.0.1
 
