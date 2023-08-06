@@ -7,9 +7,9 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
-  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
-  <a href="patreon.com/aljoxo">Patreon</a> ]
+  <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
@@ -46,15 +46,10 @@
     - [Performance](#performance)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-    - [In-Game MCM options](#in-game-mcm-options)
-    - [Note about Survival Mode](#note-about-survival-mode)
     - [Note For Content Creators](#note-for-content-creators)
   - [Updating the modlist](#updating-the-modlist)
-    - [Tweaking the Game Settings](#tweaking-the-game-settings)
-      - [Performance INI Options](#performance-ini-options)
-      - [BethINI](#bethini)
   - [Removing the Modlist](#removing-the-modlist)
-  - [Contact](#contact)
+  - [Issues](#issues)
   - [Credits and Thanks](#credits-and-thanks)
 
 ## Introduction
@@ -248,30 +243,11 @@ Fahluaan offers some mods to provide support for individuals who wish to play wi
 
 If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
 
-### Optional Tweaks
-
-This section will cover the following Optional Tweaks that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
- 1. **Yet Another Music Merge - Content Creator Version**: Read more [here](#note-for-content-creators).
- 2. **Content Creator Music Patches**: Read more [here](#note-for-content-creators).
- 3. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience.
- 4. **QuickLoot RE - Disable in Combat**: An edited `.toml` file for QuickLoot RE to disable the loot box from appearing while in combat.
- 5. **No ENB Lens Effect**: Disables ENB Lens effect (the frost and rain overlays).
- 6. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
- 7. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
- 8. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
- 9. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
- 10. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
- 11. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
-
-In Addition to the optional tweaks, for those with arachnophobia and/or entomophobia, the `Insects Begone` Separator contains some mods to remove most of the spider and insect adjacent models and enemies from the list.
-
- ### Performance
-
-This section requires a rewrite.
-
 ## Playing the List
 
 ### Starting the Game
+ 
+ Before starting the game, I suggest reading over the [Configuration](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md) and [Gameplay](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md) documents for the list. It should only take 10 minutes at most.
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
 
@@ -281,24 +257,9 @@ This section requires a rewrite.
  4. Navigate to the Skyrim Unbound Menu and customize your starting equipment.
  5. Once you are satisfied, leave the MCM and hit `Enter` to begin Character Creation.
  6. After Character Creation finishes, you will get a popup to select your Class the MCM Recorder will begin to run.
- 7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room.
- 8. To leave the starting room, read the book on the table.
-
-### In-Game MCM options
-
- - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
- - **Better Third Person Selection**: Enable or Disable certain Filters here (ex: Stealing Only WHile Undetected).
- - **Improved Alternate Conversation Camera**: Edit the dialogue view. Can also be done through the `.ini` file in Mod Organizer.
- - **OBody Standalone**: Set OBody menu key here. (Default: `;`).
- - **Simple Offence Suppression**: Toggle SOS off or on. Should be unnecessary in the vast majority of cases.
- - **SmoothCam**: Default preset is a slightly modified version of Vanilla Enhanced 2.0.
- - **Ultimate Immersion Toggle**: Hide UI Keybind. (Default: `X`).
- - **Weapon Styles**: If you change where your weapon sheathes via IED, then change the animation here so it matches correctly.
-
-### Note about Survival Mode
-
-Survival Mode is **NOT** enabled by default, to do so you must do it in the in-game settings menu accessed via the System Page.
-Fast Travel is **disabled** by default when Survival Mode is **enabled**. If you would like to have Fast Travel active while playing with Survival Mode, navigate to the `SurvivalModeImproved.ini` located at `[Path to Modlist]\mods\Survival Mode Improved - Settings\SKSE\Plugins` and change the line `bDisableFastTravel=1` to `bDisableFastTravel=0`.
+ 7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room. You can read more about the MCMs [here](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md).
+ 8. Chapter II and III will bring you to separate rooms that will allow you to choose a starting deity blessing, if you so desire.
+ 9. To leave the starting room, read the book on the table in Chapter I.
 
 ### Note For Content Creators
 
@@ -320,42 +281,19 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure to back up your RaceMenu Presets when updating. You can place them in the `[NoDelete] Fahluaan RaceMenu Presets` mod.*
 
-### Tweaking the Game Settings
-
-#### Performance INI Options
-
-This section requires a rewrite - Stay tuned.
-
-#### BethINI
-
-Before running BethINI please make sure that your paths are correctly set. I also suggest backing up the original `.ini` files just in case. 
-
- - **Game**: `Skyrim Special Edition`
- - **Game Path**: `[Path to Modlist]\Stock Game`
-   - example: `F:\Fahluaan\Stock Game`
- - **Mod Organizer**: `[Path to Modlist]` 
-   - example: `F:\Fahluaan`
- - **INI Path**: `Mod Organizer > Fahluaan - Default`
-
-To get some more FPS, tweak the following value in the detail section in BethINI.
-
-- `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
-- `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
-    - Do make note that if you remove shadows you must also disable the [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133) mod in the ENB Menu.
-
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
 
-## Contact
+## Issues
 
-Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/4WwqfK5yHg) discord server for support.
+Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues.   
+ If you encounter any bugs or issues while playing the list, the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Fahluaan/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/87820?tab=bugs)
 
 
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- [Bingus](https://ko-fi.com/beangas) for ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
+- [Bingus](https://ko-fi.com/beangas) for [Ascensio](https://github.com/Oghma-Infinium/Ascensio), ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
 - Curly for the original iteration of Ascensio that provided me a baseline to work off of.
 - [iAmMe27](https://ko-fi.com/iamme27) for general modding, documentation, and WJ assistance.
 - A Helping Hand, AnnieDOS, Chanka, Felivath, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
@@ -365,9 +303,8 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 - Noggog for Mutagen and Synthesis.
 - Halgari and the WJ Team for this amazing platform.
-- [LivelyDismay](https://github.com/LivelyDismay) for his GuideBook and modding guides.
+- [LivelyDismay](https://github.com/LivelyDismay) for his modding guides.
 - [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
 - [Styyx](https://github.com/Styyx1) for assistance with scripting and backend work.
 - [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), and the Simon Makes Mods Discord for many ideas and mod assistance.
-- [Cosmofujia](https://www.patreon.com/fujiacosmo) for a significant amount of high quality Weapon Models.
 - [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.

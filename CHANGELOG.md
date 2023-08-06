@@ -7,14 +7,15 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
-  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
-  <a href="patreon.com/aljoxo">Patreon</a> ]
+  <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
 
 # Changelog
+- [1.2.0](#120) Release Date: August 6, 2023
 - [1.1.0](#110) Release Date: August 5, 2023
 - [1.0.1](#101) Release Date: August 4, 2023
 - [1.0.0](#095) Release Date: August 4, 2023
@@ -38,6 +39,80 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.2.0
+
+### Info
+
+Probably not save-safe. 90% not save-safe.
+
+ - Survival Mode is enabled by default now. I decided to do this because it lets me have the more "hardcore" mechanics I want enabled by default while being easy to "opt-out" of instead of the intended experience for the list being "opt-in". Please read more about Survival Mode changes on the [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) mod page as it is very different from base Survival.
+ - Bingus made me do graphic stuff again.
+ - Fixed Sunder's mesh *again*.
+ - Tweaked Precision settings.
+ - Removed CC Goblins, CC Plague of the Dead, and CC Bone Wolf.
+ - Fixed Khajiit Racial not applying the Shock Resistance.
+ - Archer class tooltip is more accurate now.
+ - Fixed a tooltip on Raven's Shadow.
+ - Regenerated most Synthesis patches.
+ - Added a Shrine of Meridia to the start cell.
+ - Changed the performance grass enb preset to be a more general, broader focused performance preset.
+ - [Non-List] Migrated some documentation from the readme to a new document.
+
+<Details>
+
+### Updated
+ 
+ - Fahluaan - Lodgen Output
+ - Fahluaan - TexGen Output
+ - Fahluaan - DynDOLOD Output
+ - Fahluaan - Bodyslide Output
+ - Object Categorization Framework
+ - Diverse Candles - Base Object Swapper
+ - Keyword Item Distributor (KID)
+ - Vampire Clothing Expansion
+ - Vampire Clothing Expansion - 3BAv2 Uniboob
+ - Starfrost - A Survival Overhaul
+
+### Added
+
+ - Fahluaan - Occlusion Output
+ - Dwemer Armor SE
+ - Dwemer Armor SE - CBBE 3BA
+ - Dwemer Armor SE - HIMBO Refit
+ - Dwemer Armor SE - My patches and fixes
+ - Goblins and Riekrs- Mihail Monsters and Animals
+ - Goblins and Riekrs - My optimized textures SE
+ - Northern Scenery - IronBind Barrow
+ - Nord Legates Dialogue Tweak
+ - Better Hunter Outfit
+ - DynDOLOD DLL NG
+ - Jewels of the Nord - HD rings and necklaces
+ - Myrwatch - Tweaks and Enhancements
+ - Snazzy Strongboxes - Base Object Swapper
+ - Snazzy Safes - Base Object Swapper
+ - Disable Havok Script Tweak Resource
+ - Vahloks Tomb Keyhole Retexture
+ - 2K Sovngarde Ox
+ - Vahloks Tomb Keyhole Retexture
+ - Blind people DAR animations
+ - Dynamic Sprint
+ - Dialogue Expansion- Shor's Stone
+ - FYX - Water Mesh Optimization
+ - Reshaped Dark Brotherhood Robes - HIMBO Refit
+ - Volkihar Knight - Vampire Armor - HIMBO Refit
+
+### Removed
+
+ - Bone Wolf and Plague of the Dead - Spawns Corrected
+ - Plague of the Dead - BS Bruma Synergy Patch
+ - Goblins - Spears Addon and Bruma Patch
+ - Beyond Skyrim Bruma uses Creation Club Goblins (While keeping Falmer animations)
+ - Plague of the Dead - Mysticism Rebalance
+ - Blade and Blunt - Harsher Health Regen Addon
+ - Journeyman
+
+</Details>
 
 ## 1.1.0
 

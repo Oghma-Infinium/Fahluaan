@@ -7,9 +7,9 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
-  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/NPCs.md">NPCs</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
-  <a href="patreon.com/aljoxo">Patreon</a> ]
+  <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
@@ -30,8 +30,10 @@ This section will cover the absolute basics of the list, I suggest reading over 
  - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) and [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) handle werewolves and vampires.
  - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) handles Religion as a mechanic, some changes have been made to the mod and can be read about [here](#religion-tweaks).
  - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) handles the overarching "rules" for combat. 
+ - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) makes extensive changes to the way Survival Mode is implemented and functions. Survival Mode is enabled by default.
  - I also suggest getting acquainted with the [Wheeler - Quick Action Wheel of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/97345) mod. The page provides significant documentation on how to set it up and use the mod. 
    > The default keybinds to bring up the wheel are `Middle Mouse Button/Mouse3` for Keyboard and `Left Trigger` for Controller. You can edit these keybinds (and other aspects of the wheel) in the [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221) GUI, which can be opened with the `Home` button on your keyboard.
+ - A custom edit of [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) comprises the alternate start for the list. Please use the MCM to select starting gear, spells, standing stone, and starting location. Chapter II and Chapter III will take you to select a starting deity.
 
 ### Leveling and Progression
 
@@ -40,9 +42,9 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 #### Changes to leveling
 
  - Skill experience starts slow, peaks in mid-game, and then returns to a slower pace. However, there are many sources to boost your leveling speed.
-   - Akatosh and Tall Papa both give Experience as a shrine bonus.
-   - Rested gives 10% experience; Well Rested gives 15% experience, and Lover's Comfort gives 20%.
-   - [The Gift of Charity](https://elderscrolls.fandom.com/wiki/The_Gift_of_Charity) now gives 10% experience for 30 minutes instead of Fortify Persuasion for 1 hour.
+   - Akatosh, Tall Papa, and Jephre both give experience as a shrine bonus.
+   - Sleep and Food will both give varying tiers of experience boosts.
+   - [The Gift of Charity](https://elderscrolls.fandom.com/wiki/The_Gift_of_Charity) now gives 5% experience for 30 minutes instead of Fortify Persuasion for 1 hour.
    - [Ancient Knowledge](https://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge) gives a permanent 20% experience gain to crafting skills.
    - Gift of Gab gives a permanent 10% experience gain to all skills.
    - Skill books provide a permanent boost to leveling speed in their respective skill, instead of giving a level. This effect is boosted by the Scholar's Insight Black Book power. 
@@ -85,10 +87,6 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 #### Notable Control Changes
 
  - In order to steal items while not sneaking, you must double tap the activator key (`E` by default).
-
-#### Survival Mode Tweaks
-
- - Hunger and Exhaustion are disabled. This is because I felt there is enough positive incentive to seek out food and rest for the buffs they provide, that also keeping needs felt unnecessary.
 
 #### Perk Tweaks
 
@@ -135,10 +133,6 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - Eldritch Infection removed.
  - **Vulcano**
    - Molten Body removed.
-
-#### Combat Tweaks and Additions
-
- - Heal Rate Multiplier is reduced by 100% base. When you fall below 50% Health, your Heal Rate Multiplier is increased by 100%; When you fall below 25% Health, your Heal Rate Multiplier is increased by an additional 100%. This means that Health can not regenerate above 50% Health if you have no other sources of Health Regen in your build (Racial, Perks, Food, etc).
 
 ### Quests Changes
 
@@ -210,6 +204,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Farming**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/92174).
    - **Gallows Hall**: Requires completion of [Conjuration Ritual Spell](https://en.uesp.net/wiki/Skyrim:Conjuration_Ritual_Spell).
    - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead).
+   - **Myrwatch**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/97659).
    - **Shadowfoot Sanctum**: Requires being Guildmaster of the Thieves Guild.
  - **Modded Quests**
    - **The Forgotten City**: Requires level 15+.
@@ -217,3 +212,8 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Vigilant**: Requires level 25+ and the completion of [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) and [House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
    - **Glenmoril**: Requires completion of Discerning the Transmundane, [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha), Vigilant (any ending), and Sacred Anatomancer (this quest is started in the Ratway after you finish Vigilant, it is suggested you do the "Divine the Future" path).
    - **Unslaad**: Requires completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer) and Glenmoril.
+
+## Tips and Help
+
+Due to Fahluaan being a very build-oriented list that rewards proper preparation and varying degrees of min-maxing, newer players may have a difficult time starting out or may feel overwhelmed and uncertain with how they want to build their characters. This section will contain varying community tips and build guides to be expanded over time.
+ - The [Fahluaan Build Spreadsheet](https://tinyurl.com/fahluaanbuilds) can be a great place to start out for those looking for a general idea of a character to play.
