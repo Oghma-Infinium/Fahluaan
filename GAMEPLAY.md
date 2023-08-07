@@ -92,6 +92,8 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
  - **Conjuration**
    - **Cultist**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
+ - **Hand to Hand**
+   - **Brawler's Stance**: Changed from 2 ranks to 1 rank.
  - **Heavy Armor**
    - **Defender**: Unstoppable has been baked into this perk.
    - **Unstoppable**: Removed.
@@ -104,9 +106,13 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - **Pilgrim**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
  - **One-Handed**
    - **Dual Fury**: Changed resist incoming damage to resist stagger during dual wield power attacks.
+   - **Fighter's Stance**: Changed from 2 ranks to 1 rank.
    - **Flourish**: Changed speed gain from 20% to 10%.
+ - **Speech**
+   - **Merchant**: Lowered the buy/sell price buff from 25/50% to 10/20%.
  - **Two-Handed**
    - **Cleave** renamed to **Relentless**: Changes Cleave effect to power attacks with deal increased stagger.
+   - **Warrior's Stance**: Changed from 2 ranks to 1 rank.
 
 #### Race Tweaks
 
