@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [1.2.4](#124) Release Date: August 7, 2023
 - [1.2.3](#123) Release Date: August 7, 2023
 - [1.2.2](#122) Release Date: August 7, 2023
 - [1.2.1](#121) Release Date: August 6, 2023
@@ -42,6 +43,23 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.2.4
+
+Sorry, ***this** is the last update. Save in an interior before updating. For those who do not want to upload again, just download the new DynDOLOD and Occlusion Output files on the nexus page [here](https://www.nexusmods.com/skyrimspecialedition/mods/87820?tab=files) and overwrite the existing `Fahluaan - DynDOLOD Output` and `Fahluaan - Occlusion Output` mods.
+
+ - Fixed a lod issue.
+ - Styyx also fixed his mod which will hopefully fix some quest rewards I had previously setup, unfortunately this can't be applied retroactively to existing saves, but I promise you aren't missing out on much.
+ - Reduced the number of favor quests needed to get thaneship. To fix this on existing games, use the following console commands `set FriendsTotalMajorHold to 10` and `set FriendsTotalMinorHold to 5`
+
+<Details>
+
+### Updated
+ 
+ - DynDOLOD 3 Alpha
+ - DynDOLOD DLL NG
+
+</Details>
 
 ## 1.2.3
 

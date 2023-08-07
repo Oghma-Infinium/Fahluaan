@@ -297,13 +297,12 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - [iAmMe27](https://ko-fi.com/iamme27) for general modding, documentation, and WJ assistance.
 - A Helping Hand, AnnieDOS, Chanka, Felivath, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) and [Cacophony](https://www.patreon.com/cacophony1979) for their wonderful community that inspired me to start modding more.
-- JustThatKing, jdsmith2816, and Total for their feedback on graphics and other things.
+- JustThatKing, jdsmith2816, and Total for their feedback and assistance when I started modding.
 - Bethesda Game Studios for Skyrim and the Creation Kit.
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 - Noggog for Mutagen and Synthesis.
 - Halgari and the WJ Team for this amazing platform.
-- [LivelyDismay](https://github.com/LivelyDismay) for his modding guides.
-- [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
-- [Styyx](https://github.com/Styyx1) for assistance with scripting and backend work.
-- [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), and the Simon Makes Mods Discord for many ideas and mod assistance.
+- [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
+- [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), [Styyx](https://github.com/Styyx1), and the Simon Makes Mods Discord for many ideas and mod assistance.
 - [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
+- Mgde12 and D1Z4STR for support on [patreon](https://www.patreon.com/aljoxo).

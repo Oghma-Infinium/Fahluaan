@@ -22,7 +22,7 @@ This document is mostly so I have somewhere to document the Unique Sets in Fahlu
 
 ### Windcaller
 
-The Windcaller set is based on 4thUnknown's [Wind Ruler Armor](https://www.nexusmods.com/skyrimspecialedition/mods/60842) and is designed for
+The Windcaller set is based on 4thUnknown's [Wind Ruler Armor](https://www.nexusmods.com/skyrimspecialedition/mods/60842) and is designed for shout-oriented Warrior builds. The armor set can be obtained from the completion of the Main Questline.
 
  - **Windcaller's Helmet**:
  - **Windcaller's Cuirass**:
