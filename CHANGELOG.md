@@ -15,7 +15,6 @@
 ---
 
 # Changelog
-- [1.2.3](#123) Release Date: August 7, 2023
 - [1.2.2](#122) Release Date: August 7, 2023
 - [1.2.1](#121) Release Date: August 6, 2023
 - [1.2.0](#120) Release Date: August 6, 2023
@@ -42,26 +41,6 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
-
-## 1.2.3
-
-Save Safe.
-
- - I'll be away and unable to update the 8-14th, sorry for so many updates these past few days LOL.
- - New Unique set (Rakazra).
- - Removed errant enchants from some Moon Monk gear.
- - Buffed Ravager's Axe (unique item).
- - Rebalanced the Merchant perk in the Speech tree.
- - Changed Fighter's Stance, Warrior's Stance, and Brawler's Stance to be one rank perks. This should appropriately tune some power attack damage for both the player and NPCs.
-
-<Details>
-
-### Updated
- 
- - Unique Markarth Doors - Security Overhaul SKSE
- - Enemies Respect Encounter Zones
-
-</Details>
 
 ## 1.2.2
 
