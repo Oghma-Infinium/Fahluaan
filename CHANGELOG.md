@@ -15,7 +15,8 @@
 ---
 
 # Changelog
-- [1.2.1](#121) Release Date: 
+- [1.2.2](#122) Release Date: August 7, 2023
+- [1.2.1](#121) Release Date: August 6, 2023
 - [1.2.0](#120) Release Date: August 6, 2023
 - [1.1.0](#110) Release Date: August 5, 2023
 - [1.0.1](#101) Release Date: August 4, 2023
@@ -41,12 +42,21 @@
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
 
+## 1.2.2
+
+### Info
+
+Crash Fix, please update. Save Safe.
+
+ - Buffed Boethiah by reducing the Armor Rating debuff on the player from 300 to 200.
+ - Fixed a crash due to bingus messing up some meshes she edited. Please disable the `Snazzy Strongboxes - Custom Meshes` and `Snazzy Safes - Custom Meshes` mods if you do not want to update.
+ - Made an edit to the unique Raven set.
+
 ## 1.2.1
 
 Hotfix, GIHB (god i hate bingus). Save Safe.
 
  - fixed dick void.
-
 
 <Details>
 

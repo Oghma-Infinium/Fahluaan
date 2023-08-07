@@ -115,6 +115,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
 #### Religion Tweaks
 
+ - **Boethiah**: Changed Damage Armor malus on player from -300 to -200.
  - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
 
