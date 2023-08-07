@@ -15,6 +15,7 @@
 ---
 
 # Changelog
+- [1.2.1](#121) Release Date: 
 - [1.2.0](#120) Release Date: August 6, 2023
 - [1.1.0](#110) Release Date: August 5, 2023
 - [1.0.1](#101) Release Date: August 4, 2023
@@ -39,6 +40,21 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.2.1
+
+Hotfix, GIHB (god i hate bingus). Save Safe.
+
+ - fixed dick void.
+
+
+<Details>
+
+### Updated
+ 
+ - Starfrost - A Survival Overhaul
+
+</Details>
 
 ## 1.2.0
 
