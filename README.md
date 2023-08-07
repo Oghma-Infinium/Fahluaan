@@ -168,13 +168,12 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing Fahluaan can take a while depending on your internet connection and computer. To install Fahluaan, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
-2. Tick the `Show Unofficial Lists` box.
-3. Press the download button on Fahluaan and wait for it to download.
-4. Set the installation folder to be somewhere like C:\Games\Fahluaan. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+2. Press the download button on Fahluaan and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\Fahluaan. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
-5. Press the play button to begin.
-6. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
+4. Press the play button to begin.
+5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
+6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)

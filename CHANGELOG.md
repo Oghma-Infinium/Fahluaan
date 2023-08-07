@@ -53,6 +53,10 @@ Save Safe.
  - Buffed Ravager's Axe (unique item).
  - Rebalanced the Merchant perk in the Speech tree.
  - Changed Fighter's Stance, Warrior's Stance, and Brawler's Stance to be one rank perks. This should appropriately tune some power attack damage for both the player and NPCs.
+ - Kematu now gives you the enchanted Remnant set if you side with him. You no longer have to kill him to get the armor.
+ - Fixed a ton of tooltips on unique sets.
+ - Fixed the Distinct Interior _SWAP.ini so it now properly swaps the statics with lootable items.
+ - Reverted CoMAP's dll to version 3.4.2.
 
 <Details>
 
@@ -60,6 +64,8 @@ Save Safe.
  
  - Unique Markarth Doors - Security Overhaul SKSE
  - Enemies Respect Encounter Zones
+ - Survival Mode Improved - SKSE
+ - Gourmet - A Cooking Overhaul
 
 </Details>
 
