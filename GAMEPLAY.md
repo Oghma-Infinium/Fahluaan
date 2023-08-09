@@ -16,7 +16,7 @@
 
 ## Initial Setup
 
-Before reading this guide, please follow the [readme](https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md) as it will answer the vast majority of technical questions related to getting the list setup and running. It also has information regarding customizing certain aspects of the list via the MCM menus. Note that this list is meant to be played in 3rd Person.
+Before reading this guide, please follow the [readme](https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md) as it will answer the vast majority of technical questions related to getting the list setup and running. Be sure to check out the [configuration](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md) page to learn more about the optional tweaks and addons and MCM options.
 
 ## Basics
 
