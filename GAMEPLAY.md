@@ -20,7 +20,9 @@ Before reading this guide, please follow the [readme](https://github.com/Oghma-I
 
 ## Basics
 
-This section will cover the absolute basics of the list, I suggest reading over the [load order](https://loadorderlibrary.com/lists/fahluaan) and [keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png) or [gamepad binds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png) first. 
+This section will cover the absolute basics of the list. I suggest reading, or skimming all of the linked mod pages in this section if you are unfamiliar with the preceding mods.
+
+Before reading this section, I suggest looking over the [load order](https://loadorderlibrary.com/lists/fahluaan) and [keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png) or [gamepad binds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png). 
 
 ### Core Mods
 
