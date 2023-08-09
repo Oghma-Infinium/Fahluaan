@@ -16,7 +16,7 @@
 
 **This page is currently unfinished, I'll work on it as I find motivation to.**
 
-This document is mostly so I have somewhere to document the Unique Sets in Fahluaan.
+This document is mostly so I have somewhere to document the Unique Sets in Fahluaan. Set Bonuses only factor in the four pieces of armor (Head, Chest, Hands, Feet), they do not count in accessory gear, like shields or weapons.
 
 ## Armor Sets
 
