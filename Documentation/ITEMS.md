@@ -33,7 +33,7 @@ The Windcaller set is based on 4thUnknown's [Wind Ruler Armor](https://www.nexus
 
 ### Ravager
 
-The Ravager set is based on 4thUnknown's [Northern God Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63772) and is designed for______________. It can be obtained off of a unique Orc boss in the Rift.
+The Ravager set is based on 4thUnknown's [Northern God Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63772) and is designed for Warriors and Barbarians. It can be obtained off of a unique Orc boss in the Rift.
 
  - **Ravager's Helmet**: Your potions last 50% longer.
  - **Ravager's Cuirass**: Your Frost Resistance is increased by 50% and your Stamina is increased by 50.
@@ -66,6 +66,8 @@ The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusm
 
 ### Gladiator
 
+The Raven set is based on Pulcharmsolis' [Kvetchi Mercenary Set](https://www.nexusmods.com/skyrimspecialedition/mods/79226) and is designed for Rogue and Scout type characters. It can be obtained from a Bandit Chief at [Ironback Hideout](https://en.uesp.net/wiki/Skyrim:Ironback_Hideout)
+
  - **Gladiator's Shield**: You deal 100% more damage with bashes and resist 50% of incoming power attack damage while blocking.
 
  - **Gladiator's Helmet**: You reflect 50% of incoming melee damage back at your attacker.
@@ -77,7 +79,7 @@ The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusm
 
 ### Raven
 
-The Raven set is based on Fuse00's [Raven Armor]() and is designed for Nightblade and Agent type characters. It can be obtained from [Vighar](https://en.uesp.net/wiki/Skyrim:Vighar).
+The Raven set is based on Fuse00's [Raven Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87655) and is designed for Nightblade and Agent type characters. It can be obtained from [Vighar](https://en.uesp.net/wiki/Skyrim:Vighar).
 
  - **Raven's Hood**: Your Magicka is increased by 50.
  - **Raven's Cuirass**: Your Stamina is increased by 50 and your Illusion spells cost 25% less.
