@@ -24,23 +24,23 @@ This document is mostly so I have somewhere to document the Unique Sets in Fahlu
 
 The Windcaller set is based on 4thUnknown's [Wind Ruler Armor](https://www.nexusmods.com/skyrimspecialedition/mods/60842) and is designed for shout-oriented Warrior builds. The armor set can be obtained from the completion of the Main Questline.
 
- - **Windcaller's Helmet**:
- - **Windcaller's Cuirass**:
- - **Windcaller's Gauntlets**:
- - **Windcaller's Boots**:
+ - **Windcaller's Helmet**: Your Shouts are 25% stronger. 
+ - **Windcaller's Cuirass**: Your Magic Resistance is increased by 25% and your Armor Rating is increased by 100.
+ - **Windcaller's Gauntlets**: You deal 25% extra damage with Two-handed weapons.
+ - **Windcaller's Boots**: Your Movement Speed is increased by 20%.
 
- - **Windcaller's Voice** (Set Bonus):
+ - **Windcaller's Voice** (Set Bonus): Your Shouts last 50% longer.
 
 ### Ravager
 
-The Ravager set is based on 4thUnknown's [Northern God Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63772) and is designed for
+The Ravager set is based on 4thUnknown's [Northern God Armor](https://www.nexusmods.com/skyrimspecialedition/mods/63772) and is designed for______________. It can be obtained off of a unique Orc boss in the Rift.
 
- - **Windcaller's Helmet**:
- - **Windcaller's Cuirass**:
- - **Windcaller's Gauntlets**:
- - **Windcaller's Boots**:
+ - **Ravager's Helmet**: Your potions last 50% longer.
+ - **Ravager's Cuirass**: Your Frost Resistance is increased by 50% and your Stamina is increased by 50.
+ - **Ravager's Gauntlets**: You deal 25% extra damage with Two-handed weapons.
+ - **Ravager's Boots**: Your Carry Weight is increased by 50.
 
- - **Windcaller's Voice** (Set Bonus):
+ - **Ravager's Bloodthirst** (Set Bonus): You deal 25% more damage with power attacks.
 
 ### Plane Walker
 
@@ -55,38 +55,40 @@ The Plane Walker set is based on 4thUnknown's [Dremora Markynaz Armor](https://w
 
 ### Paradise
 
-The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusmods.com/skyrimspecialedition/mods/84280) and is designed for
+The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusmods.com/skyrimspecialedition/mods/84280) and is designed for Spellswords and Battlemages. The set can be obtained within the [Shrine of Mehrunes Dagon](https://en.uesp.net/wiki/Skyrim:Shrine_of_Mehrunes_Dagon).
 
- - **Windcaller's Helmet**:
- - **Windcaller's Cuirass**:
- - **Windcaller's Gauntlets**:
- - **Windcaller's Boots**:
+ - **Visage of Paradise**: Your Magicka is increased by 50.
+ - **Mantle of Paradise**: Your Stamina is increased by 50 and your Destruction spells cost 25% less.
+ - **Gauntlets of Paradise**: You deal 25% extra damage with One-handed weapons.
+ - **Boots of Paradise**: Your Shock Resistance is increased by 50%.
 
- - **Windcaller's Voice** (Set Bonus):
+ - **Promise of Paradise** (Set Bonus): Your Magic Resistance is increased by 25%.
 
 ### Gladiator
 
- - **Gladiator's Shield**:
+ - **Gladiator's Shield**: You deal 100% more damage with bashes and resist 50% of incoming power attack damage while blocking.
 
- - **Gladiator's Helmet**:
- - **Gladiator's Cuirass**:
- - **Gladiator's Gauntlets**:
- - **Gladiator's Boots**:
+ - **Gladiator's Helmet**: You reflect 50% of incoming melee damage back at your attacker.
+ - **Gladiator's Cuirass**: Your Health Regeneration is increased by 50%, you resist 25% of incoming stagger, and take 25% less damage while staggered.
+ - **Gladiator's Gauntlets**: You block 25% more damage.
+ - **Gladiator's Boots**: Your Stamina is increased by 50.
 
- - **Gladiator's Glory** (Set Bonus):
+ - **Gladiator's Glory** (Set Bonus): Your Movement Speed is increased by 10% and you attack 10% faster.
 
 ### Raven
 
- - **Raven's Hood**:
- - **Raven's Cuirass**:
- - **Raven's Gauntlets**:
- - **Raven's Boots**:
+The Raven set is based on Fuse00's [Raven Armor]() and is designed for Nightblade and Agent type characters. It can be obtained from [Vighar](https://en.uesp.net/wiki/Skyrim:Vighar).
 
- - **Raven's Shadow** (Set Bonus):
+ - **Raven's Hood**: Your Magicka is increased by 50.
+ - **Raven's Cuirass**: Your Stamina is increased by 50 and your Illusion spells cost 25% less.
+ - **Raven's Gauntlets**: Your Magicka Regeneration is increased by 50%.
+ - **Raven's Boots**: You are 25% better at sneaking and make 50% less noise while moving.
+
+ - **Raven's Shadow** (Set Bonus): You deal 25% more damage with sneak attacks and spells.
 
 ### Clockwork
 
-The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81043) and is designed for
+The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81043) and is designed for_______. It can be obtained in the dungeon [Mzulft](https://en.uesp.net/wiki/Skyrim:Mzulft)
 
  - **Clockwork Helmet**:
  - **Clockwork Cuirass**:
@@ -106,7 +108,7 @@ The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.
 
 ## Weapons
 
- - **Windcaller's Greatsword**:
- - **Ravager's Axe**:
- - **Mace of Paradise**:
+ - **Windcaller's Greatsword**: Reduces enemy Magic Resistance by 50% for 10 seconds. Has a 50% chance to deal 30 Fire, Frost, or Shock Damage.
+ - **Ravager's Axe**: Reduces enemy Armor Rating by 150 for 30 seconds. Living targets up to level 40 have a 25% chance to flee from combat for 30 seconds.
+ - **Mace of Paradise**: 3 Magic damage per second for 10 seconds. Daedra up to level 40 have a 25% chance to be banished.
  - **Gladiator's Sword**: Reduces enemy weapon damage by 25% for 30 seconds. Deals 5 Bleed damage per second for 10 seconds.
