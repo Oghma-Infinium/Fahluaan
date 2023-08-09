@@ -166,19 +166,19 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Level 25+**
      - **A Daedra's Best Friend**: Falkreath guards will not talk to you about Meeko or Lod prior to this level.       
      - **A Taste of Death**: To start the quest, you'll need to reach the required level, after which you'll need to talk to the innkeeper of the Silverblood Inn and ask for rumors, until you get the rumor about the Hall of the Dead and brother Verulus. The scene in the Markath's Understone Keep will not start and any dialogue won't show up until you do that.
-     - **House of Horrors**: After you reach the required level, speak to Kelppr or Frabbi and ask: "Anything noteworthy happening?" -> This will redirect you to find Tyranus, after which the quest will start.
+     - **House of Horrors**: After you reach the required level, speak to Kleppr or Frabbi and ask: "Anything noteworthy happening?" -> This will redirect you to find Tyranus, after which the quest will start.
      - **The Cursed Tribe**: The scene outside of Largashbur will not occur until the player reaches the required level.
      - **The Wolf Queen Awakened**: Same as vanilla, but the quest can not be initiated until a later level.
    - **Level 30+**
      - **Boethiah’s Calling**: Same as vanilla.
      - **Deathbrand**: Same as vanilla, but the quest can be initiated at an earlier level.
      - **Discerning the Transmundane**: While the beginning of this quest can be completed at any point and can be done alongside the main quest line, Septimus will not ask you to gather the blood until you reach the required level. Septimus will send out a courier for you once the level requirement is reached and the lexicon stage has been completed.
-     - **Pieces of the Past**: Same as vanilla, but the Courier will not seek the player out until a later level.
+     - **Pieces of the Past**: Same as vanilla, but the courier will not seek the player out until a later level.
      - **The Only Cure**: Same as vanilla, but the quest can not be initiated until a later level.
      - **The Whispering Door**: Same as vanilla, but the quest can not be initiated until a later level.
  - **Other Quest Changes**
     - **The Ebony Warrior** is no longer level locked, but instead requires the completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer), [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment), and [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha).
-   - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quest **Blessings of Nature**, purchase Breezehome, and complete the standard thaneship quest (help X amount of people).
+   - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quests **Blessings of Nature** and **Bleak Falls Barrow**, purchase Breezehome, and complete the standard thaneship quest (help 10 people).
    - **A Blade in the Dark** has been changed due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704). The Horn of Jurgen Windcaller will be found in Ustengrav, in order to start [A Blade in the Dark](https://en.uesp.net/wiki/Skyrim:A_Blade_in_the_Dark), you must speak to Farengar to setup a meeting with Delphine.
    - **Season Unending** has been removed, Balgruuf will help you trap Odahviing without requiring the meeting.
  - **Creation Club Quests**
@@ -192,7 +192,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Elven Hunter**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
    - **Fearsome Fists**: Original quest has been disabled and the armors have been redistributed to NPCs accordingly.
    - **Fishing**: Questline has been removed and the unique items have been redistributed into the world as static loot.
-   - **Ghosts of the Tribunal**: Questline has been removed and the items have been redistributed around Solstheim or as loot for the Dremora Merchant.
+   - **Ghosts of the Tribunal**: Questline has been removed and the items have been redistributed around Solstheim or have been given to the [Dremora Merchant](https://en.uesp.net/wiki/Skyrim:Dremora_Merchant) to sell.
    - **Goldbrand**: Original quest has been disabled and Goldbrand can now be found on [The Katariah](https://en.uesp.net/wiki/Skyrim:The_Katariah).
    - **Headman's Cleaver**: Original quest has been disabled and the Headman's Cleaver can now be found on a named Bandit Chief holed up [in Falkreath Hold](https://en.uesp.net/wiki/Skyrim:Bilegulch_Mine).
    - **Nordic Jewelry**: Original quest has been disabled and the jewelry can now be found in regular loot and worn by prestigious nords.
