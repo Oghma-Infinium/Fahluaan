@@ -101,7 +101,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - **Unstoppable**: Removed.
    - **Juggernaut**: Now gives flat +100/200 Armor Rating instead of +25/50% Armor Rating.
  - **Light Armor**
-   - **Scout**: Unhindedered has been baked into this perk.
+   - **Scout**: Unhindered has been baked into this perk.
    - **Unhindered**: Removed.
    - **Specialist**: Now gives flat +100/200 Armor Rating instead of +25/50% Armor Rating.
  - **Restoration**
