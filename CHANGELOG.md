@@ -58,7 +58,6 @@ Info
  - Fixed body texture misalignment on beast races.
  - Fixed Hagraven Clutter missing textures.
  - Fixed issue where Helm of the Deep Diver wasn't appropriately patched for Open Face Helmets.
- - Changed the Tower Stone.
  - Fixed Gladiator's Sword not dealing the proper amount of Bleed Damage.
  - Fixed Clockwork Cuirass missing its enchant.
  - Tweaked the Clockwork set.
