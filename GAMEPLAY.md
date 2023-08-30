@@ -125,7 +125,9 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
  - **Boethiah**: Changed Damage Armor malus on player from -300 to -200.
  - **HoonDing**: Changed speed gain from 20% to 10%.
+ - **Jyggalag**: Has been added by [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/99144).
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
+ - **Sheogorath**: New cultist ability: Incoming magic damage is reduced by 25%, however your Armor Rating is reduced by 200.
 
 #### Spell Tweaks
 
@@ -142,6 +144,11 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - Eldritch Infection removed.
  - **Vulcano**
    - Molten Body removed.
+ - **Abyssal Tides Magic**
+   - Abyssal Impact and Abyssal Ink Bolt have been reworked as Expert to Master level Poison spells.
+   - Apocryphal Gate is available as a Lesser Power.
+   - Chakram Shields now reflects 100% of melee damage. (Master Alteration)
+   - Runemend provides a 100% Health Regeneration buff. (Master Alteration)
 
 ### Quests Changes
 
@@ -179,7 +186,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
  - **Other Quest Changes**
     - **The Ebony Warrior** is no longer level locked, but instead requires the completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer), [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment), and [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha).
    - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quests **Blessings of Nature** and **Bleak Falls Barrow**, purchase Breezehome, and complete the standard thaneship quest (help 10 people).
-   - **A Blade in the Dark** has been changed due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704). The Horn of Jurgen Windcaller will be found in Ustengrav, in order to start [A Blade in the Dark](https://en.uesp.net/wiki/Skyrim:A_Blade_in_the_Dark), you must speak to Farengar to setup a meeting with Delphine.
+   - **A Blade in the Dark** has been changed due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704). The Horn of Jurgen Windcaller will be found in Ustengrav, in order to start [A Blade in the Dark](https://en.uesp.net/wiki/Skyrim:A_Blade_in_the_Dark), you must speak to Arngeir and then Farengar to setup a meeting with Delphine.
    - **Season Unending** has been removed, Balgruuf will help you trap Odahviing without requiring the meeting.
  - **Creation Club Quests**
    - **Bow of Shadows**: Original quest has been disabled and the Bow of Shadows has been placed as static loot in a reward chest for defeating a Morag Tong assassin.
@@ -212,7 +219,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Bloodchill Manor**: Requires completion of [Awakening](https://en.uesp.net/wiki/Skyrim:Awakening).
    - **Farming**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/92174).
    - **Gallows Hall**: Requires completion of [Conjuration Ritual Spell](https://en.uesp.net/wiki/Skyrim:Conjuration_Ritual_Spell).
-   - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead).
+   - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead). Additionally, read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/98688).
    - **Myrwatch**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/97659).
    - **Shadowfoot Sanctum**: Requires being Guildmaster of the Thieves Guild.
  - **Modded Quests**

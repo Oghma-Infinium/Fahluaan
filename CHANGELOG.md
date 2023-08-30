@@ -14,7 +14,8 @@
 
 ---
 
-# Changelog
+# Changelog\
+- [1.3.0](#130) Release Date: **Unreleased**
 - [1.2.4](#124) Release Date: August 7, 2023
 - [1.2.3](#123) Release Date: August 7, 2023
 - [1.2.2](#122) Release Date: August 7, 2023
@@ -43,6 +44,321 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.3.0
+
+Info
+ 
+ - Conflict check over the entire list, cleaned up (a lot of) errors.
+ - Unslaad 3.0 Update.
+ - Seasons of Skyrim Added.
+ - Added Journeyman back as an opt-in mod.
+ - Regenerated Sorcerer and Khajiit Speak patches.
+ - Fixed Night Eye (maybe).
+ - Fixed body texture misalignment on beast races.
+ - Fixed Hagraven Clutter missing textures.
+ - Fixed issue where Helm of the Deep Diver wasn't appropriately patched for Open Face Helmets.
+ - Changed the Tower Stone.
+ - Fixed Gladiator's Sword not dealing the proper amount of Bleed Damage.
+ - Fixed Clockwork Cuirass missing its enchant.
+ - Tweaked the Clockwork set.
+ - Reworked Gladiator Set.
+ - Changed the Ravager's Set.
+ - Changed the bonus for the Paradise set.
+ - Followers no longer affect the stealth meter.
+ - Slightly rebalanced economy.
+ - Added the Unbound Room to the Oblivion Cell formlist so survival needs shouldn't progress until you leave.
+ - Bow speeds are now standardized (most were previously, but all should be covered now). Unique items with faster draw (like Zephyr) are excluded.
+ - Nerfed scroll crafting xp.
+ - Adjusted overall XP curve for some skills.
+ - Bound Weapons now give Conjuration experience when used. This is to compensate for how slowly bound weapon builds level if they are not using summons to supplement their conjuration leveling.
+ - Unique sets can be recrafted as unenchanted gear if you have the appropriate perks and the cuirass of the set in your inventory.
+ - Fixed spears using battleaxe animations instead of spear animations.
+ - Fixed Dragon Priests double dipping Magic Resist from a perk. They should no longer be 100% immune to magic when their flesh spells are active.
+ - Ghosts should now be damageable by a wider variety of weapon and magic types.
+ - Cleaned out some unused downloads from early development.
+ - Removed some utility mods that were still enabled, causing the list's size to be inflated.
+ - Added light variants of the Volkihar Knight armor to be crafted. They require Glass Smithing and completion of Dawnguard.
+
+<Details>
+
+### Updated
+ 
+ - UNSLAAD
+ - Unslaad Voiced - English Addon SE
+ - Unslaad - Silent Translation SE
+ - Fahluaan List Outputs
+ - Keyword Item Distributor (KID)
+ - Base Object Swapper
+ - COIN - Coins of Interesting Natures 
+ - Slampire's Creation Cave - CC Reintegration
+ - College of Winterhold - Quest Expansion
+ - Simplicity of Snow
+ - Embers XD
+ - Assorted Animation Fixes
+ - EVG Animated Traversal
+ - Improved Follower Dialogue - Lydia
+ - DynDOLOD 3 Alpha
+ - DynDOLOD Resources SE
+ - DynDOLOD DLL NG
+ - xLodGen
+ - Assorted Mesh Fixes
+ - Alchemy Station Variants - Base Object Swapper
+ - Narrative Gameplay Consistent Dialogue Tweaks
+ - Instantly Skip Dialogue NG
+ - Flute Animation Fix
+ - FYX - Water Mesh Optimization
+ - Zero Bounty Hostility Fix
+ - Candlehearth - An Inn Overhaul
+ - Press H to Horse
+ - Apothecary - An Alchemy Overhaul
+ - Animated Forge Water
+ - Toggle Dialogue Camera
+ - Missing Follower Dialogue Edit
+ - Missing Follower Dialogue Fix
+ - DialogueTransformer - Khajiit Speak
+ - Object Categorization Framework
+ - Water for ENB
+ - Immersive Equipment Displays
+ - ERM - Enhanced Rocks and Mountains - DynDOLOD
+ - Security Overhaul SKSE - Lock Add-ons
+ - B.O.O.B.I.E.S (Immsersive Icons)
+ - Abyssal Tides Magic
+ - Morthal Where's Wares
+ - Animated Ice Floes
+ - Fists of Fury - Skyrim
+ - Poisoner's Aid
+ - Champion's Mettle
+ - FYX - 3D Shack Kit Walls - BOS - LUX PATCH
+ - LOD Model Library for DynDOLOD
+ - Vulcano
+ - Gore
+ - Icy Mesh Remaster 
+ - dMenu
+ - Skyrim Unbound Reborn (Alternate Start)
+ - Remiel
+ - Cathedral 3D Mountain Flowers -Base Object Swapper
+ - NPC Stuck in Bleedout fix
+ - Ambient Bird Sounds Expanded
+ - OBody NG 
+ - OBody NG - Settings Loader
+ - Artifacts of the Ancestors
+ - aljos Apothecary Patches
+ - GLENMORIL SE
+ - GLENMORIL - English Translation
+ - VIGILANT SE
+ - VIGILANT Voiced - English Addon
+ - Unslaad CBBE (3BA) Bodyslide
+ - Sure of Stealing
+ - Photo Mode
+ - Environs - Hroggar's House
+ - Environs - The Ruined Tundra Farmhouse
+ - Dragon War - A Dragon Overhaul
+ - Catir Club - Goldbrand 
+ - Particle Patch for ENB
+ - Sharpen Other Swords II - AnimObject Swapper
+ - C.O.I.N.
+ - Zero Bounty Hostility Fix
+ - Skill of Sneaking
+ - Immersive Death Cycle
+ - Aptitude - A Minimalistic Class Overhaul
+
+### Added
+
+ - Seasons of Skyrim SKSE
+ - Turn of the Seasons
+ - Seasonal Landscapes
+ - Shrubs of Snow - Seasons of Skyrim SKSE
+ - ICFur's Improved Reach Fern - Shrubs of Snow
+ - Cathedral 3D Sword Ferns - Seasons of Skyrim Patch
+ - Shrubs of Snow Mesh - Leeks
+ - Shrubs of Snow Mesh - Fully Covered Potatoes
+ - Shrubs of Snow Mesh - Cabbages
+ - Simplicity of Seasons
+ - Seasonal Weathers Framework
+ - Seasonal Weathers Framework - Cathedral Weathers
+ - Tiem Format Changer
+ - Four Seasons - Faster Seasons of Skyrim
+ - Forgotten Seasons seasonal rewards for Faster Seasons
+ - A Matter of Time HUD Clock Widget - Edit for Seasons
+ - Seasons of Skyrim - Remove Unwanted Grass
+ - Seasonal Landscapes - Unfrozen
+ - Seaonal Landscape Additions
+ - Seasonal Landscapes - Unfrozen - More Patches
+ - EC Vanilla Tweaks - Winter Unending
+ - Seasonal Wildlife Distribution
+ - Short Grass SE
+ - Tamrielic Grass
+ - Veydosebrom Regions
+ - Folkvangr Summer Tundra - Alternate Grass For Folkvangr
+ - Nolvus Grass Mashup
+ - Calling the Watchmaker - Lovecraftian Inspired Quest
+ - Hunter's Dream - Quest Mod
+ - Memorable Bounties - Witcher Inspired Quests
+ - Riften Docks Overhaul - TOTS patch
+ - Madmen - A Forsworn Overhaul
+ - Furniture height size fix enhanced
+ - Female Dragonic Argonian CBBE
+ - Feminine Khajiit Textures
+ - Masculine Khajiit Textures
+ - Ahzidal's Enchanted Armor
+ - ENB Dynamic Cubemaps
+ - Abyssal Tides Magic
+ - Guards and Stormcloaks Armors Retexture SE
+ - YAR - Yuril's Additional Resources
+ - FYX - Windhelm Graveyard
+ - Windhelm Entrance Offset Fix - Base Object Swapper
+ - Leather Armors Retexture - HIMBO
+ - xavbio's meshes for 3BA
+ - Scaffolding Over Sovngarde - Collision Overhaul - Corrective Kinetics
+ - Maevan2's Eye Brows - High Poly Head - Males
+ - ElSopa Potions by Xtudo - Distinct Interior Patch
+ - Adoption Spouse and Moving Fixes
+ - Hanging Dead Pheasants Replacer
+ - Optimized Meshes - Hanging Dead Pheasants Replacer
+ - slightly Better Scrolls
+ - Open Animation Replacer - IED conditions
+ - Weapon Styles for IED
+ - Twilight Princess Armor Light Version
+ - Immersive Equipment Displays - Extra Skeleton Nodes 
+ - Capitals and Towns of Skyrim
+ - Capitals and Towns of Skyrim - Snow Fix
+ - Juniper's Fort Dawnguard
+ - Juniper's Dawnstar Sanctuary
+ - FPCAO2 - Katana Only 2.01
+ - Kabu's Argonian Fins
+ - Creation Club Basket - Forgotten Retexture Project Patch
+ - Modlist Update Checker
+ - Mania Mushroom Retextured (Saints and Seducers CC)
+ - Journeyman - A Fast Travel Overhaul
+ - Photo Mode - Cinema Overlays
+ - Thieves Guild Armors Retexture SE
+ - Spaghetti's Faction Halls - Dark Brotherhood
+ - Hendraheim - Tweaks and Enhancements
+ - Spaghetti's Dark Brotherhood Pilgrim Patch
+ - Caveworm Plant Retexture
+ - Skyrim Remastered - Glacier and Ice IMR Edition
+ - At Your Own Pace - Thieves Guild
+ - At Your Own Pace - College of Winterhold
+ - Daedric Shrines - Hircine Skull Mask Version
+ - BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
+ - BUVARP SE RE - Favor Quests Seperated Patch
+ - BUVARP SE RE - No Valdr
+ - BUVARP SE RE - The Only Cure Quest Expansion Patch
+ - RSChildren - BUVARP Patch.esp
+ - sforzinda's destinations
+ - Carriage Drivers SE by Xtudo - Vanilla
+ - Ferrymen - Clothing SE by Xtudo - Vanilla
+ - Improved Follower Dialogue Lydia - Light and Shade minor patch
+ - EXCUSE ME I'M SLIDING HERE (EMISH) - Dragon Crash Land Markers Fix
+ - Baited - A Fishing Artifact Overhaul
+ - Fishing Reduced Cut-No Artifacts from Fishing
+ - Ghostblade - Ansilvund's Echo
+ - Northern Scenery - Whiterun's Tundra
+ - Northern Scenery - Ysgramor's Tomb
+ - Leviathan animations II - Greatsword Sneak
+ - Kill Caps Lock NG
+ - Wyrmstooth - Assorted Patches
+ - Balthazars Books - A Markarth Bookstore Remastered
+ - Madness and Order
+ - Dragon Hunting - Quest Rewards and Alchemy Ingredients
+ - Stretched Snow Begone - Definitive Edition
+ - Optimized Meshes - Rudy HQ - Miscellaneous SE
+ - Skybound Underhang Camp
+ - Disabled Tree Branches in Forgotten Vale
+ - 2K Ring Of Khajit
+ - Rock Traps Trigger Fixes
+ - More Sensible Quartermasters
+ - FK's Diverse Racial Skeletons - Fem Argonian Edit
+ - Scion Inventory Injector (I4) Icons
+ - Vanilla Script Micro Opt 1.16a Adoption Bug Fix
+
+### Removed
+
+ - Female Dragonic Argonian UNP
+ - (Khajiit) Lioness Look SSE UNP Textures Only
+ - Frankly HD Stormcloak and City Guards
+ - Jankevdv's 2K Archery Targets
+ - Weapon Styles
+ - Twilight Princess Armor Full Version
+ - Merchant - A Trading Expansion
+ - Merchant - Expanded
+ - Sigils of Skyrim
+ - Forsworn Skinchangers
+ - Forsworn Gravesingers
+ - Frankly HD Thieves Guild Armors
+ - Kanjs - Forgotten Vale Cave Worm
+ - Cathedral Weathers Unofficial Update
+ - Remove Spell Knight Armor Quest
+ - Icy Glaciers
+ - College of Winterhold - Quest Expansion
+ - FleshFX
+ - Thieves' Night On the Town -- Tnott
+ - Less Tedious Thieves Guild
+ - Thieves Guild Dialogue Fix - USSEP Compatible
+ - Carriage and Ferry Travel Overhaul
+ - Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+ - Carriages and Stable Dualogue Bundle - Carriage and Ferry Travel Overhaul Patch
+ - Carriage Drivers - New Clothing SE by Xtudo - Carriage and Ferry Travel Overhaul
+ - Cloud Tweak CFTO - Fixes and Winterhold No Knapsacks
+ - Modpocalypse NPCs - Carriage and Ferry Travel Overhaul
+ - Ferrymen - Clothing SE by Xtudo - CFTO-Fixes
+ - Interesting NPCs 3DNPC
+ - Interestion NPCs - 4.5 to 4.54 Update
+ - Cloud's Family Friendly NPCs - Griffith and Morrigan
+ - Cloud's Family Friendly NPCs - Jolene
+ - Cloud's Family Friendly NPCs - Gilsi
+ - Cloud's Family Friendly NPCs - Gorr
+ - Coud Tweak Removed Abandoned House
+ - 3DNPC Disable Jeerah Nur
+ - 3DNPC Disable Moris
+ - Ave's Interesting NPCs Jewelry Replacer
+ - Immersive Rejections for Interesting NPCs
+ - 3DNPC Script Optimisation
+ - Locked Chests Have Keys - 3DNPC
+ - Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted
+ - Ryn's Standing Stones 3DNPC Patch
+ - Auri 3DNPC Patch
+ - Kaidan 3DNPC Patch
+ - Follower Distance Tweaks - 3DNPCs
+ - Interesting NPCs Reimagined
+ - Redoran's Retreat - 3DNPC Patch
+ - Brittleshin - 3DNPC Patch
+ - Snazzy Items for Interesting NPCs
+ - Cuyima Interesting NPCs - Custom Hair
+ - Cuyima Interesting NPCs - High Poly Zora
+ - Cuyima Interesting NPCs - High Poly Rumarin
+ - Project ja-Kha'jay - Interesting NPCs Addon
+ - Interesting NPCs (3DNPC) - Patch Collection
+ - Interesting Follower Requirements for 3DNPCs
+ - Interesting NPCs and Obscure's College of Winterhold - Mugnor Patch
+ - Sorcerer - Praedystaves - 3DNPC
+ - Interesting NPCs - Plantable Plants
+ - Gourmet - 3DNPC
+ - GourmetTable - 3DNPC
+ - Dragon War Ingredients
+ - Snowy Landscape Discoloration Removed
+ - Granite Hill Village
+ - Royal Armory - New Artifacts
+ - Royal Armory - New Artifacts Plugin Replacer
+ - PrivateEye's Royal Armory - Reforged
+ - Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+ - Sit on Stuff
+ - Undead summons emerge from the ground
+ - Snowy Landscape Discoloration Removed
+ - Snowy Tree Swapper - Base Object Swapper
+ - Icy Windhelm
+ - FYX - Candlehearth Hall Chimney - Icy Windhelm
+ - Windhelm Fake Windows Fix - Icy Windhelm Patch
+ - Better Windhelm Ground Meshes - Icy Windhelm
+ - QW's Grass Patch 2 - Origins of Forest - Cathedral - Folkvangr
+ - Cathedral - 3D Solstheim Grass
+ - Polar Peaks
+ - Happy Little Trees - DLC Trees (Base Object Swapper)
+ - Happy Little Trees - Alternate Cut Stumps - Custom Only BOS
+ - Granite Hill Village
+
+</Details>
 
 ## 1.2.4
 

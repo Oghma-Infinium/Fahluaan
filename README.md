@@ -250,7 +250,7 @@ If you wish to swap back to Keyboard and mouse afterwards, just activate the `Ba
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
 
- 1. Launch the "Fahluaan" Executable in MO2.
+ 1. Launch the "Play" Executable in MO2.
  2. Click "New Game".
  3. After about 30 seconds, press `esc` and open the Mod Configuration Menu.
  4. Navigate to the Skyrim Unbound Menu and customize your starting equipment.

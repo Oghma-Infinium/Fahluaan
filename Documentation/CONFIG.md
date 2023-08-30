@@ -16,7 +16,7 @@
 
 ## Optional Addons
 
-The following sections detail the **supported** modifications to the list. Any other modifications should be discussed in the `fahluaan-modifications` channel of the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server.
+The following sections detail the **supported** modifications to the list. Any other modifications should be discussed in the `#fahluaan-modifications` channel of the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server.
 
 ### Performance Options
 
@@ -46,6 +46,15 @@ This section will cover the following Optional Tweaks that are included as a par
  9. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
  10. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
  11. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
+ 12. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB.
+ 13. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
+
+## Changing Keybinds
+
+This section is going to be short and basic and only cover keybinds that must be changed OUT OF GAME, I trust that you will be able to figure out the other keybinds swaps in game. Please refer the [this](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes) page for the DXScanCodes used by most mods.
+
+1. **Dual Wield Blocking**: Open the mod `Dual Wield Parrying - Settings` and locate the `DualWieldParryingSKSE.ini` file.
+2. **Dodging**: Open the mod `TK Dodge - Settings` and locate the `TK Dodge RE.ini` file.
 
 ## Changing Resolution
 
@@ -54,7 +63,7 @@ By default, Wabbajack will set the resolution in your `Skyrimprefs.ini` to match
 The preferable way to change your resolution is to find the `SSEDisplayTweaks.ini` located in the `SSE Display Tweaks` mod. Open the file and navigate to the `[Render]` section and find the lines `#Resolution=1920x1080` and `#ResolutionScale=0.75`. Here you can change the resolution here to your desired resolution. After changing the resolution, remove the `#` in order for the settings to take affect when launching the game.
 
 Example for how the .ini line should look:
-Before: `#Resolution=1920x1080`
+Before: `#Resolution=1920x1080`  
 After: `Resolution=2560x1440`
 
 ## Skyrim Upscaler
