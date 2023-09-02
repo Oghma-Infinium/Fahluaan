@@ -15,7 +15,7 @@
 ---
 
 # Changelog\
-- [1.3.0](#130) Release Date: **Unreleased**
+- [1.3.0](#130) Release Date: September 2, 2023
 - [1.2.4](#124) Release Date: August 7, 2023
 - [1.2.3](#123) Release Date: August 7, 2023
 - [1.2.2](#122) Release Date: August 7, 2023
@@ -74,10 +74,14 @@ Info
  - Unique sets can be recrafted as unenchanted gear if you have the appropriate perks and the cuirass of the set in your inventory.
  - Fixed spears using battleaxe animations instead of spear animations.
  - Fixed Dragon Priests double dipping Magic Resist from a perk. They should no longer be 100% immune to magic when their flesh spells are active.
+ - Overhauled Wyrmstooth Unique Items a little.
  - Ghosts should now be damageable by a wider variety of weapon and magic types.
  - Cleaned out some unused downloads from early development.
  - Removed some utility mods that were still enabled, causing the list's size to be inflated.
  - Added light variants of the Volkihar Knight armor to be crafted. They require Glass Smithing and completion of Dawnguard.
+ - Fixed invisible meshes on some unique items (this might have only been a pre-release issue).
+ - The Spell Absorb visual was removed, due to more enemy types having spell absorb now and the visual being very annoying and triggering too often in some cases. The player will still be alerted that enemies "resisted" a spell when absorption occurs.
+ - Player is no longer randomly assigned an OBody preset in racemenu. 
 
 <Details>
 
@@ -161,6 +165,11 @@ Info
  - Skill of Sneaking
  - Immersive Death Cycle
  - Aptitude - A Minimalistic Class Overhaul
+ - Open Animation Replacer
+ - LOD Model Library
+ - House of Horrors - Quest Expansion
+ - The Dragon Cult - A Draugr Overhaul
+ - The Taste of Death Improved Shutdown
 
 ### Added
 
@@ -271,6 +280,14 @@ Info
  - FK's Diverse Racial Skeletons - Fem Argonian Edit
  - Scion Inventory Injector (I4) Icons
  - Vanilla Script Micro Opt 1.16a Adoption Bug Fix
+ - Forsworn Armors and Weapons Retexture SE
+ - Paired Animation Improvements
+ - Remove Spell Absorb Effect - No ESP
+ - Scene Tweak - College of Winterhold Non-Novice spells
+ - More Distinct Diving Sound - Alternate Version
+ - Actor Value Generator
+ - Fuse's HDT Hairpacks
+ - Bounties are Worthwhile
 
 ### Removed
 
@@ -356,6 +373,7 @@ Info
  - Happy Little Trees - DLC Trees (Base Object Swapper)
  - Happy Little Trees - Alternate Cut Stumps - Custom Only BOS
  - Granite Hill Village
+ - RUSTIC ARMOR and WEAPONS SE
 
 </Details>
 
