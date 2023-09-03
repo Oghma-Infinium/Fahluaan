@@ -57,7 +57,7 @@ The Plane Walker set is based on 4thUnknown's [Dremora Markynaz Armor](https://w
 
 ### Paradise
 
-The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusmods.com/skyrimspecialedition/mods/84280) and is designed for Spellswords and Battlemages. The set can be obtained within the [Shrine of Mehrunes Dagon](https://en.uesp.net/wiki/Skyrim:Shrine_of_Mehrunes_Dagon).
+The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusmods.com/skyrimspecialedition/mods/84280) and is designed for Spellswords and Battlemages. The set can be obtained within the [Shrine of Mehrunes Dagon](https://en.uesp.net/wiki/Skyrim:Shrine_of_Mehrunes_Dagon) or from [Vonos](https://en.uesp.net/wiki/Skyrim:Vonos).
 
  - **Visage of Paradise**: Your Magicka is increased by 50.
  - **Mantle of Paradise**: Your Stamina is increased by 50 and your Destruction spells cost 25% less.
