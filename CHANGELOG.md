@@ -8,13 +8,15 @@
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
+  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/ADDONS.md">Addons</a> |
   <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
   <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
 
-# Changelog\
+# Changelog
+- [1.3.1](#131)
 - [1.3.0](#130) Release Date: September 2, 2023
 - [1.2.4](#124) Release Date: August 7, 2023
 - [1.2.3](#123) Release Date: August 7, 2023
@@ -44,6 +46,26 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.3.1
+
+Info
+
+ - Removed some unused files that were left behind from previous versions.
+ - Fixed an issue where old Herma was ignoring the player in the start room.
+ - Shifted the Civil War Rewards until I can figure out why they arent being given on the appropriate quest.
+
+<Details>
+
+### Updated
+
+ - Embers XD
+ - Navigator - Navmesh Fixes
+ - DynDOLOD 3 Alpha
+ - Narrative Gameplay Consistent Dialogue Tweaks
+ - Open College
+
+</Details>
 
 ## 1.3.0
 
