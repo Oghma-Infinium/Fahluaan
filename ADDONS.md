@@ -21,4 +21,4 @@ This page contains **unofficial** addons that can be installed on top of Fahluaa
 
 If you would like to make an addon and for it to be featured on this page, please reach out to me (aljo) in the modifications channel and we can discuss it.  
 
-- [Fahluaan - D1Z4STR Edition](https://github.com/D1Z4STR/Fahluaan-D1Z4STRs_Edition)
+- [Fahluaan - D1Z4STR's Edition](https://github.com/D1Z4STR/Fahluaan-D1Z4STRs_Edition)
