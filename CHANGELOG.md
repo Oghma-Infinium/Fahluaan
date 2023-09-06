@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.3.2](#132) Release Date: September 6, 2023
 - [1.3.1](#131) Release Date: Septemeber 4, 2023
 - [1.3.0](#130) Release Date: September 2, 2023
 - [1.2.4](#124) Release Date: August 7, 2023
@@ -46,6 +47,29 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.3.2
+
+Info
+
+ - Changed IED menu hotkey from `Backspace` to `Left Shift + Backspace`.
+ - Hopefully fixed some random crashes.
+ - Fixed Instrument recipes crafting tankards instead of the instruments they were intended to craft.
+ - Removed hay from CC Bow of Shadows that trapped Kaidan's horse sometimes.
+ - Companion's Guild Armor can no longer be disenchanted.
+ - Fixed incorrect ARMA on Companion's Boots and Gauntlets.
+ - Adjusted the placement of the bounty letters added by Memorable Bounties so they wouldn't be floating in the air.
+
+<Details>
+
+### Updated
+
+ - OBody NG
+ - Chapter II - Jeremy Soule Inspired Music
+ - Navigator
+ - Crashlogger
+
+</Details>
 
 ## 1.3.1
 
