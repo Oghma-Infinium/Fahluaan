@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.3.3](#133) Release Date: September 8, 2023
 - [1.3.2](#132) Release Date: September 6, 2023
 - [1.3.1](#131) Release Date: Septemeber 4, 2023
 - [1.3.0](#130) Release Date: September 2, 2023
@@ -47,6 +48,30 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.3.3
+
+Info
+
+ - Included CK Output which was mistakenly not included in previous versions, meaning some patches were missing.
+ - Updated some stuff.
+
+<Details>
+
+### Updated
+
+ - Object Categorization Framework
+ - OBody NG
+ - OBody NG - Settings Loader
+ - Dragon War - A Dragon Overhaul
+ - Animated Ice Floes
+ - Embers XD
+
+### Added
+
+ - FYX - Hrothgar Steps Collisions
+
+</Details>
 
 ## 1.3.2
 
