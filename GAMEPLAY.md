@@ -125,10 +125,13 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 #### Religion Tweaks
 
  - **Boethiah**: Changed Damage Armor malus on player from -300 to -200.
+ - **Clavicus Vile**: Buff to scrolls reduced from 100% to 50%.
  - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Jyggalag**: Has been added by [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/99144).
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
  - **Sheogorath**: New cultist ability: Incoming magic damage is reduced by 25%, however your Armor Rating is reduced by 200.
+ - **The Watcher**: A new deity added by [The Midden - Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/2219), I thought the lore was cool so I made him a useful deity governed by the Cultist branch of Religion.
+   > You have a 5/10% chance to absorb the Magicka from incoming spells. / Your staff enchantments are twice as strong, but cost three times as much.
 
 #### Spell Tweaks
 

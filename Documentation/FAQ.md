@@ -58,6 +58,9 @@ A: There is extensive documentation on the mod page [here](https://www.nexusmods
 ### Q: I can't add a weapon/armor to the wheel.
 A: This is usually caused by an alternate start mod that adds random items to your inventory. This only happens to the set of starting items you have. To fix this issue, simply drop the item onto the ground and pick it again.
 
+### Q: Can I still use the vanilla favorites menu? I do not like the wheel.
+A: If you're on keyboard press `G` to open up the vanilla favorites menu.
+
 ### Q: The marker on my compass doesn't correspond with the map marker!
 A: This is an issue with [CoMAP](https://www.nexusmods.com/skyrimspecialedition/mods/56123) and [CNO](https://www.nexusmods.com/skyrimspecialedition/mods/74484), it's unfixable unless CoMAP updates. Unfortunately I like both mods and want to keep using both mods.
 

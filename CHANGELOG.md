@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.3.4](#134) Release Date: September 10, 2023
 - [1.3.3](#133) Release Date: September 8, 2023
 - [1.3.2](#132) Release Date: September 6, 2023
 - [1.3.1](#131) Release Date: Septemeber 4, 2023
@@ -48,6 +49,56 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.3.4
+
+Info
+
+ - Fixed missing Winter SWAP for `NorDwelling01ExtBaseA`.
+ - Fixed Shrine of Azura Summer SWAP.
+ - Fixed unenchanted double stave issue.
+ - Patched Shrine of Hircine in the midden to give the appropriate Pilgrim buff.
+ - The Watcher in the midden depths now gives an actual shrine buff.
+ - Nerfed Clavicus Vile to bring Scroll builds more inline with other builds in terms of end-game damage output. They are still the highest DPE builds possible by a solid margin.
+ - Changed Ysolda's OBody distribution as her current distribution had some gaps due to the bodyslided outfit. This change will not take effect on existing games.
+ - Adjusted some dialogue conditions surrounding the completion of the College questline and the title of Arch-Mage. 
+ - (Potentially) Fixed werewolf texture issue.
+ - Rebalanced Afflicted Vile Vapors Ability to better reflect other poison spells and abilities.
+ - Shield spells (Master level shell spells) buffed from 75% Resist to 100% Resist (75% resist is still cap). This change is made to allow certain builds to better offset certain debuffs they may have to take.
+ - Consistency patched the potions and ingredients added by OCW to use proper Apothecary effects.
+ - Sovereign Band now gives +50% Conjuration Duration instead of +50% Magicka Regen.
+ - Removed Renewal Perk from Dragon Priests.
+ - Removed Mara's Embrace from Dragon Priests.
+ - Added Stendarr's Mercy to Dragon Priests.
+ - Reduced Expert and Master level training costs by a small amount.
+
+<Details>
+
+### Updated
+
+ - Northern Scenery - IronBind Barrow
+ - Better Third Person Selection (AE - SE)
+ - Water for ENB
+ - DynDOLOD 3.00
+ - DynDOLOD Resources SE 3
+ - Simple Snow Improvements - Skyrim
+ - aljos Apothecary Patches
+
+### Added
+
+ - Transparent and Refracting Icicle and Frost Atronach
+ - Spaghetti's Faction Halls - High Hrothgar
+ - FYX - Windhelm Graveyard - Navcut ESP
+ - FYX - Nordic Doors and Traps Collisions
+ - Shield Block Direction Bandaid Fix - OAR
+
+### Removed
+
+ - Higher resolution large portcullis collision mesh
+ - Dynamic Sprint
+ - Kanjs Atronachs
+
+</Details>
 
 ## 1.3.3
 
