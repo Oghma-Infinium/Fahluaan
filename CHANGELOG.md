@@ -69,7 +69,7 @@ Info
     - Archery is now split into a Crit Damage branch that affects Bows and a Bleed Damage branch that affects Crossbows.
     - Removed Magic Mantle perk from the Destruction tree.
     - Rebalanced Dragon Priests.
-    - Redesigned Companion's starting armor and moved it to be placed in Jorvaskr living quarters instead of being auto added in the middle of CO0.
+    - Redesigned Companion's starting armor and moved it to be placed in Jorvaskr living quarters instead of being auto added in the middle of C00.
     - Improved Shrouded Armor is now placed in the Dawnstar Sanctuary.
     - Forsworn now have a 25% malus to their Magic Resistance.
     - Forsworn Spell Absorption bonus nerfed from 10% to 5%.
