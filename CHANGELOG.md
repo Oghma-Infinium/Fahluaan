@@ -61,11 +61,11 @@ Info
  - Reapproached the way Spell mods were handled.
  - Redesigned the New Game start room.
  - Redesigned Archery tree.
- - Changes to "In My Time of Need" Quest
+ - __Changes to "In My Time of Need" Quest__
     - Reduced Alik'r Prisoner fine to 4,000 septims (down from 10,000 septims).
     - Removed Enchanted gear reward from "In My Time Of Need" Quest if you side with Kematu.
     > **Developer Note**: The two changes above will hopefully make the decision that is made in the quest more reasonable from a gameplay POV, bringing down the fine to a more reasonable amount and making it so that you can only get the enchanted set of items by killing Kematu, should provide a reason to side with Saadia.
- - General Balancing Notes:
+ - __General Balancing Notes:__
     - Archery is now split into a Crit Damage branch that affects Bows and a Bleed Damage branch that affects Crossbows.
     - Removed Magic Mantle perk from the Destruction tree.
     - Rebalanced Dragon Priests.
@@ -84,7 +84,7 @@ Info
     - Reworked Bounty rewards again.
     - Serpent Stone should now grant +50% more poison uses instead of +2 additional hits.
     - Changed the malus on Master Necromancer's Robes.
- - Bug Fixes: 
+ - __Bug Fixes:__ 
     - Fixed issue where entering Quicksilver Mine caused the player to get stuck in a void.
     - Fixed the selected options in Two-Handed and Ranged subtypes not being saved in Skyrim Unbound start.
     - Fixed first person Katana animation being used under the incorrect conditions.
@@ -98,7 +98,7 @@ Info
     - Removed a tree that was clipping with Peryite's Statue.
     - Fixed misaligned landscape outside of Raven Rock tunnel.
     - (Hopefully) Fixed crashes that occurred for some people in the Temple of Mara.
- - Consistency Tweaks:
+ - __Consistency Tweaks:__
     - Restored Spell Absorption visual effect.
     - Reverted Gore's default armor.
 
