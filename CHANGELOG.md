@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.4.0](#140) Release Date: September 23, 2023
 - [1.3.4](#134) Release Date: September 10, 2023
 - [1.3.3](#133) Release Date: September 8, 2023
 - [1.3.2](#132) Release Date: September 6, 2023
@@ -49,6 +50,205 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.4.0
+
+Info
+
+ - Artifact rework.
+ - Classes rebalanced.
+ - Katana 2.0 Update.
+ - Reapproached the way Spell mods were handled.
+ - Redesigned the New Game start room.
+ - Redesigned Archery tree.
+ - Changes to "In My Time of Need" Quest
+    - Reduced Alik'r Prisoner fine to 4,000 septims (down from 10,000 septims).
+    - Removed Enchanted gear reward from "In My Time Of Need" Quest if you side with Kematu.
+    > **Developer Note**: The two changes above will hopefully make the decision that is made in the quest more reasonable from a gameplay POV, bringing down the fine to a more reasonable amount and making it so that you can only get the enchanted set of items by killing Kematu, should provide a reason to side with Saadia.
+ - General Balancing Notes:
+    - Archery is now split into a Crit Damage branch that affects Bows and a Bleed Damage branch that affects Crossbows.
+    - Removed Magic Mantle perk from the Destruction tree.
+    - Rebalanced Dragon Priests.
+    - Redesigned Companion's starting armor and moved it to be placed in Jorvaskr living quarters instead of being auto added in the middle of CO0.
+    - Improved Shrouded Armor is now placed in the Dawnstar Sanctuary.
+    - Forsworn now have a 25% malus to their Magic Resistance.
+    - Forsworn Spell Absorption bonus nerfed from 10% to 5%.
+    > **Developer Note**: These Forsworn nerfs are primarily meant to offset the fact that Forsworn were double dipping their unique bonus with Breton's racial bonus.
+    - Harkon's gear is changed to light armor.
+    > **Developer Note**: This change is meant to gain consistency with Artificer's unique Vampire Royal Armor that was given to Harkon in order to provide more competitive unique item choices for Light Armor spellswords.
+    - Reworked unique items in the Midden.
+    - Boosted midden encounter zone level from 10 to 15.
+    - Removed Draugr Taunt Idle.
+    - Changed the bonuses and enchants on some of the unique items in Fahluaan.
+    - Windcaller equipment moved to a chest at Throat of the World until I figure out a better implementation.
+    - Reworked Bounty rewards again.
+    - Serpent Stone should now grant +50% more poison uses instead of +2 additional hits.
+    - Changed the malus on Master Necromancer's Robes.
+ - Bug Fixes: 
+    - Fixed issue where entering Quicksilver Mine caused the player to get stuck in a void.
+    - Fixed the selected options in Two-Handed and Ranged subtypes not being saved in Skyrim Unbound start.
+    - Fixed first person Katana animation being used under the incorrect conditions.
+    - Fixed improper snow shader on Bruma snow variants.
+    - (Potentially) fixed a crash that some users reported occured in Labyrinthian Tribune.
+    - Fixed mesh incompatibility between Madmen and HIMBO vanilla refit of Briarheart body/outfit, where heart and sticks were invisible on both living and dead Briarhearts.
+    - Removed some Sorcerer Patches that caused redundancy and duplicates with the Synthesis Patcher.
+    - "Fixed" missing red mountain LOD.
+    - Fixed a crash in the Forgotten Vale caused by Seasons of Skyrim - Unfrozen.
+    - Gave appropriate Keywords to some vanilla Katana weapons that were missing them.
+    - Removed a tree that was clipping with Peryite's Statue.
+    - Fixed misaligned landscape outside of Raven Rock tunnel.
+    - (Hopefully) Fixed crashes that occurred for some people in the Temple of Mara.
+ - Consistency Tweaks:
+    - Restored Spell Absorption visual effect.
+    - Reverted Gore's default armor.
+
+<Details>
+
+### Updated
+
+ - LodGen Output
+ - TexGen Output
+ - DynDOLOD Output
+ - BodySlide Output
+ - Synthesis Output
+ - Nemesis Output
+ - Thaumaturgy - An Enchanting Overhaul
+ - Aptitude - A Minimalistic Class Mod
+ - Katana - Journey in the Shadows
+ - Unslaad SE
+ - UNSLAAD Voiced - English Addon
+ - Rally's All The Things
+ - Gore
+ - Gore x Vigilant
+ - Object Categorization Framework
+ - Navigator - Navmesh Fixes
+ - DynDOLOD Resources SE 3
+ - DynDOLOD 3 Alpha
+ - Sovngarde Ox
+ - Follower Distance Tweaks - GORE
+ - GORE - USSEP Patch
+ - True Directional Movement
+ - Skyrim Unbound Reborn (Alternate Start)
+ - B.O.O.B.I.E.S (aka Immersive Icons)
+ - Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+ - Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)
+ - AI Overhaul SSE
+ - Improved Camera SE
+ - Artifacts of the Ancestors
+ - Immersive Death Cycle
+ - The Dragon Cult - Expanded
+ - Relics Of The Crusader Improved
+ - Legacy of the Remnants
+ - Gift of the Underking
+ - Champion's Mettle
+ - The Dragon Cult - A Draugr Overhaul
+ - Lawless Patch FOMOD
+ - Natura
+ - Natura - Spriggans
+ - Lunaris
+ - Flames of Coldharbour
+ - Miscellaneous Skyrim Unbound Addons
+ - Alchemy Station Variants - Base Object Swapper
+ - Missing Follower Dialogue Edit
+ - Improved Follower Dialogue - Lydia
+ - BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
+
+### Added
+
+ - Artificer - An Artifact Overhaul
+ - aljo's Artificer Patches
+ - Dragon Priests Retexture SE
+ - Gauntlet Cursors Collection
+ - Animated Mounted Casting - Cast Spells On Horseback
+ - Weapon switch animation Fix
+ - Torch Sprint Animation Fix
+ - Backpack Repositioner
+ - GORE - Fishing (CC) Patch
+ - (FLM) WorldSpaces Patches for Vigilant
+ - (FLM) WorldSpaces Patches for Unslaad
+ - (FLM) WorldSpaces Patches for Glenmoril
+ - No Furniture Camera
+ - Civil War Champions - Reduced Cut
+ - Wheeler Icon Embellishment - Naturally Exquisite Refinement
+ - Tel Mithryn Overhaul - High Poly and Improved Meshes
+ - DLC2TelvanniRoot Mesh Fixes
+ - Taller Posts for Farmhouse Walkways
+ - Wormpie's Hagravens
+ - Vigil Enforcer - Pilgrim Tweaks
+ - FYX - Imperial Doors Collisions
+ - Kinda Believable Weapons
+ - Unarmed Weapon Speed Scaling
+ - Vanargand Animations II - Female Idle Walk And Run
+ - Vanargand Animations II - Male Idle Walk And Run
+ - Essentials Knockdown
+ - Bounty Quests Redone - NG
+
+### Removed
+
+ - Fahluaan - Skyrim Unbound
+ - Vestige - An Artifact Overhaul
+ - DPI Scaling Fix
+ - Labyrinthian Shalidor's Maze Fixes
+ - Sorcerer - Oreo CC Staves Patch
+ - Ryn's Standing Stones
+ - Ryn's Standing Stones Patch Collection
+ - Rally's Blissbugs AE
+ - Rally's Torchbugs
+ - Rally's Bugs in Jars
+ - Rally's Bees and More
+ - Rally's Display Cases
+ - Rally's Market Stalls
+ - Rally's Handcarts
+ - Rally's Barrels
+ - Rally's Nord War Horns
+ - Vampire Coffins 2K
+ - Windcaller Tomb and Horn 2K
+ - Rudy HQ - More Lights for ENB SE - Torchbugs and Moths
+ - Fixed Beggar Clothing Meshes
+ - Remove Vigil Enforcer Armor Set Quest
+ - Remove Spell Absorb Effect
+ - Arclight
+ - Necrom
+ - Abyss
+ - Bloodmoon
+ - Desecration
+ - Arclight Icon - I4 Add-On
+ - Desecration Icon - I4 Add-On
+ - Necrom Icon - I4 Add-On
+ - Flame Atronach SE - Variants - Desecration Patch
+ - Sorcerer - Praedystaves - Abyss
+ - Sorcerer - Praedystaves - Arclight
+ - Sorcerer - Praedystaves - Bloodmoon
+ - Sorcerer - Praedystaves - Necrom
+ - Sorcerer - Praedystaves - Vulcano
+ - Sorcerer - Abyss Patch
+ - Sorcerer - Arclight Patch
+ - Sorcerer - Lunaris Patch
+ - Sorcerer - Flames of Coldharbour Patch
+ - Sorcerer - Desecration Patch
+ - Sorcerer - Bloodmoon Patch
+ - Sorcerer - Natura Patch
+ - Sorcerer - Necrom Patch
+ - Sorcerer - Vulcano Patch
+ - Sorcerer - Oreo CC Staves Patch
+ - Gourmet - Arclight
+ - Gourmet - Vulcano
+ - Gourmet - Fethis Alor Sells Pitchforks - Vulcano
+ - Red Mountain Plume Visible from Skyrim
+ - Quest Reward Additions
+ - Vanargand Animations - Female Idle Walk and Run
+ - Vanargand Animations - Male Idle Walk and Run
+ - Wyrmstooth Suleyk Retexture SE
+ - Outlandish Cultist Robes
+ - Frankly HD Miraak
+ - Masks of the ﻿Dovah Sonaak SE
+ - DragonPriests Retexture - SE
+ - Splashes of Storms
+ - Rudy Fix for Splashes of Storms and ENB
+ - Bounty Preview
+ - Bounties Are Worthwhile - Leveled Bounty Rewards
+
+</Details>
 
 ## 1.3.4
 

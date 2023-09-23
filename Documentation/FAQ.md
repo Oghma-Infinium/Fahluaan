@@ -64,6 +64,9 @@ A: If you're on keyboard press `G` to open up the vanilla favorites menu.
 ### Q: The marker on my compass doesn't correspond with the map marker!
 A: This is an issue with [CoMAP](https://www.nexusmods.com/skyrimspecialedition/mods/56123) and [CNO](https://www.nexusmods.com/skyrimspecialedition/mods/74484), it's unfixable unless CoMAP updates. Unfortunately I like both mods and want to keep using both mods.
 
+### Q: The map is too bright.
+A: This is a conflict between Flat World Map Frameworks and Seasons of Skyrim. I am working on a fix and reaching out to the relevant authors about it when I have time.
+
 ### Q: Sex?
 A: No.
 

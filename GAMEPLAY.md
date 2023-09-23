@@ -77,7 +77,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
      - [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha)
      - [Barrow of the Wyrm](https://tes-mods.fandom.com/wiki/Barrow_of_the_Wyrm)
      - [Someone with Backbone](https://tes-mods.fandom.com/wiki/Someone_with_Backbone)
-   - The [Oghma Infinium](https://en.uesp.net/wiki/Skyrim:Oghma_Infinium) grants **3** perks on use.
+   - The [Oghma Infinium](https://en.uesp.net/wiki/Skyrim:Oghma_Infinium) grants **2** perks on use.
    - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), and [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) add their own systems through which perks can be obtained, however these systems are not considered when balancing availability of perks, and it is generally suggested to avoid these systems for balancing purposes.
  - The first level up, level 2, gives bonus stats (20 Health, Magicka, or Stamina rather than the usual 10). You will gain a total of 500 attributes by level 50 and 1000 attributes by level 100.
  - There are 54 perks to accumulate through leveling by level 50, it is expected that an additional 15 to 20 are obtained via alternative sources.
@@ -93,6 +93,8 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
 #### Perk Tweaks
 
+ - **Archery**
+   - Perk Tree has been almost entirely redesigned, separating out Bow and Crossbow perks to create different gameplay niches for each.
  - **Conjuration**
    - **Cultist**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
  - **Hand to Hand**
@@ -134,20 +136,10 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    > You have a 5/10% chance to absorb the Magicka from incoming spells. / Your staff enchantments are twice as strong, but cost three times as much.
 
 #### Spell Tweaks
-
- - **Abyss**
-   - Shadow Body removed.
- - **Arclight**
-   - Arclight Body removed.
  - **Lunaris**
-   - Lunar Body removed.
+   - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay..
  - **Natura**
-   - Aspect of the Bear, Viper, Fire Wyrm, Frost Wyrm, Shock Wyrm, Ferocity, and Rain removed.
-   - Aspect of the Crab 250 AR --> 200 AR.
- - **Necrom**
-   - Eldritch Infection removed.
- - **Vulcano**
-   - Molten Body removed.
+   - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
  - **Abyssal Tides Magic**
    - Abyssal Impact and Abyssal Ink Bolt have been reworked as Expert to Master level Poison spells.
    - Apocryphal Gate is available as a Lesser Power.
