@@ -152,6 +152,7 @@ Info
  - Missing Follower Dialogue Edit
  - Improved Follower Dialogue - Lydia
  - BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
+ - No Artifacts From Fishing
 
 ### Added
 
