@@ -36,7 +36,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
  - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) makes extensive changes to the way Survival Mode is implemented and functions. Survival Mode is enabled by default, but can be disabled at any time in the in-game Settings menu.
  - I also suggest getting acquainted with the [Wheeler - Quick Action Wheel of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/97345) mod. The page provides significant documentation on how to set it up and use the mod. 
    > The default keybinds to bring up the wheel are `Q` for Keyboard and `X` or `Square` for Controller. You can edit these keybinds (and other aspects of the wheel) in the [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221) GUI, which can be opened with the `Home` button on your keyboard.
- - A custom edit of [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) comprises the alternate start for the list. Please use the MCM to select starting gear, spells, standing stone, and starting location. Chapter II and Chapter III will take you to select a starting deity.
+ - A custom edit of [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) comprises the alternate start for the list. Please use the MCM to select starting gear, spells, standing stone, and starting location.
 
 ### Leveling and Progression
 
