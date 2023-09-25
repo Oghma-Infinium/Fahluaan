@@ -136,8 +136,10 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    > You have a 5/10% chance to absorb the Magicka from incoming spells. / Your staff enchantments are twice as strong, but cost three times as much.
 
 #### Spell Tweaks
+ - **Flames of Coldharbour**
+   - Power Tomes have been removed from vendor inventories and NPC drops, making them unobtainable in normal gameplay.
  - **Lunaris**
-   - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay..
+   - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
  - **Natura**
    - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
  - **Abyssal Tides Magic**

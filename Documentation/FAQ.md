@@ -43,6 +43,9 @@ A: VIGILANT requires the player be level 25, completion of House of Horrors, and
 > Similarly, GLENMORIL and UNSLAAD require certain quests to be completed in order to be played. GLENMORIL requires Vigilant, At the Summit of Apocrypha (the final quest of the Dragonborn DLC), and Sacred Anatomancer (a quest from Vigilant that can be started in the Ratway) to be completed. 
 > UNSLAAD requires the completion of GLENMORIL and Dragonslayer (the final quest of the Main Questline).
 
+### Q: Katana's Quest Chasing the Current won't advance when sent to the Frozen Hearth!
+A: Anna and I looked into this issue a bit and the cause is a bit obscure, however this can be safely* fixed by just using the console command `setstage AK69KatanaPersonalQuest 140` to initiate the scene and progress the quest.
+
 ### Q: How do I get rid of the black bars? How to disable letterbox.
 A: Open the ENB Menu (Default `Shift+Enter`), Open `ENBPOSTPASS.FX`, Scroll down until you see "letterbox" and untick it, Press the "Save Configuration" button, Close the ENB Menu.
 

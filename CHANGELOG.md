@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.4.1](#141) Release Date: September 25, 2023
 - [1.4.0](#140) Release Date: September 23, 2023
 - [1.3.4](#134) Release Date: September 10, 2023
 - [1.3.3](#133) Release Date: September 8, 2023
@@ -50,6 +51,73 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.4.1
+
+Info
+
+ - Should be save safe, just ignore the missing plugins.
+    - If you have encountered Katana or started her follower quest, I would suggest restarting from a save prior to this point.
+    - If you have already been in the Riverwood Trader then it might be a little awkward, but it shouldn't cause any issues with the save game.
+ - Changed Fire setup.
+ - Added Bodyslide support for Armor of Yngol.
+ - Deleted some old outputs from the downloads folder that were bloating the installation size.
+ - __Balancing Notes:__
+    - Changed Ring of the Erudite's Enchant to "Your Magicka Regenerates 100% faster".
+    - Changed Ring of the Beast's Enchant to "Your Health is increased by 50, and your unarmed attacks deal 25% extra damage."
+    > Developer Note: These two changes are to bring these two items more in line with other choices so they do not become defacto "best-in-slot" choices while they have yet to be reworked officially within SimonRim.
+    - Removed Throat of the World spell from Morokei and Krosis.
+    - Wood Elf Vampire Bonus now gives +50% Poison Use instead of +1 poison uses.
+    - Wood Elf Vampire Bonus now gives +50% Alchemy duration instead of 1.5x Alchemy duration.
+    - Imperial Vampire Bonus now gives +50% Illusion duration instead of 1.5x Illusion duration.
+    - Dark Elf Vampire bonus now gives +25% extra sneak attack damage and sneaking instead of 1.25x sneak attack damage.
+    - Ice Blade of the Monarch has a new enchantment: "Deals 20 Frost damage to Health and Stamina, and leaves behind a hazard that deals extra damage over 10 seconds. Reduces enemy Frost Resistance by 50% for 30 seconds."
+    > Developer Note: This change was made to differentiate the Ice Blade of the Monarch more from Chillrend.
+    - Fists of Randagulf no longer give the incorrect +25 Unarmed damage, but instead +25% Unarmed damage.
+    - Fighter's Stance, Warrior's Stance, and Brawler's Stance have been buffed up to +50% Power Attack damage from +25% Power Attack damage.
+    - Sorcerer Class now gives 15% Spell Absorb instead of 10%. This change will **not** take affect on existing save games unless you remove and re-add the class.
+ - __Bug Fixes__:
+    - Fixed Destructive Barrier being unatainable due to perk requirement error.
+    - Fixed Relentless perk unintentionally showing up in Active Magic Effects.
+    - Mehrunes Dagon's resistance shred will no longer be absorbed by NPCs (not really a "bug" but the visual spam is annoying).
+    - Fixed bug where Thaumaturgy's scaler perk was being applied to the player record twice, causing self-made enchantments to be a lower potency that intended.
+    - Removed the debug notification that occured when using the Froststar weapon or an item with the same enchant.
+
+<Details>
+
+### Updated
+
+ - ENBSeries Binaries
+ - Fahluaan - Bodyslide Output
+ - Dynamic Impact - Slash Effects X
+ - Ryn's Riverwood Patch Collection
+ - Ryn's Riverwood Patch Collection
+ - Flames of Coldharbour
+ - Champion's Mettle
+ - Natural Waterfalls
+ - Children of the Pariah - An Orc NPC Overhaul
+ - DLC2TelvanniRoot mesh fixes
+ - Aptitude - A Minimalistic Class Mod
+
+### Added
+ 
+ - Disk Cache Enabler
+ - Spaghetti's Faction Halls - Sky Haven Temple
+ - Riverwood Trader Is A Mess
+ - Artificer - Xavbio Textures - 3BA
+ - Artificer - Xavbio Textures - HIMBO
+ - Riverwood Trader Is A Mess - Silence is Golden Patch
+ - Load Order Library MO2 Plugin
+ - Torch Permanent Replacer
+ - Fugitive Piss Off
+
+### Removed
+
+ - Inferno - Fire Effects Redux
+ - CC Camping - Embers XD patch
+ - Tru-Torches SE - Base Object Swapper
+
+</Details>
 
 ## 1.4.0
 

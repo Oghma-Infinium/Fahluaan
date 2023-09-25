@@ -43,8 +43,6 @@
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Widescreen Fixes](#widescreen-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
-    - [Optional Tweaks](#optional-tweaks)
-    - [Performance](#performance)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [Note For Content Creators](#note-for-content-creators)
