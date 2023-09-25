@@ -106,7 +106,6 @@ Info
  - Artificer - Xavbio Textures - 3BA
  - Artificer - Xavbio Textures - HIMBO
  - Riverwood Trader Is A Mess - Silence is Golden Patch
- - Load Order Library MO2 Plugin
  - Torch Permanent Replacer
  - Fugitive Piss Off
 
