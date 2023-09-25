@@ -57,7 +57,6 @@
 Info
 
  - Should be save safe, just ignore the missing plugins.
-    - If you have encountered Katana or started her follower quest, I would suggest restarting from a save prior to this point.
     - If you have already been in the Riverwood Trader then it might be a little awkward, but it shouldn't cause any issues with the save game.
  - Changed Fire setup.
  - Added Bodyslide support for Armor of Yngol.
