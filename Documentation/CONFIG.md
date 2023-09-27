@@ -24,10 +24,12 @@ The following sections detail the **supported** modifications to the list. Any o
 This section will cover the `Performance Options` section of the modlist. Due to Fahluaan's relatively good performance, at least in the data that has been collected, the performance options are not extremely robust to keep users from having to download additional LOD Outputs.
 
 Currently the only supported performance modifications include some Performance-oriented ENB and Grass tweaks, which should provide a 20-40% net performance gain, depending on hardware and area, with minimal loss in the visual fidelity of the list. In order to use these Performance tweaks, activate the `Performance Mode` mod under the `Performance Options` separator in MO2 and disable the following mods above it:
- - `Cathedral - 3D Pine Grass for ENB Complex Grass`
- - `Origins of forest for ENB Complex Grass`
+ - `Tamrielic Grass For ENB Complex Grass`
+ - `Veydosebrom Regions - Complex Grass`
  - `Folkvangr for ENB Complex Grass`
- - `QW Grass 2 for ENB Complex Grass Patch`
+ - `Folkvangr Summer Tundra for ENB Complex Grass`
+ - `Origins of forest for ENB Complex Grass`
+ - `Cathedral - 3D Pine Grass for ENB Complex Grass`
 
 ### Insects Begone
 
