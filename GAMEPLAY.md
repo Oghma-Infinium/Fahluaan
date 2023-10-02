@@ -53,7 +53,9 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - Skill books provide a permanent boost to leveling speed in their respective skill, instead of giving a level. This effect is boosted by the Scholar's Insight Black Book power. 
  - Leveling up requires sleeping in a bed. This is done to incentivize "good behavior".
  - Perks can also be obtained through the following:
-   - **Quests**: The following quests will grant 1 perk point on completion: (23 total). 
+   - **Quests**: The following quests will grant 1 perk point on completion: (25 total).
+     - [Dragon Rising](https://en.uesp.net/wiki/Skyrim:Dragon_Rising) (Auto Completes when you slay your first Dragon)
+     - [Bleak Falls Barrow](https://en.uesp.net/wiki/Skyrim:Bleak_Falls_Barrow_(quest))
      - [Diplomatic Immunity](https://en.uesp.net/wiki/Skyrim:Diplomatic_Immunity)
      - [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller)
      - [Alduin's Wall](https://en.uesp.net/wiki/Skyrim:Alduin%27s_Wall)
@@ -186,6 +188,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quests **Blessings of Nature** and **Bleak Falls Barrow**, purchase Breezehome, and complete the standard thaneship quest (help 10 people).
    - **A Blade in the Dark** has been changed due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704). The Horn of Jurgen Windcaller will be found in Ustengrav, in order to start [A Blade in the Dark](https://en.uesp.net/wiki/Skyrim:A_Blade_in_the_Dark), you must speak to Arngeir and then Farengar to setup a meeting with Delphine.
    - **Season Unending** has been removed, Balgruuf will help you trap Odahviing without requiring the meeting.
+   - **The Book of Love** and **Spread the Love** have been swapped in quest order. You will first need to deliver pamphlets to the people of Riften before you can go on the pilgrimage.
  - **Creation Club Quests**
    - **Bow of Shadows**: Original quest has been disabled and the Bow of Shadows has been placed as static loot in a reward chest for defeating a Morag Tong assassin.
    - **Chryasmere**: Original quest has been disabled and Chryasmere has been placed as static loot in a [cave near winterhold](https://en.uesp.net/wiki/Skyrim:Bleakcoast_Cave).
@@ -226,6 +229,62 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Vigilant**: Requires level 25+ and the completion of [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) and [House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
    - **Glenmoril**: Requires completion of Discerning the Transmundane, [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha), Vigilant (any ending), and Sacred Anatomancer (this quest is started in the Ratway after you finish Vigilant, it is suggested you do the "Divine the Future" path).
    - **Unslaad**: Requires completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer) and Glenmoril.
+
+## New Content
+
+This section will try to list the new content focused mods added to the list, and if necessary, describe any major changes to them.
+
+### New Quests
+
+ - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+ - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849): Read more under the [Quest Changes](#quests-changes) section.
+ - [GLENMORIL](https://www.nexusmods.com/skyrimspecialedition/mods/32998): Read more under the [Quest Changes](#quests-changes) section.
+ - [UNSLAAD](https://www.nexusmods.com/skyrimspecialedition/mods/11789): Read more under the [Quest Changes](#quests-changes) section.
+ - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+ - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179)
+ - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+ - [Fists of Fury - Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/73835)
+ - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494)
+ - [Sirenroot - Deluge of Deceit](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
+ - [Memorable Bounties - Witcher Inspired Quests](https://www.nexusmods.com/skyrimspecialedition/mods/99311)
+ - [Hunter's Dream - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/97408)
+ - [Calling the Watchmaker - Lovecraftian Inspired Quest](https://www.nexusmods.com/skyrimspecialedition/mods/96711)
+ - [Dragon Hunting - Quest Rewards and Alchemy Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/99193)
+ - [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625)
+ - [Belethor's Sister - Quest](https://www.nexusmods.com/skyrimspecialedition/mods/92381)
+
+### Vanilla Quest Expansions and Edits
+
+ - [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300)
+ - [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861)
+ - [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916)
+ - [Silence is Golden](https://www.nexusmods.com/skyrimspecialedition/mods/50581)
+ - [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
+ - [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)
+ - [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815)
+ - [Ill Met Bolar's Oathblade](https://www.nexusmods.com/skyrimspecialedition/mods/60994)
+ - [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466)
+ - [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
+ - [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974)
+ - [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606)
+ - [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
+ - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683)
+ - [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285)
+ - [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792)
+ - [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+
+### Followers
+
+ - [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075)
+ - [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)
+ - [Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413): Will not spawn until the player hits level 5.
+ - [Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
+ - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
+ - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622)
+ - [Eris](https://www.nexusmods.com/skyrimspecialedition/mods/77993)
+ - [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
+ - [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473)
+ - Serana Expanded - Dialogue Additions
 
 ## Tips and Help
 

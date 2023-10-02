@@ -43,9 +43,6 @@ A: VIGILANT requires the player be level 25, completion of House of Horrors, and
 > Similarly, GLENMORIL and UNSLAAD require certain quests to be completed in order to be played. GLENMORIL requires Vigilant, At the Summit of Apocrypha (the final quest of the Dragonborn DLC), and Sacred Anatomancer (a quest from Vigilant that can be started in the Ratway) to be completed. 
 > UNSLAAD requires the completion of GLENMORIL and Dragonslayer (the final quest of the Main Questline).
 
-### Q: Katana's Quest Chasing the Current won't advance when sent to the Frozen Hearth!
-A: Anna and I looked into this issue a bit and the cause is a bit obscure, however this can be safely* fixed by just using the console command `setstage AK69KatanaPersonalQuest 140` to initiate the scene and progress the quest.
-
 ### Q: How do I get rid of the black bars? How to disable letterbox.
 A: Open the ENB Menu (Default `Shift+Enter`), Open `ENBPOSTPASS.FX`, Scroll down until you see "letterbox" and untick it, Press the "Save Configuration" button, Close the ENB Menu.
 
@@ -85,11 +82,10 @@ Solution(s)
 
 ### [Insert Issue with the Civil War]
 Solution(s)
- 1. The civil war is broken in vanilla. I generally suggest not doing it.
+ 1. The civil war is broken in vanilla. I generally suggest not doing it or saving it until the end of a playthrough.
+   > [Blood on the Ice](https://en.uesp.net/wiki/Skyrim:Blood_on_the_Ice), Radiant Thieves' Guild quests that send you to inaccessible houses (like Heimskr's), and certain favor quests are known to break as a result of the Civil War in vanilla.
  2. Fast traveling after battles can cause issues as the game tends to get stuck in a perpetually battle state.
 
 ### Body type won't change when trying to apply a new body through OBody.
 Solution(s)
- 1. This is an issue with Engine Fixes/RaceMenu. The safest workaround is to change obody preset, equip and unequip the chestpiece, and the body type should change.
- 2. Restart the Game/Your PC and try again.
- 3. Read [FAQ 9](https://www.nexusmods.com/skyrimspecialedition/mods/77016?) on the OBody modpage.
+ 1. This issue should be fixed with versions 4.2.0+ of [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016), however if you still encounter this issue then you should check the [Troubleshooting Guide](https://www.nexusmods.com/skyrimspecialedition/articles/4868).

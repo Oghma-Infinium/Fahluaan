@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.4.2](#142) Release Date: 
 - [1.4.1](#141) Release Date: September 25, 2023
 - [1.4.0](#140) Release Date: September 23, 2023
 - [1.3.4](#134) Release Date: September 10, 2023
@@ -51,6 +52,132 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.4.2
+
+Key Info
+
+ - Save Safe, ignore missing plugins.
+ - Disabled Actor Fade setting because it was annoying and I hate it.
+ - Redid skin setup again (sorry, I'm indecisive).
+ - Cleaned up downloads again because I am a bad list dev.
+ - Changed format of Changelog, hopefully this is the final format.
+ - Slightly increased interior Brightness.
+
+<Details>
+<summary>Patch Notes</summary>
+ 
+### Balancing Changes
+
+ - Disabled [Scrambled Bugs'](https://www.nexusmods.com/skyrimspecialedition/mods/43532) Follower (`teammates`) and Commanded Actor (`commandedActors`) difficulty mulitplier patch (`difficultyMultipliers`) as it overly punished conjuration builds and made followers much weaker than intended.
+ - Removed Wildfire, Deep Freeze, and Power Surge from non-boss NPCs. This change was made to reduce the amount of times the player could be one-shot from 50%.
+ - Removed Curse Binging and Rank 2 of Chaos Binding from NPCs. This change was made to reduce the occassional one-shots that could be experienced against bound weapon wielding enemies, especially due to how inconsistent they could occur, while also aimed to bring the damage these enemies deal more in line with other enemy sub-types. 
+ - Dragon Rising and Bleak Falls Barrow now give perk points on completion, bringing total number of perk points to be acquired from quests to 25.
+ - Adjusted Vampire Hours from 7pm to 5am to 7pm to 6am.
+ - Reduced value of Brawler's Gauntlets. Next major update I am going to look into reworking their function.
+
+### Bug Fixes
+ 
+ - Added missing left hand nodes to some weapons that were missing them.
+ - Removed custom texture set from Hearthfire's Potato Bread and BS Bruma's Rice Bread.
+ - Fixed texture set not applying on Bruma Butter and Hearthfire Butter.
+ - Fixed missing textures on `markarthdwarftower02cwsnow.nif`.
+ - Fixed Mulush gro-Shugurz's facegen.
+ - Fixed Ma'randru-jo's facegen.
+ - Fixed Lob's facegen mesh.
+ - Fixed invalid FormID in Children of the Pariah.
+ - "Suprise me." dialogue option will no longer start every available bounty quest instead of a random one.
+ - Potential fix for CTD that sometimes occurred when starting every available bounty quest at once. 
+ - Fixed Katana's scene not triggering in the Frozen Hearth.
+ - Fixed an issue with River in the final fight in the Chasing the Current quest (Katana).
+ - Added missing temper recipes for Companion's Armor (set).
+ - Corrected armor rating on Companion's Armor (chest piece).
+ - Blacklisted beafarmer apiaries from Seasons. This should fix the messed up shader that they were experiencing.
+ - Added missing `dynamic1pxcubemap_black.dds` needed to make Dynamic Cubemaps function properly with newest ENB Binaries.
+ - Fixed filepath typo in `Praedy's College of Winterhold - Patches and Addons` for `WinterHoldWindowMetal_EM.dds` and `WinterHoldWindowMetal_N.dds`
+ - Removed a Nirnroot in the Whiterun tundra that was inside of a structure, causing it to be unobtainable.
+ - Fixed issue where Bound Bow's flame effect stopped animating for the remaining duration after you fired the bow once.
+ 
+### Consistency Fixes
+ 
+ - Recolored torch wood.
+ - Hid some textures that were overwriting KS Salt and Wind retexture, causing some hairs to have the incorrect texture.
+ - Reworked Flame, Shock, and Frost Cloak and Stendarr's Aura visuals to be less blinding in first person.
+ - Nordic Grates now have more consistent/realistic collision.
+ - Added `MagicDisallowEnchanting` keyword to Companion's Armor (set) for consistency with other guilde armors.
+ - Khajiit Ohmes race now uses Bosmer skeleton.
+ - Khajiit Dagi-Raht and Cathay races now use Khajiit skeleton.
+ - Included ini tweaks necessary to make Oblivion Interaction Icons remain with [Use or Take](https://www.nexusmods.com/skyrimspecialedition/mods/70868).
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - BnP - Female Skin
+ - Spell Perk Item Distributor (SPID)
+ - powerofthree's Tweaks
+ - Unofficial Skyrim Modder's Patch - USMP SE
+ - Unofficial Skyrim Modders Patch - USMP - Patch Emporium
+ - Ryn's Riverwood Patch Collection
+ - Vaermina's Torpor - My version SE
+ - Children of the Pariah - An Orc NPC Overhaul
+ - Bounty Quests Redone - NG
+ - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+ - Snowy Surfaces Sound Collision and Aesthetics
+ - Katana - Journey in the Shadows
+ - aljos Apothecary Patches
+ - Mythic Dawn Armour 3BA HDT-SMP
+ - JS Unique Utopia SE - Daggers 
+ - Improved Follower Dialogue - Lydia
+ - Narrative Gameplay Consistent Dialogue Tweaks
+ - Flames of Coldharbour
+ - Lunaris
+ - Natura
+ - Simple Snow Improvements - Skyrim
+ - Project ja-Kha'jay- Khajiit NPC Diversity Overhaul
+ - OSHA-Compliant Sovengarde Mesh Fixes
+ - Spaghetti's Faction Halls - Companions
+ - VIGILANT SE
+ - VIGILANT Voiced - English Addon
+ - Higher Poly Vanilla Dragons
+ - Whazzup I got a big hood - Mage hood mesh edit
+ - Camera Follows
+
+### Added
+ 
+ - Dynamic Activation Key
+ - Dismiss Friendly Conjured Creatures
+ - The Eyes of Beauty - Vampire Eyes AI Remastered - Standalone
+ - Stalhrim Armors and Weapons Retexture SE
+ - Stalhrim Refrozen
+ - Deathbrand Armor and Weapons Replacer Refrozen
+ - Less Visually Obtrusive Cloak Spell Effects
+ - FIXED Highpoly Nordic Metal Grate
+ - Spaghetti's Faction Halls - Bard's College
+ - Follower Distance Tweaks - Katana
+ - Follower Distance Tweaks - Xelzaz
+ - Imperial Tents - Animated
+ - Falmer Huts - Animated
+ - Vanargand Animations II - Sprint
+ - Less Windy Sovengarde
+ - Community Overlays 2
+
+### Removed
+
+ - Outlandish Stalhrim SSE
+ - Outlandish CC Stalhrim
+ - Outlandish Stalhrim SSE - Katana Crafting Patch
+ - Deathbrand Armor Meshes for Outlandish Stalhrim
+ - JS Helm of Yngol SE
+ - Essentials Knockdown
+ - Fixed Nordic Metal Grate
+ - Xyn's Reworked Elemental Cloak Spells
+ - Vanargand Animations - Sprint
+
+</Details>
 
 ## 1.4.1
 
