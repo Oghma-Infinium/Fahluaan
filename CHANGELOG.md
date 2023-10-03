@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.4.3](#143) Release Date: October 4, 2023
 - [1.4.2](#142) Release Date: October 2, 2023
 - [1.4.1](#141) Release Date: September 25, 2023
 - [1.4.0](#140) Release Date: September 23, 2023
@@ -52,6 +53,48 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.4.3
+
+Key Info
+
+ - Save Safe
+ - Hopefully fixed odd performance issue that began occurring as of [1.4.2](#142).
+ - Changed default list difficulty to Adept.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ 
+ - The enchanting perk Seeker now applies to scrolls for Regeneration and Attunement spells.
+ - Fixed an issue where friendly Flame Atronachs would explode on death under certain conditions.
+ - Fixed an issue with Rapid Regeneration having incorrect conditions for Repose.
+ - Fixed an issue with Mutagen having an incorrect magnitude for Repose.
+ - Fixed an issue with the Ironflesh scroll having an incorrect magnitude.
+ - Fixed an issue where Spell Strike was applying in places where it should not.
+ - Fixed an issue where Ironflesh had the wrong magnitude for one of its perk effects.
+ - Fixed an issue where Dragonhide was checking for Heavy Armor twice rather than checking for both Heavy and Light Armor.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Apothecary - An Alchemy Overhaul
+ - Arena - Harder Easy Spawns
+ - Journeyman - A Fast Travel Overhaul
+ - Adamant - A Perk Overhaul
+ - Hand to Hand - An Adamant Addon
+ - Oblivion Interaction Icons
+
+### Added
+
+ - Outlandish Stalhrim Armors and Weapons Recolor
+
+</Details>
 
 ## 1.4.2
 
