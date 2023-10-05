@@ -54,7 +54,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
  - Leveling up requires sleeping in a bed. This is done to incentivize "good behavior".
  - Perks can also be obtained through the following:
    - **Quests**: The following quests will grant 1 perk point on completion: (25 total).
-     - [Dragon Rising](https://en.uesp.net/wiki/Skyrim:Dragon_Rising) (Auto Completes when you slay your first Dragon)
+     - [Dragon Rising](https://en.uesp.net/wiki/Skyrim:Dragon_Rising) (The vanilla quest does not exist, you will be given credit for completion when you slay your first Dragon)
      - [Bleak Falls Barrow](https://en.uesp.net/wiki/Skyrim:Bleak_Falls_Barrow_(quest))
      - [Diplomatic Immunity](https://en.uesp.net/wiki/Skyrim:Diplomatic_Immunity)
      - [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller)
