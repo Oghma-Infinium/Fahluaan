@@ -115,8 +115,10 @@ The Oli'Dar set is based on Kadraeus' [Moon Monk's Robes](https://www.nexusmods.
 
 ### Master Necromancer
 
- - **Master Necromancer Hood**: Your Conjuration spells last 50% longer and you can reanimate one additional zombie, but your Health Regeneration is reduced by 100%.
- - **Master Necromancer Robes**: Your Conjuration spells cost 25% less and your Magicka is increased by 50.
+ - **Master Necromancer Hood**: Your Magicka is increased by 50.
+ - **Master Necromancer Robes**: Your Conjuration spells cost 25% less, but your Health Regeneration is reduced by 100%. 
+
+ - **Necromancer's Secret** (Set Bonus): You can reanimate one additional zombie.
 
 ## Weapons
 

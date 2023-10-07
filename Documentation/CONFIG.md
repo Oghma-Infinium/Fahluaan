@@ -40,17 +40,19 @@ For those with arachnophobia and/or entomophobia, the `Insects Begone` Separator
 This section will cover the following Optional Tweaks that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
  1. **Yet Another Music Merge - Content Creator Version**: Read more [here](#note-for-content-creators).
  2. **Content Creator Music Patches**: Read more [here](#note-for-content-creators).
- 3. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience.
- 4. **QuickLoot RE - Disable in Combat**: An edited `.toml` file for QuickLoot RE to disable the loot box from appearing while in combat.
- 5. **No ENB Lens Effect**: Disables ENB Lens effect (the frost and rain overlays).
- 6. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
- 7. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
- 8. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
- 9. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
- 10. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
- 11. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
- 12. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB.
- 13. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
+ 3. **QuickLoot RE - Disable in Combat**: An edited `.toml` file for QuickLoot RE to disable the loot box from appearing while in combat.
+ 4. **No ENB Lens Effect**: Disables ENB Lens effect (the frost and rain overlays).
+ 5. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
+ 6. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
+ 7. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
+ 8. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
+ 9. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
+ 10. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
+ 11. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB.
+ 12. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
+ 13. **Arena - Harder Easy Spawns**: Easy spawns are always any number between X and 1, where X is .75 of the level set by the Encounter Zone, Easy actors are often quite low level. This plugin makes it so once you hit level 10, the level range of Easy actor spawns are extended, so they will more often spawn at higher levels.
+ 14. **Blade and Blunt - Dynamic Difficulty**: Level Based Difficulty Scaling makes incremental changes to your game’s difficulty in the background when you reach levels 10, 20, 30, and 40, to simulate increasing the difficulty of your game by one tier (Adept to Expert; Expert to Master, etc) over the course of your game. You can read more on the [Blade and Blunt modpage](https://www.nexusmods.com/skyrimspecialedition/mods/34549).
+ 15. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience. Make sure to disable Dynamic Difficulty if you use this mod.
 
 ## Changing Keybinds
 

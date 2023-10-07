@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.4.4](#144) Release Date: October 6, 2023
 - [1.4.3](#143) Release Date: October 4, 2023
 - [1.4.2](#142) Release Date: October 2, 2023
 - [1.4.1](#141) Release Date: September 25, 2023
@@ -53,6 +54,70 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.4.4
+
+Key Info
+
+ - Save Safe, ignore the one missing plugin.
+ - Regenerated SynNPCFixes.
+ - Removed NPC hatred if the player practices necromancy. This change will not automatically take effect on existing save games.
+ - Moved some mods that adjust difficulty to the Optional Tweaks section so they are easier to toggle for players who want to.
+ - This is probably the last update before the next major update.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Reworked item values and enchant charges for every item in [Baited](https://www.nexusmods.com/skyrimspecialedition/mods/99023), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Madness and Order](https://www.nexusmods.com/skyrimspecialedition/mods/99144).
+ - Reworked Master Necromancer Robes and Hood effect and made the +1 zombie bonus a set bonus.
+
+### Bug Fixes
+ 
+ - (Hopefully) fixed texture mapping issues on Werewolves.
+ - Fixed Xander's Hair Texture, for real this time, I think.
+ - Fixed missing textures on male version of Lord's Mail. I'm not sure why it was missing textures in the previous version, but it's fixed now.
+ - Summon Durnehviir will now be auto-unlocked when he teaches you the words. This was an intended feature that was not working last update. This change will not apply to existing save games.
+
+### Consistency Tweaks
+
+ - NPCs no longer hate you if you are a necromancer. This is mostly done because necromancer is already a very annoying build to play and it felt like the NPC hate made it even more tedious of a build when it is not really meta. Use the console command `set Reactions_Guard to 2` to apply this change to an existing save game.
+ - Soreke (Chef in Fort Dawnguard) now has a more appropriate inventory stock.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - DynDOLOD 3 Alpha
+ - Baited - A Fishing Artifact Overhaul
+ - Artifacts of the Ancestors
+ - Scion Inventory Injector (I4) Icons
+ - Outlandish Stalhrim Armors and Weapons Recolor
+ - Starfrost - A Survival Overhaul
+ - Starfrost - Injury Integration Addon
+ - Mysticism - A Magic Overhaul
+ - OSHA-Compliant Sovengarde Mesh Fixes
+ - Seasonal Landscape Additions
+ - NPC Animation Remix (DAR)
+
+### Added
+
+ - Diverse Werewolves Collection Fluffworks compatibility patch
+ - Additional Dremora Faces
+ - Additional Dremora Faces - Mysticism Patch
+ - Dremora Lines Expansion
+ - NPCs React To Necromancy - No Consequences Patch
+ - Hagraven Houses - Animated
+
+### Removed 
+
+ - Madmen - Leveled List Difficulty Addon
+
+</Details>
 
 ## 1.4.3
 
