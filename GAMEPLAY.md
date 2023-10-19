@@ -255,6 +255,7 @@ This section will try to list the new content focused mods added to the list, an
 
 ### Vanilla Quest Expansions and Edits
 
+ - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704): College of Winterhold, Companions, Dawnguard, Main Quest (+Skyrim Unbound patch), and Thieves Guild modules.
  - [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300)
  - [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861)
  - [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916)

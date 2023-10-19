@@ -67,6 +67,9 @@ A: This is an issue with [CoMAP](https://www.nexusmods.com/skyrimspecialedition/
 ### Q: The map is too bright.
 A: This is a conflict between Flat World Map Frameworks and Seasons of Skyrim. I am working on a fix and reaching out to the relevant authors about it when I have time.
 
+### Q: Why are potions showing on my character?
+A: Because of [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001). If you would like to remove them from your character then press `Left Shift+Backspace` to open the IED menu and remove them from under Display Manager.
+
 ### Q: Sex?
 A: No.
 
