@@ -2,7 +2,7 @@
 
 ## Character Overview
 
-**Race**: Dunmer
+**Race**: Dunmer / Imperial
 	
 **Class**: Nightblade
  
