@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.5.1](#151) Release Date:
 - [1.5.0](#150) Release Date: October 19, 2023
 - [1.4.4](#144) Release Date: October 6, 2023
 - [1.4.3](#143) Release Date: October 4, 2023
@@ -55,6 +56,44 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.5.1
+
+Key Info
+
+ - Save Safe. Minor bug fixes.
+ - Added an optional plugin to have a chance to distribute cloaks to certain NPCs.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Brought Lord's Mail value, Armor Rating, and Weight in line with Ebony Mail.
+
+### Bug Fixes
+ 
+ - Fixed missing eyebrow textures for some NPCs.
+
+### Consistency Tweaks
+
+ - Fixed Lord's Mail description.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - [Snazzy Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/91604)
+ - [FYX - The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/73063)
+
+### Added
+
+ - [Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062)
+
+</Details>
 
 ## 1.5.0
 
