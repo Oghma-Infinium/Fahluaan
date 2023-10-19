@@ -291,3 +291,4 @@ This section will try to list the new content focused mods added to the list, an
 
 Due to Fahluaan being a very build-oriented list that rewards proper preparation and varying degrees of min-maxing, newer players may have a difficult time starting out or may feel overwhelmed and uncertain with how they want to build their characters. This section will contain varying community tips and build guides to be expanded over time.
  - The [Fahluaan Build Spreadsheet](https://tinyurl.com/fahluaanbuilds) can be a great place to start out for those looking for a general idea of a character to play.
+ - [Builds](https://github.com/Oghma-Infinium/Fahluaan/tree/main/Builds) section of the github has some more up-to-date builds that I have personally played and tweaked, they'll be a bit more involved than the spreadsheet, and I will likely flesh them out more and more over time.
