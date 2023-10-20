@@ -75,7 +75,7 @@ Key Info
 ### Bug Fixes
  
  - Fine Leather Backpack now properly shows up when equipped.
- - Katanas, Daggers, Maces, and Spears now have their own appropriate, separate animations. The reason this is under [Bug Fixes](#bug-fixes) is because them not having them was a wabbajack compilation issue.
+ - Katanas, Daggers, Maces, and Spears should now have their own appropriate, separate animations. The reason this is under [Bug Fixes](#bug-fixes) is because them not having them was a wabbajack compilation issue.
  - Battleaxe and warhammer animations no longer incorrectly play when the weapon is sheathed.
 
 ### Consistency Tweaks
