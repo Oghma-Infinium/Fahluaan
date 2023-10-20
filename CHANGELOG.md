@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.5.2](#152) Release Date: 
 - [1.5.1](#151) Release Date: October 19, 2023
 - [1.5.0](#150) Release Date: October 19, 2023
 - [1.4.4](#144) Release Date: October 6, 2023
@@ -56,6 +57,53 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.5.2
+
+Key Info
+
+ - Save Safe, missing esps should not cause an issue.
+ - Stands-in-Shallows, Shahvee, and Neetrenaza may have some minor weighting issues if continuing your save due to NPC replacer change, but this isn't a real problem. They didn't have changes in weight in this replacer so I highly doubt there will be an issue.
+ - Changed ReShade's keybind so it wasn't interfering with dMenu.
+ - Added more player customization because yay why not.
+ - Tweaked new slash FX and hit SFX.
+
+<Details>
+<summary>Patch Notes</summary>
+
+
+### Bug Fixes
+ 
+ - Fine Leather Backpack now properly shows up when equipped.
+ - Katanas, Daggers, Maces, and Spears now have their own appropriate, separate animations. The reason this is under [Bug Fixes](#bug-fixes) is because them not having them was a wabbajack compilation issue.
+ - Battleaxe and warhammer animations no longer incorrectly play when the weapon is sheathed.
+
+### Consistency Tweaks
+
+ - COINs should now be automatically exchanged instead of requiring merchants to exchange them. This was totally supposed to be a feature in [1.5.0](#150) that I forgot to actually implement because I'm stupid.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - [Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
+
+### Added
+
+ - [Riding Animation Overhaul - RAO](https://www.nexusmods.com/skyrimspecialedition/mods/102881)
+ - [ElSopa - Training Dummies Redone](https://www.nexusmods.com/skyrimspecialedition/mods/102948)
+ - [Children of the Hist Sampler - Argonian Dockworker Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/100393)
+ - [Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos](https://www.nexusmods.com/skyrimspecialedition/mods/35339)
+ - [Northborn Scars for High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/62799)
+
+### Removed
+
+ - [C.O.I.N. - Merchant Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/70644) (ok but for real this time)
+
+</Details>
 
 ## 1.5.1
 
