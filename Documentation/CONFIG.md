@@ -55,6 +55,26 @@ This section will cover the following Optional Tweaks that are included as a par
  15. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience. Make sure to disable Dynamic Difficulty if you use this mod.
  16. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable before making a new game.
 
+### Gamepad Support
+
+Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
+ 1. Under the **Gamepad Support** Separator in MO2, activate the `Fahluaan - Controller Support` mod.
+ 2. Once in game, open the Settings > Controls and Reset Controls to default with the `Y` button (or equivalent) on your controller.
+ 3. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
+   - [Keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png)
+   - [Gamepad](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png)
+ 4. The [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) will likely need some additional configuration to play nicely with controller. To do some open the dMenu using `Home` on your keyboard and change the keybind(s) in the **Mod Config** tab.
+
+If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
+
+Please note that I (aljo) do not own a controller. The gamepad config is provided as-is by other users and helpers and may not be perfect.
+
+### Ultrawide Patches
+
+Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+
+Please note that I (aljo) do not own a widescreen monitor. The ultrawide settings and additional mods are what have been said to work based on user input and may not be perfect.
+
 ## Changing Keybinds
 
 This section is going to be short and basic and only cover keybinds that must be changed OUT OF GAME, I trust that you will be able to figure out the other keybinds swaps in game. Please refer the [this](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes) page for the DXScanCodes used by most mods.
