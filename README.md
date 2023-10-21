@@ -256,8 +256,7 @@ If you wish to swap back to Keyboard and mouse afterwards, just activate the `Ba
  5. Once you are satisfied, leave the MCM and hit `Enter` to begin Character Creation.
  6. After Character Creation finishes, you will get a popup to select your Class the MCM Recorder will begin to run.
  7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room. You can read more about the MCMs [here](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md).
- 8. Chapter II and III will bring you to separate rooms that will allow you to choose a starting deity blessing, if you so desire.
- 9. To leave the starting room, read the book on the table in Chapter I.
+ 8. To leave the starting room, read the book on the pedastal behind chargen.
 
 ### Note For Content Creators
 
