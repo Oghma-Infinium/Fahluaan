@@ -6,7 +6,7 @@
 	
 **Class**: Nightblade
  
-**Standing Stone**: 
+**Standing Stone**: Shadow
 
 **Religion**: Vaermina / Sithis or Boethiah (depending on RP or how much you want to lean into certain aspects of the build)
 
@@ -50,7 +50,7 @@
 ### One-Handed
 
  - Skirmisher (2/2)
- - Fighter's Stance (2/2)
+ - Fighter's Stance
  - Quick Slash (2/2)
  - Precise Cuts (2/2)
 		
