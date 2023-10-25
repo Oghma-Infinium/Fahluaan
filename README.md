@@ -303,4 +303,4 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
 - [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), [Styyx](https://github.com/Styyx1), and the Simon Makes Mods Discord for many ideas and mod assistance.
 - [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
-- Mgde12, D1Z4STR, 半蔵 内倉, Kepler, Bonnie Wynne, Matty, EmptyHamster, Scott, and snowpeachcherry for support on [patreon](https://www.patreon.com/aljoxo).
+- Mgde12, D1Z4STR, 半蔵 内倉, Kepler, Bonnie Wynne, Matty, EmptyHamster, Scott, snowpeachcherry, and Charlie Kriech for support on [patreon](https://www.patreon.com/aljoxo).
