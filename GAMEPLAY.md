@@ -284,7 +284,6 @@ This section will try to list the new content focused mods added to the list, an
  - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622)
  - [Eris](https://www.nexusmods.com/skyrimspecialedition/mods/77993)
  - [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
- - [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473)
  - Serana Expanded - Dialogue Additions
 
 ## Tips and Help
