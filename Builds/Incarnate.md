@@ -2,17 +2,31 @@
 
 > "Molag Bal wanted my mind, Boethiah wanted my arms, and Nocturnal perhaps my curiosity. Azura wants all of that, and our love above all. Not our abject slavering, but our honest and genuine caring in all its forms. It is important to her that our emotions be engaged in her worship. And our love must also be directed inward. If we love her and hate ourselves, she feels our pain. I will, for all time, have no other mistress." — Sigillah Parate, [*Invocation of Azura*](https://en.uesp.net/wiki/Lore:Invocation_of_Azura)
 
-## Inspiration
+## Roleplay Inspiration
 
-This is the first of my daedra themed builds. I will write more later probably.
+In the ancient days, before the Empire, the Deep Elves and a great host of outlanders came to steal the land of the Dunmer. When the Dunmer followed Veloth to Morrowind, there was significant infighting, a complete lack of leadership. Between the Ashlander Tribals and the people of the Great Houses, there was no law, no leader in common. Amongst the chaos, one Dunmer warlord arose, Nerevar, the one with the ambition and resolve to rule all of the Dunmer. 
+
+The Nerevar was a cunning leader, a warleader of the House People, but one who honored the Ancient Spirits and Tribal law. When Nerevar pledged upon his Ring of the Ancestors, One-Clan-Under-Moon-and-Star, to honor the ways of the Spirits and the rights of the Land, the Ashlanders and Great Houses. When war broke out against the Deep Elves, Nerevar carved the path to victory, but soon after he vanished.
+
+In the Third Era, year 427, the Nerevar returned to Morrowind, a reincarnation at the whim of Azura's Nerevarine Prophecy. A prisoner born on a certain day to uncertain parents, one who would overcome numerous trials, reunite the province, and eventually cast down the false gods of the Tribunal. This was Azura's will.  
+
+**Sources**:   
+[Nerevar Moon and Star](https://www.imperial-library.info/content/nerevar-moon-and-star)  
+[Saint Nerevar](https://www.imperial-library.info/content/saint-nerevar)  
+[The Real Nerevar](https://www.imperial-library.info/content/real-nerevar)  
+[The Battle of Red Mountain](https://www.imperial-library.info/content/battle-red-mountain)  
+[Nerevarine Prophecy](https://en.uesp.net/wiki/Lore:Nerevarine_Prophecy)  
 
 ## Character Overview
 
-**Race**: Dunmer, it's the best race when it comes to lore and benefits. Other choices I would consider are Khajiit, for the lore, or Imperial or Altmer, for the resources.
+**Race**: Dunmer, it's the best race when it comes to lore and has competitive benefits. 
+ - Other choices I would consider:
+     - Khajiit, due to their lore connection to Azura.
+     - Imperial or Altmer, for the resources they offer which can make stat spread management easier.
 	
 **Class**: Spellsword (Mage is also a competitive choice but some enchants may need to be swapped due to cost reduction)
  
-**Standing Stone**: Mage Stone early game, swap to Lady
+**Standing Stone**: Mage Stone early game, swap to Lady once you can comfortably manage your Magicka
 
 **Religion**: Azura
 
@@ -105,7 +119,7 @@ This is the first of my daedra themed builds. I will write more later probably.
  
 ### Gloves
 
- - Fortify Magicka *(alternative: Fortify One-Handed)*
+ - Fortify Magicka *(alt: Fortify One-Handed)*
  - Fortify Magicka Regeneration
  
 ### Boots
@@ -117,13 +131,13 @@ This is the first of my daedra themed builds. I will write more later probably.
 
  - Fortify Destruction Power
  - Resist Magic 
- - *alternative: Fortify Restoration or Alteration Duration* can be swapped for either enchant
+ - *alt: Fortify Restoration or Alteration Duration (either slot)*
  
 ### Necklace
 
  - Fortify Destruction Power
  - Resist Magic 
- - *alternative: Fortify Restoration or Alteration Duration* can be swapped for either enchant
+ - *alt: Fortify Restoration or Alteration Duration (either slot)*
 
 ### Weapons
 
