@@ -75,6 +75,10 @@ A: No.
 
 ## Known Issues
 
+### Naked when in Vampire Lord form!
+Solution(s)
+ 1. Skyrim Outfit System overrides the Armor that is "worn" in Vampire Lord form, but since only the Non-playable armor worn in Vampire Lord form works with Vampire Lord race, the armor that Outfit System visually equips is invisible. Minor issue that is not fixable unless the author of the mod adds some type of smart toggle if you are detected in a VL/WW transformation.
+
 ### [Insert NPC] is naked despite having armor in their inventory!
 Solution(s)
  1. Currently there is no known solution to this as it is a non-reproducible issue with [SPID's](https://www.nexusmods.com/skyrimspecialedition/mods/36869) outfit distribution method from version 6.5 onwards. Unfortunately, the newer versions of SPID have added some much needed functions utilized by other mods, so while this issue is rare, it's entirely unavoidable.
