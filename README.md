@@ -257,7 +257,7 @@ If you wish to swap back to Keyboard and mouse afterwards, just activate the `Ba
  3. After about 30 seconds, press `esc` and open the Mod Configuration Menu.
  4. Navigate to the Skyrim Unbound Menu and customize your starting equipment.
  5. Once you are satisfied, leave the MCM and hit `Enter` to begin Character Creation.
- 6. After Character Creation finishes, you will get a popup to select your Class the MCM Recorder will begin to run.
+ 6. After Character Creation finishes, you will get a popup to select your Class and the MCM Recorder will begin to run.
  7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room. You can read more about the MCMs [here](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md).
  8. To leave the starting room, read the book on the pedastal behind chargen.
 
