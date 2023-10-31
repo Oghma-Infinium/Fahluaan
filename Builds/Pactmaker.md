@@ -157,4 +157,14 @@ WIP
  - **Drum (Bard Song)**: Your Health is increased by 25/50 for 10 (with Minstrel: 30) minutes. / You resist 10% of all incoming damage, and 50% of all incoming stagger.
  > Lute is also a good choice if you feel the build needs more Stamina.  
 
-## Miscellaneous
+## Min-Maxing Stuff
+
+ - Leverage Alcohol (Mead) as taking a hit to your Magicka isn't actually an issue once you have Zealot.
+ - If you want to spend less levels into Magicka prior to getting Zealot, then you can try to rely on
+ > Alcohol (Wine): 25/50 Magicka, -25/50 Stamina  
+ > Flute: 25/50 Magicka  
+ > Amulet of Julianos/Jyrik's Amulet Fragment: 25/50 Magicka   
+ > Julianos (or Azura once you have Cultist rank 1): 25/50 Magicka  
+ > Total: +100/+200 Magicka, -25/50 Stamina
+ - The reason the above advice wasn't included outside of this section is because you don't really need more attributes that what you are getting by level 50 with the standard stat split.
+ - Masque of Clavicus Vile is included for the fact I want these builds to utilize the artifact of the Daedric Prince. There are arguably better choices for helmets, but since this build has no need for Spell Cost Reduction buffs, the value of a Head slot falls in terms of opportunity cost. Since the build is a tanky spellsword, Reflect can be nice for some extra damage and Fortify Barter is useful for just general economy management.
