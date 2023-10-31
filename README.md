@@ -294,9 +294,9 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 
 - _YOU_ for reading this.
 - [Bingus](https://ko-fi.com/beangas) for [Ascensio](https://github.com/Oghma-Infinium/Ascensio), ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
-- Curly for the original iteration of Ascensio that provided me a baseline to work off of.
+- Curly for the original iteration of Ascensio that got me started with my first modlist.
 - [iAmMe27](https://ko-fi.com/iamme27) for general modding, documentation, and WJ assistance.
-- A Helping Hand, AnnieDOS, Chanka, Felivath, Izol, Maelstrom, Roxiie, and Vigo for their time and effort playtesting, providing feedback, and miscellaneous help.
+- Discord helpers for their time and effort playtesting, providing feedback, and support assistance.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) and [Cacophony](https://www.patreon.com/cacophony1979) for their wonderful community that inspired me to start modding more.
 - JustThatKing, jdsmith2816, and Total for their feedback and assistance when I started modding.
 - Bethesda Game Studios for Skyrim and the Creation Kit.

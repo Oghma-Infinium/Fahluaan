@@ -28,7 +28,7 @@ In the Third Era, year 427, the Nerevar returned to Morrowind, a reincarnation a
  
 **Standing Stone**: Mage Stone early game, swap to Lady once you can comfortably manage your Magicka
 
-**Religion**: Azura
+**Religion**: Azura (Your Magicka is increased by 25/50. / Your weapon enchantments are twice as strong, but cost five times as much.)
 
 **Transformation**: N/A
 
@@ -84,7 +84,7 @@ In the Third Era, year 427, the Nerevar returned to Morrowind, a reincarnation a
  - **Overrun:** Power attacks with one-handed weapons deal 50% extra damage to targets who are power attacking, drawing a bow, or casting a spell. 
  - **Execute:** Power Attacks with One-handed weapons deal 50% extra damage against target who fall below half Health.
  - **Quick Slash (2/2):** Swords and daggers have a 10/20% chance of dealing critical damage.
- - **Precise Cuts (2/2):**  Critical attacks with swords and daggers deal three/five times as much damage.
+ - **Precise Cuts (2/2):** Critical attacks with swords and daggers deal three/five times as much damage.
 
 ### Restoration
 
@@ -151,8 +151,8 @@ In the Third Era, year 427, the Nerevar returned to Morrowind, a reincarnation a
 
 ### Buff Spells
 
- - **Attunement (Augur of Aetherius):** Your Health is increased by 50/100 for 120 (when dual cast: 600) seconds.
- - **Oakflesh (Dragonhide):** Your Armor Rating is increased by 40/80/120/160/200 for 120 (when dual cast: 600) seconds.
- - **Regeneration (Arkay's Light):** Restores 2/3/4/5 Health per second for 120 (when dual cast: 600) seconds.
+ - **Attunement (Augur of Aetherius):** Your Health is increased by 50/100 for 120 (when dual cast: 1800) seconds.
+ - **Oakflesh (Dragonhide):** Your Armor Rating is increased by 40/80/120/160/200 for 120 (when dual cast: 1800) seconds.
+ - **Regeneration (Arkay's Light):** Restores 2/3/4/5 Health per second for 120 (when dual cast: 1800) seconds.
 
 ## Miscellaneous
