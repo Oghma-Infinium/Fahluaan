@@ -23,7 +23,7 @@ WIP
 **Stat Split**: 1/2/1 (Health/Magicka/Stamina) until level 20. After level 20 2/0/1. Prioritize getting Zealot as close to level 20 as possible.
 > Level 20 Stat Split (before buffs): 150 H : 200 M : 150 S  
 > Level 50 Stat Split (before buffs): 350 H : 200 M : 250 S  
-> Level 50 Stat Split (after buffs):  500 H : 200 M : 250 S  
+> Level 50 Stat Split (after buffs):  500 H : 200 M : 250 S  (+25 All attributes as Imperial)  
 
 ## Skills and Perks
 
