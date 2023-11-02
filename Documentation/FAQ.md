@@ -21,7 +21,10 @@
 A: It's not freezing, the list has a [mod](https://www.nexusmods.com/skyrimspecialedition/mods/60958) that pauses the game after cell transitions.
 
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
-A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example). I recommend looking into [Missile's](https://www.nexusmods.com/skyrimspecialedition/mods/67770) or [Mur4s4me's](https://www.nexusmods.com/skyrimspecialedition/mods/62360) IED Presets.
+A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
+
+### Q: Why are potions showing on my character?
+A: Because of [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001). If you would like to remove them from your character then press `Left Shift+Backspace` to open the IED menu and remove them from under Display Manager.
 
 ### Q: I can't level up, what do I do?  
 A: You need to sleep in a bed in order to level up. If you do not want to be forced to sleep in a bed, then you may change this option in the Survival Mode Control Panel MCM.
@@ -66,9 +69,6 @@ A: This is an issue with [CoMAP](https://www.nexusmods.com/skyrimspecialedition/
 
 ### Q: The map is too bright.
 A: This is a conflict between Flat World Map Frameworks and Seasons of Skyrim. I am working on a fix and reaching out to the relevant authors about it when I have time.
-
-### Q: Why are potions showing on my character?
-A: Because of [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001). If you would like to remove them from your character then press `Left Shift+Backspace` to open the IED menu and remove them from under Display Manager.
 
 ### Q: Sex?
 A: No.
