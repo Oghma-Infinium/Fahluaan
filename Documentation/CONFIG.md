@@ -50,10 +50,10 @@ This section will cover the following Optional Tweaks that are included as a par
  10. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
  11. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB.
  12. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
- 13. **Arena - Harder Easy Spawns**: Easy spawns are always any number between X and 1, where X is .75 of the level set by the Encounter Zone, Easy actors are often quite low level. This plugin makes it so once you hit level 10, the level range of Easy actor spawns are extended, so they will more often spawn at higher levels.
- 14. **Blade and Blunt - Dynamic Difficulty**: Level Based Difficulty Scaling makes incremental changes to your game’s difficulty in the background when you reach levels 10, 20, 30, and 40, to simulate increasing the difficulty of your game by one tier (Adept to Expert; Expert to Master, etc) over the course of your game. You can read more on the [Blade and Blunt modpage](https://www.nexusmods.com/skyrimspecialedition/mods/34549).
+ 13. **Arena - Harder Easy Spawns**: Easy spawns are always any number between X and 1, where X is 0.75 of the level set by the Encounter Zone, Easy actors are often quite low level. This mod makes it so once you hit level 10, the level range of Easy actor spawns are extended, so they will more often spawn at higher levels.
+ 14. **Blade and Blunt - Dynamic Difficulty**: Level Based Difficulty Scaling makes incremental changes to your game’s difficulty in the background when you reach levels 10, 20, 30, and 40, to simulate increasing the difficulty of your game by one tier (Adept to Expert; Expert to Master, etc) over the course of your game. You can read more about specific numbers on the [Blade and Blunt modpage](https://www.nexusmods.com/skyrimspecialedition/mods/34549). Note that Dynamic Difficulty **does not** affect Novice or Legendary difficulties.
  15. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience. Make sure to disable Dynamic Difficulty if you use this mod.
- 16. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable before making a new game.
+ 16. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable **BEFORE** making a new game.
 
 ### Gamepad Support
 
@@ -90,13 +90,15 @@ The preferable way to change your resolution is to find the `SSEDisplayTweaks.in
 
 Example for how the .ini line should look:
 Before: `#Resolution=1920x1080`  
-After: `Resolution=2560x1440`
+After: `Resolution=2560x1440`  
 
 ## Skyrim Upscaler
 
-While [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) is an unsupported addition, it is asked about often enough that I felt I should put this here. In order to make sure your Upscaler works, you must change some lines in the `SSEDisplayTweaks.ini`. 
+While [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) is an unsupported addition, it is asked about often enough that I felt I should put this here. In order to make sure your Upscaler works, you must change some lines in the `SSEDisplayTweaks.ini`.  
 
-In the `SSEDisplayTweaks.ini` make sure that `Fullscreen = false`, `Borderless = true`, and `BorderlessUpscale = false` under the `[Render]` section.
+In the `SSEDisplayTweaks.ini` make sure that `Fullscreen = false`, `Borderless = true`, and `BorderlessUpscale = false` under the `[Render]` section.  
+
+All other installation concerns for Skyrim Upscaler (DLSS) should be discussed in the modifications channel in the discord.  
 
 ## In-Game MCM options
 
