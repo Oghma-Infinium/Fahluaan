@@ -107,3 +107,7 @@ Solution(s)
 ### Ancient Hagraven and Drascula are invisible!
 Solution(s)
  1. I will fix this in an update, it's caused by a Madmen patch which did not appropriately forward the race record entry.
+
+### Awakening Quest does not start!
+Soultion(s)
+ 1. The quest will pop up in your journal when you free Serana from the tomb. Currently it does not start prior to this point because of something At Your Own Pace - Dawnguard does. 
