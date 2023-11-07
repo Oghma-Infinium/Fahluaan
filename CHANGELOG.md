@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.5.3](#XXX) Release Date: November 7, 2023
 - [1.5.2](#152) Release Date: October 20, 2023
 - [1.5.1](#151) Release Date: October 19, 2023
 - [1.5.0](#150) Release Date: October 19, 2023
@@ -57,6 +58,54 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.5.3
+
+Key Info
+
+ - Save Safe, missing plugins won't cause an issue.
+ - Maintenance update, check changelog for details.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Bonelord Armor (Enchanted CC Dragonscale) is no longer disenchantable. 
+ - Woodsman's gear (Enchanted CC Elven Hunter) is no longer disenchantable.
+ - Miraak's Dragon Aspect shout now uses the same effects (and magnitudes) as the Player version, so he will no longer have 100% Magic Resist when his Dragon Aspect and Flesh Spell are active at the same time.
+
+### Bug Fixes
+ 
+ - Fixed neck gaps female actors had when wearing Hide, Fur, or Studded armor.
+ - Fixed Luna Moths missing textures.
+ - Necromancer Robes and Hoods from Necromantic Grimoire (CC) are no longer disenchantable.
+ - Added `HideInUI` flag to RunePerkFix magic effect.
+ - Fixed double tooltip on Silent Moons enchantment.
+ - Vigilance no longer ignores you, however he also no longer sounds like a husky.
+ - Masque of Clavicus Vile can no longer be worn with Dragon Priest masks.
+ - Ancient Hagraven and Drascula are no longer invisible.
+ - Fixed Vals Veran having 0 Staffs of Hasedoki in his inventory, causing it to be unlootable.
+ - Compass Icons should now correctly show up.
+ - Removed Miraak's duplicate robes.
+
+### Consistency Tweaks
+
+ - Changed sound on Afflicted Vile Vapors so it no longer sounds like a dragon shout.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Removed
+
+ - ReShade
+ - [SSE ReShade Helper](https://www.nexusmods.com/skyrimspecialedition/mods/78961)
+ - [ReShade Toggler](https://www.nexusmods.com/skyrimspecialedition/mods/98879)
+ - [Rudy HQ - Luna Moth ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/37302)
+
+</Details>
 
 ## 1.5.2
 
