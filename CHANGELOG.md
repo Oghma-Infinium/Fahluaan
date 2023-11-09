@@ -16,7 +16,7 @@
 ---
 
 # Changelog
-- [1.5.3](#XXX) Release Date: November 7, 2023
+- [1.5.3](#153) Release Date: November 7, 2023
 - [1.5.2](#152) Release Date: October 20, 2023
 - [1.5.1](#151) Release Date: October 19, 2023
 - [1.5.0](#150) Release Date: October 19, 2023
