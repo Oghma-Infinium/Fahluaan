@@ -111,3 +111,7 @@ Solution(s)
 ### Awakening Quest does not start!
 Soultion(s)
  1. The quest will pop up in your journal when you free Serana from the tomb. Currently it does not start prior to this point because of something At Your Own Pace - Dawnguard does. 
+
+### Having issues controlling NPCs in Sirenroot!
+Solution(s)
+ 1. The issue is caused by a bad script interaction between Immersive Camera and Sirenroot. You can disable Immersive Camera (and its script patches) in the left hand pane of MO2 for the duration of Sirenroot.
