@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [1.5.4](#154) Release Date: November 16, 2023
 - [1.5.3](#153) Release Date: November 7, 2023
 - [1.5.2](#152) Release Date: October 20, 2023
 - [1.5.1](#151) Release Date: October 19, 2023
@@ -58,6 +59,44 @@
 - [0.2.0](#020)
 - [0.1.0-RC2](#010-rc2)
 - [0.1.0-RC1](#010-rc1)
+
+## 1.5.4
+
+Key Info
+
+ - Save Safe, maintenance patch
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ 
+ - Fixed stuttering when using Conjure Ancestral Guardian and Ancestral Wizard spells.
+ - Added missing mesh for Torygg's War Horn.
+ - Fixed incorrect shader flags on ApoUrn01 and 02 nifs.
+ - Fixed crash that sometimes occurred with the Staff of Magnus in inventory.
+ - Fixed Tribunal Masks being invisible.
+ - Fixed incorrect flag check on Creation Club Backpacks in IED settings.
+ - Fixed errant marker in Distinct Interior's Bannered Mare.
+ - Added missing temper recipe for one variant of Miraak's Mask.
+ - Changed Adamant's Chemist perk from Set Value to Add Value so it would work with the Ring of Pure Mixtures.
+
+### Consistency Tweaks
+
+ - Added Autumn seasonal variants for nightshade.
+ - Improved seasonal swaps for reach tree and reach cliff trees.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Removed
+
+ - [Skyrim 3D Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/23552)
+ - [Cathedral - 3D Nightshade](https://www.nexusmods.com/skyrimspecialedition/mods/81284)
+
+</Details>
 
 ## 1.5.3
 
