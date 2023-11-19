@@ -100,14 +100,6 @@ Solution(s)
 Solution(s)
  1. This issue should be fixed with versions 4.2.0+ of [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016), however if you still encounter this issue then you should check the [Troubleshooting Guide](https://www.nexusmods.com/skyrimspecialedition/articles/4868).
 
-### Neck seams on Female Hide, Studded, and Scaled Armors.
-Solution(s)
- 1. I will have to fix this in an update, it's caused by bad bodyslide conversions for those armors.
-
-### Ancient Hagraven and Drascula are invisible!
-Solution(s)
- 1. I will fix this in an update, it's caused by a Madmen patch which did not appropriately forward the race record entry.
-
 ### Awakening Quest does not start!
 Soultion(s)
  1. The quest will pop up in your journal when you free Serana from the tomb. Currently it does not start prior to this point because of something At Your Own Pace - Dawnguard does. 
