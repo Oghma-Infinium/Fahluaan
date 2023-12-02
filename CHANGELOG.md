@@ -313,6 +313,11 @@ Key Info
 
 </Details>
 
+## Pre-2.0
+
+<Details>
+<summary>Old Versions</summary>
+
 ## 1.5.4
 
 Key Info
@@ -4394,4 +4399,6 @@ This update may be save safe, but if you are continuing a save you might encount
     - Reason: this was a massive mod for no reason.
  - Screenshot Helper
     - Reason: Not updated for 1.6.640 and unnecessary. Screenshots can now be found in Overwrite in the `Root\screenshots` folder.
+</Details>
+
 </Details>
