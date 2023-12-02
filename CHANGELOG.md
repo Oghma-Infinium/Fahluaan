@@ -17,49 +17,7 @@
 
 # Changelog
 - [2.0.0](#200) Release Date: Unreleased
-- [1.5.4](#154) Release Date: November 16, 2023
-- [1.5.3](#153) Release Date: November 7, 2023
-- [1.5.2](#152) Release Date: October 20, 2023
-- [1.5.1](#151) Release Date: October 19, 2023
-- [1.5.0](#150) Release Date: October 19, 2023
-- [1.4.4](#144) Release Date: October 6, 2023
-- [1.4.3](#143) Release Date: October 4, 2023
-- [1.4.2](#142) Release Date: October 2, 2023
-- [1.4.1](#141) Release Date: September 25, 2023
-- [1.4.0](#140) Release Date: September 23, 2023
-- [1.3.4](#134) Release Date: September 10, 2023
-- [1.3.3](#133) Release Date: September 8, 2023
-- [1.3.2](#132) Release Date: September 6, 2023
-- [1.3.1](#131) Release Date: Septemeber 4, 2023
-- [1.3.0](#130) Release Date: September 2, 2023
-- [1.2.4](#124) Release Date: August 7, 2023
-- [1.2.3](#123) Release Date: August 7, 2023
-- [1.2.2](#122) Release Date: August 7, 2023
-- [1.2.1](#121) Release Date: August 6, 2023
-- [1.2.0](#120) Release Date: August 6, 2023
-- [1.1.0](#110) Release Date: August 5, 2023
-- [1.0.1](#101) Release Date: August 4, 2023
-- [1.0.0](#095) Release Date: August 4, 2023
-- [0.9.4](#094) Release Date: July 28, 2023
-- [0.9.3](#093) Release Date: July 27, 2023
-- [0.9.2](#092) Release Date: July 25, 2023
-- [0.9.1](#091) Release Date: July 25, 2023
-- [0.9.0](#090) Release Date: July 23, 2023
-- [0.3.8](#038)
-- [0.3.7](#037)
-- [0.3.6](#036)
-- [0.3.5](#035)
-- [0.3.4](#034)
-- [0.3.3](#033)
-- [0.3.2](#032)
-- [0.3.1](#031)
-- [0.3.0](#030)
-- [0.2.3](#023)
-- [0.2.2](#022)
-- [0.2.1](#021)
-- [0.2.0](#020)
-- [0.1.0-RC2](#010-rc2)
-- [0.1.0-RC1](#010-rc1)
+- [Pre-2.0](#pre-20)
 
 ## 2.0.0
 
@@ -317,6 +275,36 @@ Key Info
 
 <Details>
 <summary>Old Versions</summary>
+
+# Changelog
+- [1.5.4](#154) Release Date: November 16, 2023
+- [1.5.3](#153) Release Date: November 7, 2023
+- [1.5.2](#152) Release Date: October 20, 2023
+- [1.5.1](#151) Release Date: October 19, 2023
+- [1.5.0](#150) Release Date: October 19, 2023
+- [1.4.4](#144) Release Date: October 6, 2023
+- [1.4.3](#143) Release Date: October 4, 2023
+- [1.4.2](#142) Release Date: October 2, 2023
+- [1.4.1](#141) Release Date: September 25, 2023
+- [1.4.0](#140) Release Date: September 23, 2023
+- [1.3.4](#134) Release Date: September 10, 2023
+- [1.3.3](#133) Release Date: September 8, 2023
+- [1.3.2](#132) Release Date: September 6, 2023
+- [1.3.1](#131) Release Date: Septemeber 4, 2023
+- [1.3.0](#130) Release Date: September 2, 2023
+- [1.2.4](#124) Release Date: August 7, 2023
+- [1.2.3](#123) Release Date: August 7, 2023
+- [1.2.2](#122) Release Date: August 7, 2023
+- [1.2.1](#121) Release Date: August 6, 2023
+- [1.2.0](#120) Release Date: August 6, 2023
+- [1.1.0](#110) Release Date: August 5, 2023
+- [1.0.1](#101) Release Date: August 4, 2023
+- [1.0.0](#095) Release Date: August 4, 2023
+- [0.9.4](#094) Release Date: July 28, 2023
+- [0.9.3](#093) Release Date: July 27, 2023
+- [0.9.2](#092) Release Date: July 25, 2023
+- [0.9.1](#091) Release Date: July 25, 2023
+- [0.9.0](#090) Release Date: July 23, 2023
 
 ## 1.5.4
 
