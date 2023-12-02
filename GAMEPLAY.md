@@ -133,6 +133,8 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
  - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Jyggalag**: Has been added by [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/99144).
  - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
+ - **Saint Jiub**: New Pilgrim deity added by [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019).
+   > Your Stamina is increased by 25/50. / Your Carry Weight is increased by 100.
  - **Sheogorath**: New cultist ability: Incoming magic damage is reduced by 25%, however your Armor Rating is reduced by 200.
  - **The Watcher**: A new deity added by [The Midden - Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/2219), I thought the lore was cool so I made him a useful deity governed by the Cultist branch of Religion.
    > You have a 5/10% chance to absorb the Magicka from incoming spells. / Your staff enchantments are twice as strong, but cost three times as much.
@@ -252,6 +254,7 @@ This section will try to list the new content focused mods added to the list, an
  - [Dragon Hunting - Quest Rewards and Alchemy Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/99193)
  - [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625)
  - [Belethor's Sister - Quest](https://www.nexusmods.com/skyrimspecialedition/mods/92381)
+ - [Depths of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/77718): Spells have been removed and rewards have been overhauled.
 
 ### Vanilla Quest Expansions and Edits
 

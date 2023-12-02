@@ -91,17 +91,6 @@ The Raven set is based on Fuse00's [Raven Armor](https://www.nexusmods.com/skyri
 
  - **Raven's Shadow** (Set Bonus): You deal 25% more damage with sneak attacks and spells.
 
-### Clockwork
-
-The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81043) and is designed for heavy armored archers. It can be obtained in the dungeon [Mzulft](https://en.uesp.net/wiki/Skyrim:Mzulft)
-
- - **Clockwork Helmet**: You deal 25% extra damage with ranged weapons.
- - **Clockwork Cuirass**: Your Stamina is increased by 50 and your Shouts last 50% longer.
- - **Clockwork Gauntlets**: Your Shock Resistance is increased by 50%.
- - **Clockwork Boots**: Your Carry Weight is increased by 50.
-
- - **Clockwork Creation** (Set Bonus): Your Movement Speed is increased by 10%.
-
 ### Oli'Dar
 
 The Oli'Dar set is based on Kadraeus' [Moon Monk's Robes](https://www.nexusmods.com/skyrimspecialedition/mods/82495) and is designed for Monks. It can be obtained by killing certain named Khajiits (none are friendly, all are vanilla NPCs).
@@ -119,6 +108,15 @@ The Oli'Dar set is based on Kadraeus' [Moon Monk's Robes](https://www.nexusmods.
  - **Master Necromancer Robes**: Your Conjuration spells cost 25% less, but your Health Regeneration is reduced by 100%. 
 
  - **Necromancer's Secret** (Set Bonus): You can reanimate one additional zombie.
+
+### Clockwork
+
+The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81043) and is an easily acquirable early game heavy armor set. It can be obtained in the dungeon [Mzulft](https://en.uesp.net/wiki/Skyrim:Mzulft)
+
+ - **Clockwork Helmet**: Your Health Regeneration is increased by 50%.
+ - **Clockwork Cuirass**: Your Health is increased by 50.
+ - **Clockwork Gauntlets**: Your Poison Resistance is increased by 50%.
+ - **Clockwork Boots**: Your Carry Weight is increased by 50.
 
 ## Weapons
 
