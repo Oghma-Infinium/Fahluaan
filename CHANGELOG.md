@@ -271,12 +271,12 @@ Key Info
 
 </Details>
 
-## Pre-2.0
+# Pre-2.0
 
 <Details>
 <summary>Old Versions</summary>
 
-# Changelog
+## Changelog
 - [1.5.4](#154) Release Date: November 16, 2023
 - [1.5.3](#153) Release Date: November 7, 2023
 - [1.5.2](#152) Release Date: October 20, 2023
