@@ -19,7 +19,9 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
 
-***Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.***
+**Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
+
+**You must update Skyrim to the latest version (1.6.1130) on Steam to install this list.**
 
 # Contents
 - [Installation](#installation)
