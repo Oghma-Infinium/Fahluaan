@@ -155,7 +155,14 @@ The English Steam version of Skyrim is the only supported version. I understand 
  5. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
  6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
  7. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
- 8.  Proceed with the rest of the installation.
+ 8. Proceed with the rest of the installation.
+
+After you complete the above steps, please make sure you follow the steps below to avoid any issues with the Curios CC files:
+1. Navigate to your Steam's installation folder of Skyrim Special Edition
+2. Within your data folder, delete the `ccbgssse037-curios.bsa` and `ccbgssse037-curios.esl` files
+3. Verify your Steam files for Skyrim (type `!verify` in chat if you need help with this step) 
+    > **DO NOT** launch Skyrim after you complete this step
+4. Rerun the Wabbajack installer
 
 
 ### Wabbajack Installation
