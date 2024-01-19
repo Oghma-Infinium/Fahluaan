@@ -77,7 +77,7 @@ Please note that I (aljo) do not own a widescreen monitor. The ultrawide setting
 
 ## Changing Keybinds
 
-This section is going to be short and basic and only cover keybinds that must be changed OUT OF GAME, I trust that you will be able to figure out the other keybinds swaps in game. Please refer the [this](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes) page for the DXScanCodes used by most mods.
+This section is going to be short and basic and only cover keybinds that must be changed OUT OF GAME, I trust that you will be able to figure out the other keybinds swaps in game. Please refer the [this](https://ck.uesp.net/wiki/Input_Script) page for the DXScanCodes used by most mods.
 
 1. **Dual Wield Blocking**: Open the mod `Dual Wield Parrying - Settings` and locate the `DualWieldParryingSKSE.ini` file.
 2. **Dodging**: Open the mod `TK Dodge - Settings` and locate the `TK Dodge RE.ini` file.
