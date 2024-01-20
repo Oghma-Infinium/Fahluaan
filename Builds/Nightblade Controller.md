@@ -8,7 +8,7 @@
  
 **Standing Stone**: Shadow
 
-**Religion**: Vaermina / Sithis or Boethiah (depending on RP or how much you want to lean into certain aspects of the build)
+**Religion**: Vaermina / Sithis (depending on RP or how much you want to lean into certain aspects of the build)
 
 **Transformation**: Vampire
 
