@@ -264,7 +264,7 @@ If you wish to swap back to Keyboard and mouse afterwards, just activate the `Ba
 
 ### Note For Content Creators
 
-[Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) includes some songs from Nir Shor which are not allowed to be played on Twitch or YouTube due to DMCA rules. The list includes a version of YAMM that does not have the copyrighted music and fixed patches that can be used for those who make content. While I can not promise this will completely avoid any and all DMCA claims, it should remove the key offenders.
+[Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) includes some songs from Nir Shor which are not allowed to be played on Twitch or YouTube due to DMCA rules. The list includes a version of YAMM under the Optional Tweaks section (read more on the [CONFIG](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md) doc) that does not have the copyrighted music and fixed patches that can be used for those who make content. While I can not promise this will completely avoid any and all DMCA claims, it should remove the key offenders.
 
 ## Updating the modlist
 
