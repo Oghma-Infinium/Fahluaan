@@ -17,266 +17,8 @@
 
 # Changelog
 - [2.0.0](#200) Release Date: Unreleased
-- [Pre-2.0](#pre-20)
-
-## 2.0.0
-
-Key Info
-
- - Not Save-Safe. Do Not Even Try.
- - Northern Roads update.
- - Changes to leveling speed.
- - Lots of rebalancing.
- - idk read my patch notes.
-
-<Details>
-<summary>Patch Notes</summary>
-
-### Balancing Changes
-
- - Vampiric Ring now negates all sunlight debuffs when worn instead of only the halted regeneration.
- - Rebalanced several Creation Club Artifacts.
- - Reduced weight of Dragon Bones and Dragon Scales.
- - Slightly increased the chance of learning a word of power by slaying dragons.
- - Dead Thalmor soldiers at Kaidan's Camp no longer drop free elven gear.
- - Undocumented rebalancing of Vigilant items. Vigilant items are now about 80% done in terms of thorough rebalancing.
- - Redesigned Sirenroot's rewards.
- - Greatly increased the drop chance of Dragon-related alchemy ingredients, including Heart Scales.
- - Reduced the number of quests it takes to progress the Companion's storyline.
- - Updated the classifications and effects of Remiel's potions and poisons.
- - The St. Jiub shrine in Solstheim now gives a Pilgrim related buff instead of being useless.
- - Nerfed the gear that can be obtained from the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest if you side with [Saadia](https://en.uesp.net/wiki/Skyrim:Saadia) (or otherwise kill [Kematu](https://en.uesp.net/wiki/Skyrim:Kematu)). 
- - Reduced the cost of freeing the Alik'r prisoner in the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest.
- - Rebalanced Divine Crusader Weapons.
- - Rebalanced enchantments on enchanted Dragonbone Mail gear.
- - Changed [Clockwork](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/ITEMS.md#clockwork) item set to be a more generalist early game Heavy Armor set.
- - Ring of Hircine's transform ability is now a Lesser power.
- - Ring of Hircine now gives 100 Stamina instead of 50 Stamina and 25% Unarmed Damage.
- - Removed the 50% chance for Sinderion’s Legacy to proc.
- - Expanded Fortify Spell Cost so that it can be placed on head pieces and chest pieces.
- - Expanded Spell Absorb so that it can be placed on rings and necklaces.
- - Removed the flat 30 Magic damage from the Mace of Molag Bal. Increased its DoT damage from 3 Magic damage per second for 10 seconds to 6 instead.
- - Added a sanity check to the injury system that prevents the mod from running an injury check more than once a second per attacking enemy. This will address an issue where mages with concentration spells (Flames, Frostbite, etc) were practically guaranteed to injure the player due to their spells “hitting” many times a second.
- - Injuries are now %-based regardless of if Survival is enabled or disabled.
- - Injuries are now disabled if you choose to toggle off Survival Mode.
-
-### Bug Fixes
- 
- - (Katana) Corrected "Confront River" not getting marked as completed.
- - Gladiator helmet no longer tunrs your head invisible as an Argonian, Khajiit, or Orc.
- - Acrobat class now gives the intended 50 Carry Weight instead of 100.
- - Fixed a bug that involves Katana coming to you if she is not recruited + you are at Katla's Farm + mount a horse.
- - Fixed `HangingRabbit01.nif` and `HangingRabbit02.nif`.
- - Completion of Daedric quests no longer rewards perk points.
- - Gift of Charity no longer gives 10% experience, instead giving the intended 5% experience.
- - Major Gift of Charity (added by BUVARP) now gives +5% experience but for 5x the duration of the normal buff.
- - Raw Beef no longer incorrectly has the `MAG_FoodCorrectorEffect`. 
- - Cooked Beef now correctly has the `MAG_FoodCorrectorEffect`. 
- - Animal Senses (Werewolf Night Eye) now has a tooltip.
- - Fixed Thieves Guild Nocturnal shrine.
- - Fixed Ritual Master's outfit.
- - Savior's Hide enchantment now correctly gives 100% Stamina Regeneration instead of 25%.
- - Black Book message boxes no longer contain errant <>.
- - Saarthal Amulet will no longer erroneously add Firebite to players when equipped to a follower.
- - Disenchanting the Notched Pickaxe now teaches the correct enchantment.
- - Necromancer Amulet's additional reanimated minion effect conditions fixed.
- - Krosis/Morokei/Nahkriin cloak spells should be working properly.
- - Bow of the Stag Prince's ramping damage fixed.
- - Fixed wrong draw condition in "Back hip" folders for Two-Handed weapons.
- - Fixed an issue with Diadem of the Savant and Fortify Spell Cost not applying.
- - Fixed an issue where the Mace of Molag Bal would not Soul Trap enemies if you killed them with your first hit.
- - Fixed an issue where the Necromancer’s Amulet was looking for the wrong keyword.
- - Fixed an issue where an incorrect condition was preventing Harkon’s Sword from working.
- - Fixed an issue with the Aetherial Crown.
- - Fixed an issue where the second rank of Seeker did not have the same conditions as the first rank.
- - Fixed an issue where the Flute's Speed Buff would not apply.
- - Fixed an issue where the duration increases from the various Bard's College quests were not being applied.
- - Fixed an issue where the Bard perks could not be removed by respeccing.
- - Fixed an issue where some vendors sold too many instruments.
- - Fixed a bug where you could occasionally get infected when you shouldn’t have.
- - Fixed a bug that prevented players from benefiting from Block skill scaling.
- - Fixed a bug with armor calculations above the soft cap.
- - Fixed shader crash in UNSLAAD.
-
-### Consistency Tweaks
-
- - Reforged Crusader gear renamed to Knight of the Nine gear.
- - Added an Unfrozen swap for sparse snow variant of firewood.
- - Reduced Grass density during SPR and SUM in certain regions in hopes of improving performance during those seasons.
- - Reviewed every load screen and adjusted potentially misleading information.
- - Attempted to standardize book naming conventions, not perfect but should be an improvement over the current book titlings.
- - Daedric Mail now has Daedric material keywords instead of Dragonscale.
- - Forwarded Artificer's dialogue edits regarding the White Phial reward to make the Phial choice clearer.
- - White Phial tooltip should now correctly reflect duration boosts from perks, enchants, etc.
- - "Quiver left-hip bolt" is now also considered as a "fast-beltened" quiver for the animation.
- - Prevented you from playing instruments while swimming or holding a torch.
- - Merged Beard Mask Fix into main Open Helmet patches to reduce the number of redundant patches.
- - Fixed an inconsistency in one of the combat styles for human melee enemies.
- - Clarified tooltips for Apostle and Zealot perks.
- - Solstheim springs are a bit more ash-y.
-
-</Details>
-
-<Details>
-<summary>Changes</summary>
-
-### Updated
-
- - [Stormcrown - A Shout Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
- - [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138)
- - [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)
- - [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619)
- - [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876)
- - [Gourmet - Fishing Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=445665&nmm=1&game_id=1704)
- - [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
- - [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
- - [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
- - [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)
- - [Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
- - [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
- - [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
- - [Snazzy Interiors - Vittoria Vici's House](https://www.nexusmods.com/skyrimspecialedition/mods/100475)
- - [Snazzy Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/91604)
- - [ReShade Toggler](https://www.nexusmods.com/skyrimspecialedition/mods/98879)
- - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
- - [Illustrious Whiterun SE](https://www.nexusmods.com/skyrimspecialedition/mods/28950)
- - [Katana - Journey in the Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/69622)
- - [Natural Waterfalls](https://www.nexusmods.com/skyrimspecialedition/mods/87261)
- - [ElSopa - Potions Redone - My patches SE](https://www.nexusmods.com/skyrimspecialedition/mods/87599)
- - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
- - [Oblivion Interaction Icons](https://www.nexusmods.com/skyrimspecialedition/mods/52743)
- - [Animated Ice Floes](https://www.nexusmods.com/skyrimspecialedition/mods/90634)
- - [Leaps of Faith](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
- - [Sowables of Skyrim - Scrumptious Cabbages](https://www.nexusmods.com/skyrimspecialedition/mods/80723)
- - [BnP - Child Skin](https://www.nexusmods.com/skyrimspecialedition/mods/78536)
- - [Gore - A Companion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
- - [Gore x Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
- - [Xelzaz - Custom Fully Voiced Argonian Telvanni Follower](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
- - [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
- - [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
- - [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
- - [(ISC SRDified) Immersive Sounds Compendium - Sound Record Distributor...ded](https://www.nexusmods.com/skyrimspecialedition/mods/78446)
- - [JS Unique Utopia SE - Rings](https://www.nexusmods.com/skyrimspecialedition/mods/102226)
- - [Hagraven Houses - Animated](https://www.nexusmods.com/skyrimspecialedition/mods/101952)
- - [Sowables of Skyrim - Potatoes](https://www.nexusmods.com/skyrimspecialedition/mods/80377)
- - [Immersive Death Cycle](https://www.nexusmods.com/skyrimspecialedition/mods/97048)
- - [Rock Traps Trigger Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/81587)
- - [Northern Scenery - Ysgramor's Tomb](https://www.nexusmods.com/skyrimspecialedition/mods/97584)
- - [Northern Scenery - IronBind Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/95788)
- - [Madmen - A Forsworn Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/98579)
- - [BnP - Eye Pack](https://www.nexusmods.com/skyrimspecialedition/mods/76567)
- - [Aptitude - A Minimalistic Class Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96034)
- - [Simple Snow Improvements - Skyrim Fixes (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/78702)
- - [Simple Snow Improvements - Giant Obelisk Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/75251)
- - [Seasonal Landscapes - Unfrozen - More Patches](https://www.nexusmods.com/skyrimspecialedition/mods/91359)
- - [Fishing Reduced Cut - No Artifacts from Fishing](https://www.nexusmods.com/skyrimspecialedition/mods/96101)
- - [Comprehensive Attack Rate Patch - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/89042)
- - [Juniper's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/86361)
- - [Backpack Repositioner - Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/100113)
- - [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/55417)
- - [Stairs of Safety - Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/92592)
- - [ConsolePlusPlus](https://www.nexusmods.com/skyrimspecialedition/mods/79975)
- - [Tel Mithryn Overhaul - High Poly and Improved Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/100397)
- - [aljos Apothecary Patches](https://www.nexusmods.com/skyrimspecialedition/mods/79641)
- - [Ryn's Riverwood Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/89511)
- - [Riding Animation Overhaul - RAO](https://www.nexusmods.com/skyrimspecialedition/mods/102881)
- - [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389)
- - [Relics of the Crusader Improved](https://www.nexusmods.com/skyrimspecialedition/mods/93178)
- - [Gift of the Underking](https://www.nexusmods.com/skyrimspecialedition/mods/96444)
- - [Madness and Order](https://www.nexusmods.com/skyrimspecialedition/mods/99144)
- - [Environs - Abandoned Abodes](https://www.nexusmods.com/skyrimspecialedition/mods/82410)
- - [Environs - Kolskeggr](https://www.nexusmods.com/skyrimspecialedition/mods/78477)
- - [Environs - Hroggar's House - Patch Collection](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=444923&nmm=1&game_id=1704)
- - [Bow of Shadows - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/81188)
- - [Dynamic Impact - Slash Effects X](https://www.nexusmods.com/skyrimspecialedition/mods/86071)
- - [At Your Own Pace - Dawnguard](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=446174&nmm=1&game_id=1704)
- - [At Your Own Pace - Companions](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=446173&nmm=1&game_id=1704)
- - [Pilgrim - Custom Skills Framework Addon](https://www.nexusmods.com/skyrimspecialedition/mods/93913)
- - [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904)
- - [NPC Animation Remix (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
-
-### Added
-
- - [Northern Roads](https://www.nexusmods.com/skyrimspecialedition/mods/77530)
- - [Nordic Northern Roads - Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/79468)
- - [ElSopa - Northern Roads Resculpted](https://www.nexusmods.com/skyrimspecialedition/mods/83792)
- - [Northern Roads Resculpted Reach Bridge Fix](https://www.nexusmods.com/skyrimspecialedition/mods/101694)
- - [Northern Roads - Seasonal Landscapes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82965)
- - [Northern Roads - Higher Poly Stockade](https://www.nexusmods.com/skyrimspecialedition/mods/83052)
- - [Ivarstead Bridge - A Tiny Northern Roads Edit](https://www.nexusmods.com/skyrimspecialedition/mods/97560)
- - [Northern Roads Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/77386)
- - [Northern Roads - Patches Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/77893)
- - [Northern Roads Patch Collection - Addon Patches and Combos](https://www.nexusmods.com/skyrimspecialedition/mods/91969)
- - [Sforzinda's Destinations Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/96505)
- - [Forgotten Curios - A Creation Club Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/103474)
- - [Depths of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/77718)
- - [Vigilant - Rare Curios Consistency](https://www.nexusmods.com/skyrimspecialedition/mods/103543)
- - [Necromancer's Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/103240)
- - [Beyond Skyrim - Bruma - Unofficial Patch](https://www.nexusmods.com/skyrimspecialedition/mods/103156)
- - [Vampire Robes Better Cleavage 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/103553)
- - [Sowables of Skyrim - Wheat](https://www.nexusmods.com/skyrimspecialedition/mods/103182)
- - [High poly HD Rabbit by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/25280)
- - [Unmarked Locations Pack - Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/103028)
- - [Seasons for Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/103089)
- - [Seasons of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/103737)
- - [Argonian Crests](https://www.nexusmods.com/skyrimspecialedition/mods/102860)
- - [VIGILANT - Saint Alessia Statue Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/103181)
- - [FYX - Campfire Reacts to the Wind - EmbersXD Edition (WIP)](https://www.nexusmods.com/skyrimspecialedition/mods/103807)
- - [Capture Warmer (Dynamic Cubemaps)](https://www.nexusmods.com/skyrimspecialedition/mods/103900)
- - [W.I.O. - Wheeler Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/103659)
- - [Moon Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/103647)
- - [BnP - Teeth Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/84288)
- - [Gore - Saints and Seducers Extended Cut](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
- - [Obi's Warpaints 2K](https://www.nexusmods.com/skyrimspecialedition/mods/104117)
- - [Obi's Tattoos 3BA 4K](https://www.nexusmods.com/skyrimspecialedition/mods/105109)
- - [JS Embalming Tools SE](https://www.nexusmods.com/skyrimspecialedition/mods/104322)
- - [Skyrim Objects SMIMed - Noble Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/77499)
- - [Serana Re-Imagined - Eyes Re-Visited](https://www.nexusmods.com/skyrimspecialedition/mods/104129)
- - [Flames of Coldharbour - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104559)
- - [Natura - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105430)
- - [Lunaris - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105175)
- - [Scion - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105310)
- - [Smoothing of Splices](https://www.nexusmods.com/skyrimspecialedition/mods/104575)
- - [Vanargand Animations II - Unarmed Non Combat](https://www.nexusmods.com/skyrimspecialedition/mods/105376)
- - [Serana Cure Quest Plus](https://www.nexusmods.com/skyrimspecialedition/mods/105091)
- - [Forgotten Seasons Cut Staves Restored](https://www.nexusmods.com/skyrimspecialedition/mods/93436)
- - [GG's Thieves Guild HQ - EVGAT Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/105642)
- - [Grass Generation MO2 Plugin](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=171299&game_id=1704)
- - [Grass Cache Helper NG](https://www.nexusmods.com/skyrimspecialedition/mods/101095)
- - [FYX - Palace of The Kings](https://www.nexusmods.com/skyrimspecialedition/mods/105843)
- - [Wyrmstooth CBBE 3BA and HIMBO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/105850)
- - [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
- - [Vanilla Item Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/105970)
- - [Unique Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/105771)
- - [Spaghetti's Faction Halls - Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/106053)
-
-### Removed
-
- - [Ave's Muiri's Ring](https://www.nexusmods.com/skyrimspecialedition/mods/38850)
- - [HD Wheat](https://www.nexusmods.com/skyrimspecialedition/mods/28497)
- - [BRUMA SE - Frostcrag Spire fix](https://www.nexusmods.com/skyrimspecialedition/mods/25161)
- - [Wheeler Icon Embellishment - Naturally Exquisite Refinement](https://www.nexusmods.com/skyrimspecialedition/mods/100692)
- - [Memorable Bounties](https://www.nexusmods.com/skyrimspecialedition/mods/99311)
- - [CBBE Better Shrouded Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/87701)
- - [Scion Inventory Injector (I4) Icons](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=441073&nmm=1&game_id=1704)
- - [Markarth Road Finished](https://www.nexusmods.com/skyrimspecialedition/mods/79422)
- - [2K Sanguine Rose](https://www.nexusmods.com/skyrimspecialedition/mods/20477)
- - [2K Rueful Axe](https://www.nexusmods.com/skyrimspecialedition/mods/20438)
- - [Kanjs - Skull of Corruption](https://www.nexusmods.com/skyrimspecialedition/mods/91171)
- - [Kanjs - Arms of Chaos](https://www.nexusmods.com/skyrimspecialedition/mods/87447)
- - [Resurgence Armory - Creation Club Artifacts](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=372349&nmm=1&game_id=1704)
- - [Snazzy Interiors - Vittoria Vici's House](https://www.nexusmods.com/skyrimspecialedition/mods/100475)
- - [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
- - [C.O.I.N. - Adamant and Hand to Hand Patches](https://www.nexusmods.com/skyrimspecialedition/mods/76605)
-
-</Details>
-
-# Pre-2.0
-
-<Details>
-<summary>Old Versions</summary>
-
-## Changelog
+- [1.5.6](#156) Release Date: January 18, 2024
+- [1.5.5](#155) Release Date: January 7, 2024
 - [1.5.4](#154) Release Date: November 16, 2023
 - [1.5.3](#153) Release Date: November 7, 2023
 - [1.5.2](#152) Release Date: October 20, 2023
@@ -305,6 +47,182 @@ Key Info
 - [0.9.2](#092) Release Date: July 25, 2023
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
+
+## 2.0.0 Preview
+
+Key Info
+
+ - Not Save-Safe. Do Not Even Try.
+ - Northern Roads Added.
+ - Changes to leveling speed.
+ - Lots of rebalancing.
+ - Lots of bug fixes.
+ - Pruned some content I wasn't too happy with including.
+ - idk read my patch notes.
+ - As a result of the extended development time that this update took, in addition to a multi-month break I took from Skyrim modding in the middle of development, changelog on which mods were Updated, Added, or Removed was not well kept and was not included.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Spread the Love quest now only requires giving out 20 pamphlets instead of 30.
+ - It's All In The Taste quest now only requires giving out 10 drinks instead of 15.
+ - Khajiits no longer have 50% Shock Resistance and instead have 20% Stamina Cost Reduction.
+ - Barbarian Class now reduces Stamina Costs by 20% (down from 25%).
+ - Vampiric Ring now negates all sunlight debuffs when worn instead of only the halted regeneration.
+ - Rebalanced several Creation Club Artifacts.
+ - Reduced weight of Dragon Bones and Dragon Scales.
+ - Slightly increased the chance of learning a word of power by slaying dragons.
+ - Dead Thalmor soldiers at Kaidan's Camp no longer drop free elven gear.
+ - Undocumented rebalancing of Vigilant items. Vigilant items are now about 80% done in terms of thorough rebalancing.
+ - Redesigned Sirenroot's rewards.
+ - Greatly increased the drop chance of Dragon-related alchemy ingredients, including Heart Scales.
+ - Reduced the number of quests it takes to progress the Companion's storyline.
+ - Updated the classifications and effects of Remiel's potions and poisons.
+ - The St. Jiub shrine in Solstheim now gives a Pilgrim related buff instead of being useless.
+ - Nerfed the gear that can be obtained from the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest if you side with [Saadia](https://en.uesp.net/wiki/Skyrim:Saadia) (or otherwise kill [Kematu](https://en.uesp.net/wiki/Skyrim:Kematu)). 
+ - Reduced the cost of freeing the Alik'r prisoner in the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest.
+ - Rebalanced Divine Crusader Weapons.
+ - Rebalanced enchantments on enchanted Dragonbone Mail gear.
+ - Changed [Clockwork](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/ITEMS.md#clockwork) item set to be a more generalist early game Heavy Armor set.
+ - Ring of Hircine's transform ability is now a Lesser power.
+ - Ring of Hircine now gives 100 Stamina instead of 50 Stamina and 25% Unarmed Damage.
+ - Removed the 50% chance for Sinderion’s Legacy to proc.
+ - Expanded Fortify Spell Cost so that it can be placed on head pieces and chest pieces.
+ - Expanded Spell Absorb so that it can be placed on rings and necklaces.
+ - Removed the flat 30 Magic damage from the Mace of Molag Bal. Increased its DoT damage from 3 Magic damage per second for 10 seconds to 6 instead.
+ - Added a sanity check to the injury system that prevents the mod from running an injury check more than once a second per attacking enemy. This will address an issue where mages with concentration spells (Flames, Frostbite, etc) were practically guaranteed to injure the player due to their spells “hitting” many times a second.
+ - Injuries are now %-based regardless of if Survival is enabled or disabled.
+ - Injuries are now disabled if you choose to toggle off Survival Mode.
+ - You now deal 50% extra damage to enemies who are sneaking, and take 50% more damage while sneaking.
+ - Some Pilgrim deity buffs are now additive instead of multiplicative.
+ - Pilgrim of Tall Papa (Serpent) now increases your Poison Uses by 50%.
+ - Pilgrim of Tall Papa (Thief) now reduces the cost of power attacks and drawing a bow by 20% instead of 25%.
+ - Pilgrim of Tall Papa (Tower) now gives 50 Armor Rating and 50% Reflect Damage.
+ - Pilgrim of Tall Papa (Atronach) now gives 100 Magicka
+ - Pilgrim of Tall Papa (Mage) now reduces the cost of weapon and staff enchantments by 25%
+ - The “in combat” restriction has been removed from the Tall Papa bonus for Apprentice, Lord, and Lover.
+ - Pilgrim of Syrabane now increases Movement Speed by 25% while casting spells.
+ - Pilgrim of Y'ffre now increases Movement Speed by 25% while drawing a bow.
+ - Pilgrim of Mara now reduces incoming physical damage while casting a ward by 50%.
+ - Pilgrim of Stendarr now increases blocking effectiveness and bashing damage by 25%.
+ - The Blessing of Talos now increases the duration of your Shouts by 25%.
+ - The Amulet of Talos now increases the duration of your Shouts by 25%.
+ - Pilgrim of Talos now increases your Shout damage by 50%.
+ - The Blessing of Zenithar now improves prices by 10/20%.
+ - Pilgrim of Zenithar now increases your Carry Weight by 100.
+ - Pilgrim of Auriel no longer mentions enchantments in its tooltip.
+ - Pilgrim of HoonDing now increases power attack damage by 25% for One and None builds.
+ - Pilgrim of Pelinal now reduces incoming spell damage while blocking with a shield by 50%.
+ - Pilgrim of Phynaster now increases Fire, Frost, and Shock Resistance by 25%.
+ - Pilgrim of Syrabane now increases Magicka Regeneration by 100% when you fall below half Magicka.
+ - Blessing of Namira now increases Health by 25/50.
+ - Blessing of Sheogorath now increases Magicka Regeneration by 25/50%.
+ - Cultist of Sheogorath now causes frenzied targets to take constant Magic damage.
+ - Blessing of Peryite now increases Stamina Regeneration by 25/50%.
+ - Cultist of Peryite now increases your Poison Uses by 100%.
+ - Blessing of Sanguine now increases Health Regeneration by 25/50%.
+ - Cutlist of Sanguine now increases your Potion Duration by 100% instead of 2x multiplicative.
+ - Cultist of Sanguine now reduces Movement Speed by 50% when you are not under the effect of a potion, rather than halting your Stamina Regeneration.
+ - Cultist of Boethiah now reduces the cost of power attacking or drawing a bow by 50%, but prevents you from regenerating Stamina in combat.
+ - Cultist of Clavicus Vile now only buffs the strength of scrolls by 50%.
+ - Cultist of Dagon now reduces enemy Fire, Frost, and Shock Resistance by 25%, instead of mimicking the scaling feature of North Wind / Plague.
+ - Blessing of Hircine now increases your Movement Speed by 5/10%.
+ - Cultist of Hircine now gives a stacking damage buff for combat archers.
+ - Cultist of Nocturnal now increases critical chance and critical damage with bows while sneaking.
+ - Cultist of Nocturnal now doubles the Stamina cost of Sneaking.
+ - Meridia now allows the player to deal 25% extra damage to the undead, at the cost of taking 25% extra damage from the undead.
+ - Slightly rebalanced the cost of Divine Amulets.
+ - Forsworn no longer have Shock Resist, instead having 25% Magic Resist and 10% Spell Absorption.
+
+### Bug Fixes
+ 
+ - (Katana) Corrected "Confront River" not getting marked as completed.
+ - Gladiator helmet no longer tunrs your head invisible as an Argonian, Khajiit, or Orc.
+ - Acrobat class now gives the intended 50 Carry Weight instead of 100.
+ - Fixed a bug that involves Katana coming to you if she is not recruited + you are at Katla's Farm + mount a horse.
+ - Fixed `HangingRabbit01.nif` and `HangingRabbit02.nif`.
+ - Completion of Daedric quests no longer rewards perk points.
+ - Gift of Charity no longer gives 10% experience, instead giving the intended 5% experience.
+ - Major Gift of Charity (added by BUVARP) now gives +5% experience but for 5x the duration of the normal buff.
+ - Raw Beef no longer incorrectly has the `MAG_FoodCorrectorEffect`. 
+ - Cooked Beef now correctly has the `MAG_FoodCorrectorEffect`. 
+ - Animal Senses (Werewolf Night Eye) now has a tooltip.
+ - Fixed Thieves Guild Nocturnal shrine.
+ - Fixed Ritual Master's outfit distribution.
+ - Savior's Hide enchantment now correctly gives 100% Stamina Regeneration instead of 25%.
+ - Black Book message boxes no longer contain errant <>.
+ - Saarthal Amulet will no longer erroneously add Firebite to players when equipped to a follower.
+ - Disenchanting the Notched Pickaxe now teaches the correct enchantment.
+ - Necromancer Amulet's additional reanimated minion effect conditions fixed.
+ - Krosis/Morokei/Nahkriin cloak spells should be working properly.
+ - Bow of the Stag Prince's ramping damage fixed.
+ - Fixed wrong draw condition in "Back hip" folders for Two-Handed weapons.
+ - Fixed an issue with Diadem of the Savant and Fortify Spell Cost not applying.
+ - Fixed an issue where the Mace of Molag Bal would not Soul Trap enemies if you killed them with your first hit.
+ - Fixed an issue where the Necromancer’s Amulet was looking for the wrong keyword.
+ - Fixed an issue where an incorrect condition was preventing Harkon’s Sword from working.
+ - Fixed an issue with the Aetherial Crown.
+ - Fixed an issue where the second rank of Seeker did not have the same conditions as the first rank.
+ - Fixed an issue where the Flute's Speed Buff would not apply.
+ - Fixed an issue where the duration increases from the various Bard's College quests were not being applied.
+ - Fixed an issue where the Bard perks could not be removed by respeccing.
+ - Fixed an issue where some vendors sold too many instruments.
+ - Fixed a bug where you could occasionally get infected when you shouldn’t have.
+ - Fixed a bug that prevented players from benefiting from Block skill scaling.
+ - Fixed a bug with armor calculations above the soft cap.
+ - Fixed shader crash in UNSLAAD.
+ - Fixed an issue where the Shrine of Sheogorath was invisible.
+ - Fixed an issue where the Cultist of Molag Bal’s drain effect was draining less Magicka than intended.
+ - Fixed an issue where Sithis was giving more Sneak Attack damage than intended.
+ - Fixed an issue where Azura's Blessing was randomly lost when Azura's Star was filled with a soul.
+ - Fixed an issue where Remiel would not ride her horse.
+ - Spells granted from the Underworld Lineage and Blood Sacrilege Vampire Lord perks can no longer be cast in human form.
+ - (Wyrmstooth) Fixed an issue where Gjalrunn would be hostile when you run into him on the road later on despite helping him out.
+ - (Wyrmstooth) Fixed incorrect ownership on the beds in the Laenius household.
+ - (Wyrmstooth) Removed the smelting recipes for Wyrmstone and Brimstone.
+ - (Wyrmstooth) Lurius' response to 'The dragon is dead' is no longer set to Say Once, which could potentially lock the player out of the ending.
+ - (Wyrmstooth) Fixed an issue where starting The Naked Nord before completing the miscellaneous objective to kill the Krakevisa Midden boss would prevent that objective from being completable.
+ - (Wyrmstooth) Fixed condition issue on topic 'I was able to find your pants' that would cause it to be available if you had already handed the pants over or reverse pickpocketed the pants onto Gjalrunn.
+ - (Wyrmstooth) Fixed an issue that was preventing the golden pants from being removed from the player's inventory during The Naked Nord.
+
+### Consistency Tweaks
+
+ - Reforged Crusader gear renamed to Knight of the Nine gear.
+ - Added an Unfrozen swap for sparse snow variant of firewood.
+ - Reduced Grass density during SPR and SUM in certain regions in hopes of improving performance during those seasons.
+ - Reviewed every load screen and adjusted potentially misleading information.
+ - Attempted to standardize book naming conventions, not perfect but should be an improvement over the current book titlings.
+ - Daedric Mail now has Daedric material keywords instead of Dragonscale.
+ - Forwarded Artificer's dialogue edits regarding the White Phial reward to make the Phial choice clearer.
+ - White Phial tooltip should now correctly reflect duration boosts from perks, enchants, etc.
+ - "Quiver left-hip bolt" is now also considered as a "fast-beltened" quiver for the animation.
+ - Prevented you from playing instruments while swimming or holding a torch.
+ - Merged Beard Mask Fix into main Open Helmet patches to reduce the number of redundant patches.
+ - Fixed an inconsistency in one of the combat styles for human melee enemies.
+ - Clarified tooltips for Apostle and Zealot perks.
+ - Solstheim springs are a bit more ash-y.
+ - Sithis now only works with daggers, so that Sithis and Nocturnal cover the two main Sneak Attack weapons.
+ - Added a new "Backpack" node for all weapons.
+ - Moved Danicas bucket fill marker (Near Stairs).
+ - Tweaked Danica's daily package min wander distance.
+ - Fixed Derkeethus default AI, restored confidence level.
+ - Rebuilt Bodyslides.
+
+</Details>
+
+## 1.5.6
+
+Key Info
+
+ - Maintenance update to make the list installable again.
+
+## 1.5.5
+
+Key Info
+
+ - Maintenance update to make the list installable again.
 
 ## 1.5.4
 
@@ -4387,6 +4305,4 @@ This update may be save safe, but if you are continuing a save you might encount
     - Reason: this was a massive mod for no reason.
  - Screenshot Helper
     - Reason: Not updated for 1.6.640 and unnecessary. Screenshots can now be found in Overwrite in the `Root\screenshots` folder.
-</Details>
-
 </Details>
