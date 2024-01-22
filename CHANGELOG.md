@@ -16,7 +16,7 @@
 ---
 
 # Changelog
-- [2.0.0](#200) Release Date: Unreleased
+- [2.0.0](#200-preview) Release Date: Unreleased
 - [1.5.6](#156) Release Date: January 18, 2024
 - [1.5.5](#155) Release Date: January 7, 2024
 - [1.5.4](#154) Release Date: November 16, 2023
