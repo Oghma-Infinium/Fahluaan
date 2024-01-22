@@ -54,6 +54,8 @@ Key Info
 
  - Not Save-Safe. Do Not Even Try.
  - Northern Roads Added.
+ - Overhaul of cities.
+ - Changes to landscape textures and some flora changes.
  - Changes to leveling speed.
  - Lots of rebalancing.
  - Lots of bug fixes.
