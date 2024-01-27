@@ -15,7 +15,7 @@
 
 ---
 
-# Installation
+# Attention
 
 **Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
 
@@ -24,7 +24,7 @@
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
 # Contents
-- [Installation](#installation)
+- [Attention](#attention)
 - [Contents](#contents)
   - [Introduction](#introduction)
     - [System Requirements](#system-requirements)

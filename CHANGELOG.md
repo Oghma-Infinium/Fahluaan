@@ -16,7 +16,7 @@
 ---
 
 # Changelog
-- [2.0.0](#200-preview) Release Date: Unreleased
+- [2.0.0](#200) Release Date: January 27, 2024
 - [1.5.6](#156) Release Date: January 18, 2024
 - [1.5.5](#155) Release Date: January 7, 2024
 - [1.5.4](#154) Release Date: November 16, 2023
@@ -48,7 +48,7 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 
-## 2.0.0 Preview
+## 2.0.0
 
 Key Info
 
@@ -60,6 +60,7 @@ Key Info
  - Lots of rebalancing.
  - Lots of bug fixes.
  - Pruned some content I wasn't too happy with including.
+ - Expansion on backpack balancing.
  - idk read my patch notes.
  - As a result of the extended development time that this update took, in addition to a multi-month break I took from Skyrim modding in the middle of development, changelog on which mods were Updated, Added, or Removed was not well kept and was not included.
 
@@ -68,11 +69,14 @@ Key Info
 
 ### Balancing Changes
 
- - Spread the Love quest now only requires giving out 20 pamphlets instead of 30.
- - It's All In The Taste quest now only requires giving out 10 drinks instead of 15.
+ - Archer class now only increases movespeed while drawing your bow.
  - Khajiits no longer have 50% Shock Resistance and instead have 20% Stamina Cost Reduction.
  - Barbarian Class now reduces Stamina Costs by 20% (down from 25%).
+ - Spread the Love quest now only requires giving out 20 pamphlets instead of 30.
+ - It's All In The Taste quest now only requires giving out 10 drinks instead of 15.
+ - Dragon Priests now have a 50% resistance to Illusion spells.
  - Vampiric Ring now negates all sunlight debuffs when worn instead of only the halted regeneration.
+ - Moved Mentor's Ring to a different dungeon.
  - Rebalanced several Creation Club Artifacts.
  - Reduced weight of Dragon Bones and Dragon Scales.
  - Slightly increased the chance of learning a word of power by slaying dragons.
@@ -82,7 +86,7 @@ Key Info
  - Greatly increased the drop chance of Dragon-related alchemy ingredients, including Heart Scales.
  - Reduced the number of quests it takes to progress the Companion's storyline.
  - Updated the classifications and effects of Remiel's potions and poisons.
- - The St. Jiub shrine in Solstheim now gives a Pilgrim related buff instead of being useless.
+ - The St. Jiub shrine in Solstheim now gives a Pilgrim related buff instead of being useless. Read about it on the Gameplay Guide.
  - Nerfed the gear that can be obtained from the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest if you side with [Saadia](https://en.uesp.net/wiki/Skyrim:Saadia) (or otherwise kill [Kematu](https://en.uesp.net/wiki/Skyrim:Kematu)). 
  - Reduced the cost of freeing the Alik'r prisoner in the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest.
  - Rebalanced Divine Crusader Weapons.
@@ -132,11 +136,19 @@ Key Info
  - Cultist of Dagon now reduces enemy Fire, Frost, and Shock Resistance by 25%, instead of mimicking the scaling feature of North Wind / Plague.
  - Blessing of Hircine now increases your Movement Speed by 5/10%.
  - Cultist of Hircine now gives a stacking damage buff for combat archers.
+ - Changed Archery Capstone to double effectiveness of Bow Critical Strikes and Crossbow Bleeds since Hircine's Cultist perk utilized the same logic Fahluaan's Archery capstone used.
  - Cultist of Nocturnal now increases critical chance and critical damage with bows while sneaking.
  - Cultist of Nocturnal now doubles the Stamina cost of Sneaking.
  - Meridia now allows the player to deal 25% extra damage to the undead, at the cost of taking 25% extra damage from the undead.
  - Slightly rebalanced the cost of Divine Amulets.
  - Forsworn no longer have Shock Resist, instead having 25% Magic Resist and 10% Spell Absorption.
+ - You can now block while wielding staves in your main hand and nothing in your off-hand.
+ - Removed instruments crafting.
+ - Backpacks with Bedrolls now give more carry weight at the expense of a larger debuff.
+ - Bash damage enchant and Fortify Blocking enchant have been merged.
+ - Changes to Alchemy scaling in the later levels.
+ - Buffed XP from Scroll Crafting as it was over nerfed in previous versions.
+ - Buffed Sneak detection as Sneak builds were underperforming at lower levels without supplementary skills.
 
 ### Bug Fixes
  
@@ -181,6 +193,9 @@ Key Info
  - Fixed an issue where Azura's Blessing was randomly lost when Azura's Star was filled with a soul.
  - Fixed an issue where Remiel would not ride her horse.
  - Spells granted from the Underworld Lineage and Blood Sacrilege Vampire Lord perks can no longer be cast in human form.
+ - Fixed an OAR condition that caused movement types to sometimes be incorrect when a shield wasn't equipped.
+ - Improved conditions on third person Katana animations.
+ - Improved first person Katana left and right power attack animations.
  - (Wyrmstooth) Fixed an issue where Gjalrunn would be hostile when you run into him on the road later on despite helping him out.
  - (Wyrmstooth) Fixed incorrect ownership on the beds in the Laenius household.
  - (Wyrmstooth) Removed the smelting recipes for Wyrmstone and Brimstone.
@@ -188,6 +203,14 @@ Key Info
  - (Wyrmstooth) Fixed an issue where starting The Naked Nord before completing the miscellaneous objective to kill the Krakevisa Midden boss would prevent that objective from being completable.
  - (Wyrmstooth) Fixed condition issue on topic 'I was able to find your pants' that would cause it to be available if you had already handed the pants over or reverse pickpocketed the pants onto Gjalrunn.
  - (Wyrmstooth) Fixed an issue that was preventing the golden pants from being removed from the player's inventory during The Naked Nord.
+ - Likely fixed Poison spell related crashes.
+ - The buffs/debuffs granted from the [Out of Balance](https://en.uesp.net/wiki/Skyrim:Out_of_Balance) quest have been fixed and made more understandable.
+ - Made craftable Thieves Guild Armor temperable.
+ - Fixed an issue where if you destroyed the Dark Brotherhood, you could not Temper crafted Dark Brotherhood Armor.
+ - Fixed an issue where you could craft Curate's Armor.
+ - Fixed crafting conditions on the AmidianBorn variants of Nordic Carved Armor.
+ - Fixed crafting conditions on Nordic Katana, Crossbow, and Spear.
+ - Removed Ebony Ingot requirement from Nordic Katana recipe.
 
 ### Consistency Tweaks
 
@@ -211,6 +234,7 @@ Key Info
  - Tweaked Danica's daily package min wander distance.
  - Fixed Derkeethus default AI, restored confidence level.
  - Rebuilt Bodyslides.
+ - Removed Natura's poison spells.
 
 </Details>
 

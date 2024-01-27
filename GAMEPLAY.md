@@ -95,62 +95,33 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
 #### Perk Tweaks
 
- - **Archery**
-   - Perk Tree has been almost entirely redesigned, separating out Bow and Crossbow perks to create different gameplay niches for each.
  - **Conjuration**
    - **Cultist**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
- - **Hand to Hand**
-   - **Brawler's Stance**: Changed from 2 ranks to 1 rank.
- - **Heavy Armor**
-   - **Defender**: Unstoppable has been baked into this perk.
-   - **Unstoppable**: Removed.
-   - **Juggernaut**: Now gives flat +100/200 Armor Rating instead of +25/50% Armor Rating.
- - **Light Armor**
-   - **Scout**: Unhindered has been baked into this perk.
-   - **Unhindered**: Removed.
-   - **Specialist**: Now gives flat +100/200 Armor Rating instead of +25/50% Armor Rating.
  - **Restoration**
    - **Pilgrim**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
- - **One-Handed**
-   - **Dual Fury**: Changed resist incoming damage to resist stagger during dual wield power attacks.
-   - **Fighter's Stance**: Changed from 2 ranks to 1 rank.
-   - **Flourish**: Changed speed gain from 20% to 10%.
- - **Speech**
-   - **Merchant**: Lowered the buy/sell price buff from 25/50% to 10/20%.
- - **Two-Handed**
-   - **Cleave** renamed to **Relentless**: Changes Cleave effect to power attacks with deal increased stagger.
-   - **Warrior's Stance**: Changed from 2 ranks to 1 rank.
 
 #### Race Tweaks
 
- - **Khajiit**: Removed 25% Stamina Cost reduction. Added 50% Resistance to Shock.
  - **Breton**: Reduced Spell Absorb chance from 15% to 10%.
 
 #### Religion Tweaks
 
- - **Boethiah**: Changed Damage Armor malus on player from -300 to -200.
- - **Clavicus Vile**: Buff to scrolls reduced from 100% to 50%.
- - **HoonDing**: Changed speed gain from 20% to 10%.
  - **Jyggalag**: Has been added by [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/99144).
- - **Mannimarco**: Reduced summon bonus from +2 to +1 and reduced debuff from -300 Armor and -50% Magic Resistance to -150 Armor and -25% Magic Resistance.
- - **Saint Jiub**: New Pilgrim deity added by [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019).
-   > Your Stamina is increased by 25/50. / Your Carry Weight is increased by 100.
- - **Sheogorath**: New cultist ability: Incoming magic damage is reduced by 25%, however your Armor Rating is reduced by 200.
+ - **Saint Jiub**: New Pilgrim deity added by [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019). Can be found in the Raven Rock Temple.
+   > Your Movement Speed is increased by 5/10%. / Your Carry Weight is increased by 100.
  - **The Watcher**: A new deity added by [The Midden - Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/2219), I thought the lore was cool so I made him a useful deity governed by the Cultist branch of Religion.
    > You have a 5/10% chance to absorb the Magicka from incoming spells. / Your staff enchantments are twice as strong, but cost three times as much.
 
 #### Spell Tweaks
+ - **Abyss**
+   - The majority of spells are not obtainable or usable by the player.
  - **Flames of Coldharbour**
    - Power Tomes have been removed from vendor inventories and NPC drops, making them unobtainable in normal gameplay.
  - **Lunaris**
    - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
  - **Natura**
    - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
- - **Abyssal Tides Magic**
-   - Abyssal Impact and Abyssal Ink Bolt have been reworked as Expert to Master level Poison spells.
-   - Apocryphal Gate is available as a Lesser Power.
-   - Chakram Shields now reflects 100% of melee damage. (Master Alteration)
-   - Runemend provides a 100% Health Regeneration buff. (Master Alteration)
+   - Natura's specific poison spells have been removed.
 
 ### Quests Changes
 
@@ -248,9 +219,6 @@ This section will try to list the new content focused mods added to the list, an
  - [Fists of Fury - Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/73835)
  - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494)
  - [Sirenroot - Deluge of Deceit](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
- - [Memorable Bounties - Witcher Inspired Quests](https://www.nexusmods.com/skyrimspecialedition/mods/99311)
- - [Hunter's Dream - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/97408)
- - [Calling the Watchmaker - Lovecraftian Inspired Quest](https://www.nexusmods.com/skyrimspecialedition/mods/96711)
  - [Dragon Hunting - Quest Rewards and Alchemy Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/99193)
  - [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625)
  - [Belethor's Sister - Quest](https://www.nexusmods.com/skyrimspecialedition/mods/92381)
@@ -281,11 +249,8 @@ This section will try to list the new content focused mods added to the list, an
 
  - [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075)
  - [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)
- - [Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413): Will not spawn until the player hits level 5.
- - [Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
  - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
  - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622)
- - [Eris](https://www.nexusmods.com/skyrimspecialedition/mods/77993)
  - [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
  - Serana Expanded - Dialogue Additions
 

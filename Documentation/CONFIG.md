@@ -48,12 +48,13 @@ This section will cover the following Optional Tweaks that are included as a par
  8. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
  9. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
  10. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
- 11. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB.
- 12. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
- 13. **Arena - Harder Easy Spawns**: Easy spawns are always any number between X and 1, where X is 0.75 of the level set by the Encounter Zone, Easy actors are often quite low level. This mod makes it so once you hit level 10, the level range of Easy actor spawns are extended, so they will more often spawn at higher levels.
- 14. **Blade and Blunt - Dynamic Difficulty**: Level Based Difficulty Scaling makes incremental changes to your game’s difficulty in the background when you reach levels 10, 20, 30, and 40, to simulate increasing the difficulty of your game by one tier (Adept to Expert; Expert to Master, etc) over the course of your game. You can read more about specific numbers on the [Blade and Blunt modpage](https://www.nexusmods.com/skyrimspecialedition/mods/34549). Note that Dynamic Difficulty **does not** affect Novice or Legendary difficulties.
- 15. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience. Make sure to disable Dynamic Difficulty if you use this mod.
- 16. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable **BEFORE** making a new game.
+ 11. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB. Dynamic Cubemapes must be enabled **in game** in the ENB GUI.
+ 12. **Capture Warmer (Dynamic Cubemaps)**: Enable if using Dynamic Cubemap setting in ENB. **WARNING** Can cause camera glitches when changing cells.
+ 13. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
+ 14. **Arena - Harder Easy Spawns**: Easy spawns are always any number between X and 1, where X is 0.75 of the level set by the Encounter Zone, Easy actors are often quite low level. This mod makes it so once you hit level 10, the level range of Easy actor spawns are extended, so they will more often spawn at higher levels.
+ 15. **Blade and Blunt - Dynamic Difficulty**: Level Based Difficulty Scaling makes incremental changes to your game’s difficulty in the background when you reach levels 10, 20, 30, and 40, to simulate increasing the difficulty of your game by one tier (Adept to Expert; Expert to Master, etc) over the course of your game. You can read more about specific numbers on the [Blade and Blunt modpage](https://www.nexusmods.com/skyrimspecialedition/mods/34549). Note that Dynamic Difficulty **does not** affect Novice or Legendary difficulties.
+ 16. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience. Make sure to disable Dynamic Difficulty if you use this mod.
+ 17. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable **BEFORE** making a new game.
 
 ### Gamepad Support
 
