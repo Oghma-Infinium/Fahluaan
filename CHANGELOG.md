@@ -52,16 +52,17 @@
 
 Key Info
 
- - Not Save-Safe. Do Not Even Try.
- - Northern Roads Added.
- - Overhaul of cities.
- - Changes to landscape textures and some flora changes.
- - Changes to leveling speed.
- - Lots of rebalancing.
- - Lots of bug fixes.
- - Pruned some content I wasn't too happy with including.
- - Expansion on backpack balancing.
- - idk read my patch notes.
+ - Not Save-Safe. Do Not Even Try. Not Save-Safe with previous beta versions either.
+ - Northern Roads added, this change coupled with changes to landscape and mountain textures drastically changes the visuals of the list. I hope people enjoy the fresh coat of paint!
+ - Overhauled many of the minor cities and added some new minor locations to the list.
+ - Slowed down leveling speed.
+ - Reworked the bounty system and added perks to the speech tree to buff Bounties.
+ - Many changes to deities, be sure to read the Balancing changes below or freshen up on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) mod page!
+ - Changed Bedroll Backpacks to be considered "Heavy" backpacks, offering more carry weight for a stronger movement speed debuff than normal backpacks.
+ - More mechanics were moved into "Survival Mode Only" in order to make disabling survival mode much more approachable as the "easy" version of the list beyond pure difficulty sliders.
+ - Pruned some content I felt was unnecessary for the list.
+ - A significant amount of bug fixes and consistency fixes were put through on this version.
+ - Controller support is planned to be redone, this will occur in a later version.
  - As a result of the extended development time that this update took, in addition to a multi-month break I took from Skyrim modding in the middle of development, changelog on which mods were Updated, Added, or Removed was not well kept and was not included.
 
 <Details>
@@ -149,6 +150,7 @@ Key Info
  - Changes to Alchemy scaling in the later levels.
  - Buffed XP from Scroll Crafting as it was over nerfed in previous versions.
  - Buffed Sneak detection as Sneak builds were underperforming at lower levels without supplementary skills.
+ - Buffed Bound Weapons Conjuration experience gains.
 
 ### Bug Fixes
  
