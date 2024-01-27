@@ -71,7 +71,6 @@ Key Info
 ### Balancing Changes
 
  - Archer class now only increases movespeed while drawing your bow.
- - Khajiits no longer have 50% Shock Resistance and instead have 20% Stamina Cost Reduction.
  - Barbarian Class now reduces Stamina Costs by 20% (down from 25%).
  - Spread the Love quest now only requires giving out 20 pamphlets instead of 30.
  - It's All In The Taste quest now only requires giving out 10 drinks instead of 15.
