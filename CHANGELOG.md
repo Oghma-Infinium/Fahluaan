@@ -48,6 +48,67 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 
+## 2.0.1
+
+Key Info
+
+ - Save Safe with versions 2.0 or greater.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Khajiits no longer have 50% Resistance to Shock and instead consume 20% less Stamina on Power Attacks and when drawing bows. (for real this time)
+ - Spriggans now trigger Oak Heart below 50% Health (was 30%).
+ - Oak Heart now reduces incoming damage by 33% (was 50%).
+ - Oak Heart now also reduces incoming Magic Damage (previously only affected physical damage).
+ - Oak Heart can now only trigger once every 20 seconds (was 10 seconds).
+ - Spriggan Matrons now take 10% less damage from physical attacks (was 15%).
+ - Spriggan Claw attacks no longer apply through block.
+ - Spriggan Armor scaling has been reworked.
+ - Spriggans, Spriggan Matrons, Spriggan Earth Mothers, and Frost Spriggans now have a 25% Weakness to Fire (was 33%).
+ - Shock Spriggans now have a 25% Weakness to Fire (was 0%).
+ - Burnt Spriggans now have a 25% Weakness to Frost (was 33%).
+ - Restored Spriggan and Animal spawns to Shadowgreen Cavern.
+ - Gladiator's Shield now has Reflect Damage enchantment instead of Fortify Blocking, in addition to Fortify Health.
+
+### Bug Fixes
+ 
+ - Adjusted Z-axis height of a Brazier in Cell <8,4> near Lorieus farm.
+ - Adjusted Z-axis height of COTN_RockBridge2 in Cell <-29,10> near Markarth.
+ - Removed Parallax flag and textures from `WRSkyforge01.nif` and the corresponding `WIN` and `SUM` variants due to warping.
+ - Fixed seams in the Male version of Savior's Hide.
+ - Fixed first person Katana+Shield animations defaulting to Katana single wield animations.
+ - Replaced cubemap on `RobeOfTheLichF_0.nif` and `RobeOfTheLichF_1.nif` in order to fix missing texture error.
+ - Rebuilt Iron Armor to eliminate improper weighting issue.
+ - Fixed duplicated tooltip on Shrine of Tall Papa.
+ - Fixed duplicated tooltip on Aegis of the Apocalypse's enchantment.
+
+### Consistency Tweaks
+
+ - Disabled Actor Fade and Player Fade. These settings were intended to be disabled, but I forgot.
+ - Removed an unused download from the Wabbajack compile.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - [Unmarked Locations Pack - Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/103028)
+ - [Savior's Hide Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/109940)
+ - [CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)
+ - [Striding Silt Strider](https://www.nexusmods.com/skyrimspecialedition/mods/109619)
+ - [Northern Roads Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/77386)
+
+### Added
+
+ - [Vanargand Animations II - Unarmed Pugilism Stance](https://www.nexusmods.com/skyrimspecialedition/mods/109684)
+
+</Details>
+
 ## 2.0.0
 
 Key Info

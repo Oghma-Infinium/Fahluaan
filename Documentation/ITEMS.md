@@ -71,9 +71,9 @@ The Paradise set is based on 4thUnknown's [Mythic Dawn Armor](https://www.nexusm
 
 The Raven set is based on Pulcharmsolis' [Kvetchi Mercenary Set](https://www.nexusmods.com/skyrimspecialedition/mods/79226) and is designed for Rogue and Scout type characters. It can be obtained from a Bandit Chief at [Ironback Hideout](https://en.uesp.net/wiki/Skyrim:Ironback_Hideout)
 
- - **Gladiator's Shield**: Your blocking and bashing are 25% more effective and your Health is increased by 50.
+ - **Gladiator's Shield**: Your Health is increased by 50, and you reflect 50% of incoming melee damage back at your attacker.
 
- - **Gladiator's Helmet**: You block 25% more damage.
+ - **Gladiator's Helmet**: Your blocking and bashing are 25% more effective
  - **Gladiator's Cuirass**: Your Health Regeneration is increased by 50% and you deal 25% more damage with power attacks.
  - **Gladiator's Gauntlets**: Your Attack Speed is increased by 10%.
  - **Gladiator's Boots**: Your Stamina is increased by 50.
