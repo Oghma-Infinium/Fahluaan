@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.0.2](#202) Release Date: February 2, 2024
 - [2.0.1](#201) Release Date: January 28, 2024
 - [2.0.0](#200) Release Date: January 27, 2024
 - [1.5.6](#156) Release Date: January 18, 2024
@@ -48,6 +49,99 @@
 - [0.9.2](#092) Release Date: July 25, 2023
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
+
+## 2.0.2
+
+Key Info
+
+ - Save-safe.
+ - If you are using any of the ponytail hairs (bases DEFGHI) from [Modular SMP Hairstyles](https://www.nexusmods.com/skyrimspecialedition/mods/93608), please change your hairstyle and save before updating.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - **Namira's Itch** has been moved from Arcwind Point to Frostflow Abyss. May not take effect on existing save games.
+ - **Dismal Visage** has been moved from Arcwind Point to Mzinchaleft. May not take effect on existing save games.
+ - **Tyrant's Bane** has been moved from Arcwind Point to Druadach Redoubt. May not take effect on existing save games.
+ - **Dragonbone Mail**'s related armor pieces has been moved from Arcwind Point and scattered around several Dragon Burial Sites. May not take effect on existing save games.
+ - **Mentor's Ring** has been moved from Cragslane Cavern to Drelas' Cottage. May not take effect on existing save games.
+ - **Vampiric Ring** has been moved from a basket in Falion's House to Moldering Ruins. May not take effect on existing save games.
+ - **Clockwork Armor** has been moved from Mzulft Storeroom to Nchuand-Zel. May not take effect on existing save games.
+ - **Windcaller Armor** has been redistributed throughout the world instead of being in a chest at Throat of the World. May not take effect on existing save games.
+ - Rebalanced the various rewards from **Morthal Barrow** and the **No Rest for the Wicked** quest. The rewards are no longer leveled and the enchantments are more appropriate and consistent with other items in the list. May not take effect on existing save games.
+ - Rebalanced Valdur's War Axe from **Taarengrav Barrow** to have an enchantment more consistent and appropriate for the list. May not take effect on existing save games.
+ - The Agent perk now reduces Sneak Stamina drain by **25/50%** in addition to the base bonus.
+ - Increased base sneak Stamina drain to **8 Stamina/second** (was 5 Stamina/second).
+ - Khajiit racial now decreases sneak Stamina drain by **25%** (was 50%).
+ - The Chaos Binding perk has been renamed Soul Binding and now makes Bound weapons deal 15/30 Magic damage (was 50% chance to deal 15/30 Fire, Frost, Shock damage).
+ - The Chaos Binding perk (now Soul Binding) now makes Bound Shields increase your Armor Rating by 50/100 (was increase Magic Resistance by 10/25%).
+ - The Curse Binding perk now makes Bound Shields increase your Magic Resistance by 25% (was resist 50% of incoming spell damage while blocking).
+ - Bound Battleaxe, Bow, Greatsword, and Warhammer are now Apprentice level spells (was Adept).
+
+### Bug Fixes
+ 
+ - Changed XCWT record in cells <-19,16>, <20,-17>, <25,-16>, <18,-17>, <17,-17>, <21,-16>, <18,-16>, <25,-17>, <24,-17>, <25,-18>, <24,-18>, <26,-19>, <25,-21>, <25,-19>, and <26,-22> from `RiverWaterFlow` to `GeirWater`.
+ - Changed XCWT record in cells <29,-20>, <31,-21>, <30,-21>, <29,-21>, <28,-21>, <31,-22>, <28,-22>, <39,-25>, <38,-25>, <37,-25>, <33,-25>, <32,-25>, <39,-26>, <38,-26>, <37,-26>, <36,-26>, <35,-26>, <33,-23>, <32,-23>, <38,-24>, <37,-24>, <33,-24>, <32,-24>, <42,-25>, <41,-25>, <40,-26>, <42,-23>, <41,-24> from `RiverWaterFlow` to `HonrichWater`.
+ - Changed XCWT record in cells <-34,6>, <-38,2>, <-39,2>, <-39,1>, <-41,0>, <-33,7>, <-34,5>, <-35,5>, <-36,4>, <-36,3>, <-36,2>, <-36,1>, <-34,0>, <-35,0>, <-36,0>, <-39,0>, <-40,0>, <-33,-1>, <-34,-1>, <-35,-1>, <-33,-2>, <-32,7>, <-32,0>, <-29,9>, <-30,9>, <-31,8>, <-32,8>, <-32,-1>, <-31,-2>, <-32,-2>, and <-31,-3> from `RiverWaterFlow` to `MarkarthWaterFlow`.
+ - Changed XCWT record in cells <7,-9>, <6,-9>, <6,-10>, <5,-10>, <4,-10>, <5,-11>, <4,-11>, <3,-11>, <4,-12>, <3,-12>, <3,-13>, <2,-13>, <1,-13>, <1,-14>, <0,-14>, <0,-15>, <-12,-12>, <-10,-14>, <-11,-14>, <-10,-15>, <-9,-16>, <-1,-16>, <-2,-16>, <-3,-16>, <-4,-16>, <-5,-16>, and <-6,-16> from `RiverWaterFlow` to `RiverwoodWater` or `RiverwoodWaterFlow`.
+ - Changed XCWT record in cells <-25,19>, <-25,18>, <-17,23>, <-18,22>, <-23,21>, <-24,20>, <-17,24>, <-15,24>, and <-16,24> from `RiverWaterFlow` to `RiverWaterFlowSolitude`.
+ - Changed XCWT record in cells <-17,19>, <-17,18>, <-10,15>, <-14,15>, <-13,14>, <-10,18>, <-9,17>, <-10,17>, <-14,17>, <-10,16>, <-11,16> from `RiverWaterFlow` to `MorthalWater`.
+ - Changed XCWT record in cell <-14,26> from `RiverWaterFlow` to `DefaultWater`.
+ - Changed XCWT record in cells <-14,25> and <-15,25> from `RiverWaterFlow` to `DefaultWaterFlowBlend`.
+ - Changed XCWT record in cells <-7,-4>, <6,-4>, <5,-4>, <9,-3>, <8,-3>, and <8,-4> from `RiverWaterFlow` to `WhiterunWaterFlow`.
+ - Changed NAM2 record in Worldspace `DLC1ForebearsHoldout` from `CreekWaterFlow` to `CaveWaterFlow`.
+ - Disabled REFR `00030439` in The Ragged Flagon (`RiftenRaggedFlagon`) as it caused clipping with REFR `0x00598B~Water for ENB.esm`. This should fix the flickering water in the Ragged Flagon.
+ - Disabled REFR `000A5A30` in The Ragged Flagon - Cistern (`RiftenThievesGuildHeadquarters`) as it caused clipping with REFR `0x000833~Water for ENB.esm`. This should fix the flickering water in the Ragged Flagon - Cistern.
+ - The above listed fixes should hopefully fix the majority of water-related issues (which may or may not have been noticeable) that the list had in the 2.0 update.
+ - Changed XLCN in cell <-25,19> from `DragonBridgeFarmLocation` to `DragonBridgeLocation`.
+ - Adjusted landscape in cell <5,-10> to fix terrain seam near Riverwood.
+ - Adjusted landscape in cell <-35,-1> to fix terrain seam near Reachwater Rock.
+ - Re-cached Summer grass to fix issue where some people experienced no grass in the Rift during Summer months.
+ - Re-cached Riverwood for Autumn, Winter, Spring, and Summer to fix floating grass caused by terrain edits made this update.
+ - Removed Rock in cell <-31,-3> that was in the middle of the road.
+ - Adjusted REFR `000E9CFE` near Solitude so it was no longer floating.
+ - Adjusted furniture added by Bruma in cell <7,-28> so it was no longer sunken into the ground.
+ - Adjusted several STAT records in order to make Projected diffuse properly apply.
+ - Shrine of Jyggalag will now give the correct Cultist of Jyggalag blessing.
+ - Adjusted shader flags on several Markarth meshes to eliminate parallax warping on Mountains and rocks.
+ - Rebuilt Bodyslides of Redguard Elite, Steel Soldier, Necro Robes (Revenant Robes), and Civil War Champions Armor Sets for Males.
+ - Fixed a Room Bound crash that occurred when exiting The Midden Dark (`WinterholdCollegeMidden02`) and entering The Midden (`WinterholdCollegeMidden01`).
+ - Potentially fixed recursion issue with Weapon Displays in The Arcane Grotto (`MiddenArcaneGrotto`).
+ - Fixed Cultist of Boethiah not applying its Stamina cost reduction effect to Bows and Crossbows.
+ - Fixed improper tooltip on Amulet of Talos.
+
+### Misc. Tweaks
+
+ - Included Poison Bloom in the temporary Poison Crash Fix.
+ - Outfit `DLC2SV02ThalmorOutfit02` changed from Elven Hunter to Guilded Thalmor Elven Armor.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - [Madness and Order](https://www.nexusmods.com/skyrimspecialedition/mods/99144)
+ - [Modular SMP Hairstyles](https://www.nexusmods.com/skyrimspecialedition/mods/93608)
+ - [Perk Entry Point Extender](https://www.nexusmods.com/skyrimspecialedition/mods/91192)
+ - [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728)
+ - [Paired Animation Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/99621)
+ - [I4 Weapon Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/106432)
+
+### Added
+
+ - [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604)
+ - [ElSopa - Gem Holders Redone](https://www.nexusmods.com/skyrimspecialedition/mods/110627)
+ - [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655)
+
+### Removed
+
+ - [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002) (it was only used for textures and those textures are now covered in another mod.)
+
+</Details>
 
 ## 2.0.1
 

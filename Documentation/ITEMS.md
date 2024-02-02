@@ -25,7 +25,7 @@ Unenchanted variations of every set (except Oli'Dar) can be crafted if you have 
 
 ### Windcaller
 
-The Windcaller set is based on 4thUnknown's [Wind Ruler Armor](https://www.nexusmods.com/skyrimspecialedition/mods/60842) and is designed for shout-oriented Warrior builds. The armor set can be obtained after meeting [Paarthurnax](https://en.uesp.net/wiki/Skyrim:Paarthurnax_(dragon)).
+The Windcaller set is based on 4thUnknown's [Wind Ruler Armor](https://www.nexusmods.com/skyrimspecialedition/mods/60842) and is designed for shout-oriented Warrior builds. The armor set is scattered among various Dragon Lairs.
 
  - **Windcaller's Helmet**: Your Shouts are 25% stronger. 
  - **Windcaller's Cuirass**: Your Magic Resistance is increased by 25% and your Armor Rating is increased by 100.
@@ -104,6 +104,8 @@ The Oli'Dar set is based on Kadraeus' [Moon Monk's Robes](https://www.nexusmods.
 
 ### Master Necromancer
 
+The Master Necromancer set is based on SKYBLIVION's [Master Necromancer Robes](https://www.nexusmods.com/skyrimspecialedition/mods/57728). It can be found during [The Man Who Cried Wolf](https://en.uesp.net/wiki/Skyrim:The_Man_Who_Cried_Wolf) quest.
+
  - **Master Necromancer Hood**: Your Magicka is increased by 50.
  - **Master Necromancer Robes**: Your Conjuration spells cost 25% less, but your Health Regeneration is reduced by 100%. 
 
@@ -111,7 +113,7 @@ The Oli'Dar set is based on Kadraeus' [Moon Monk's Robes](https://www.nexusmods.
 
 ### Clockwork
 
-The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81043) and is an easily acquirable early game heavy armor set. It can be obtained in the dungeon [Mzulft](https://en.uesp.net/wiki/Skyrim:Mzulft)
+The Clockwork set is based on 4thUnknown's [Dwemer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81043) midgame heavy armor set. It can be obtained in the dungeon [Nchaund-zel](https://en.uesp.net/wiki/Skyrim:Nchuand-Zel)
 
  - **Clockwork Helmet**: Your Health Regeneration is increased by 50%.
  - **Clockwork Cuirass**: Your Health is increased by 50.
