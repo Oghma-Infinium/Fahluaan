@@ -111,6 +111,8 @@ Key Info
  - Potentially fixed recursion issue with Weapon Displays in The Arcane Grotto (`MiddenArcaneGrotto`).
  - Fixed Cultist of Boethiah not applying its Stamina cost reduction effect to Bows and Crossbows.
  - Fixed improper tooltip on Amulet of Talos.
+ - Fixed incorrect cubemap on Wraithguard's 1st Person model which caused it to have missing textures.
+ - Hopefully Fixed Sunder.
 
 ### Misc. Tweaks
 
