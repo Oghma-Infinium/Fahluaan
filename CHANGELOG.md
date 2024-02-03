@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.0.3](#203) Release Date: February 3, 2024
 - [2.0.2](#202) Release Date: February 2, 2024
 - [2.0.1](#201) Release Date: January 28, 2024
 - [2.0.0](#200) Release Date: January 27, 2024
@@ -49,6 +50,46 @@
 - [0.9.2](#092) Release Date: July 25, 2023
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
+
+## 2.0.3
+
+Key Info
+
+ - Save-safe.
+ - Primarily meant to make the list installable again after it was taken down by the removal of a dependent file.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Nerfed the Sneak XP gains from stealing items by 20%.
+
+### Bug Fixes
+ 
+ - Reduced scale of REFR `00057785` by ~15% to fix clipping issue with a Lux Via Brazier near Falkreth.
+ - Removed Distinct Interior edits from the Vilemyr Inn (`IvarsteadVilemyrInn`) to fix clipping issues with some assets.
+
+### Misc. Tweaks
+
+ - Changed first person BattleAxe and Warhammer animations.
+ - Re-enabled Katana specific animations that I had previously disabled by accident.
+ - Rebuilt Fem Mage Robes. I thought I did this previously in 2.0.
+ - Hid Mod Versioning in MO2.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - xLodGen
+ - [Foamimi's Glenmoril NPC Visual Overhaul - RS Child](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=467214&nmm=1&game_id=1704)
+ - [KG Animations - Two-Handers](https://www.nexusmods.com/skyrimspecialedition/mods/101541)
+ - [I4 Shout Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/107334)
+
+</Details>
 
 ## 2.0.2
 
