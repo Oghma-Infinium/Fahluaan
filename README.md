@@ -72,7 +72,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 |     :---:    |     :---:     |     :---:     
 | **CPU**   | R7 5800X |  R7 3700x / i5 10600k |
 | **Video Card**    | 3080 | 3060 Ti / 2070 / 6700 XT |
-| **Ram**    | 32gb (2x16) | 16gb (2x16) |
+| **Ram**    | 32gb (2x16) | 16gb (2x8) |
 | **Storage**    | 970 EVO NVMe | SATA SSD |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
