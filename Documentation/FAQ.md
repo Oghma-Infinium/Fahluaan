@@ -107,3 +107,7 @@ Soultion(s)
 ### Having issues controlling NPCs in Sirenroot!
 Solution(s)
  1. The issue is caused by a bad script interaction between Immersive Camera and Sirenroot. You can disable Immersive Camera (and its script patches) in the left hand pane of MO2 for the duration of Sirenroot.
+
+### Crashing when talking to Azura/Peryite/Augur of Dunlain/[Insert Talking Head Activator]!
+Solution(s)
+ 1. If you are using the Katana follower mod and you have the quest `Chasing the Current` with the quest stage `Talk to Katana another time`, then talk to Katana to progress to the next stage (`Head to the Drunken Huntsman`) in order to fix the crash.
