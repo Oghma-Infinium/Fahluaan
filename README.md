@@ -304,9 +304,10 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 - JustThatKing, jdsmith2816, and Total for their feedback and assistance when I started modding.
 - Bethesda Game Studios for Skyrim and the Creation Kit.
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
-- Noggog for Mutagen and Synthesis.
-- Halgari and the WJ Team for this amazing platform.
+- [Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.
+- [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the WJ Team for the amazing platform that is Wabbajack.
 - [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
+- [Sheson](https://ko-fi.com/sheson) for DynDOLOD.
 - [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), [Styyx](https://github.com/Styyx1), and the Simon Makes Mods Discord for many ideas and mod assistance.
 - [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
-- Mgde12, D1Z4STR, 半蔵 内倉, Kepler, Bonnie Wynne, Matty, EmptyHamster, Scott, snowpeachcherry, Charlie Kriech, Durgenage, Pacifist Fist, Don Maker, Russell Collins, Michał Buńkowski, and Danimals for support on [patreon](https://www.patreon.com/aljoxo).
+- Mgde12, D1Z4STR, 半蔵 内倉, Kepler, Bonnie Wynne, Matty, EmptyHamster, Scott, snowpeachcherry, Charlie Kriech, Durgenage, Pacifist Fist, Don Maker, Russell Collins, Michał Buńkowski, Danimals, and Monko for support on [patreon](https://www.patreon.com/aljoxo).
