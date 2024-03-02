@@ -99,6 +99,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    - **Cultist**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
  - **Restoration**
    - **Pilgrim**: has been moved to a Custom Skills Framework tree. Read more [here](https://www.nexusmods.com/skyrimspecialedition/mods/93913).
+   - Sun related perks have been expanded.
 
 #### Race Tweaks
 
@@ -106,6 +107,7 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
 
 #### Religion Tweaks
 
+ - **Auriel**: No longer gives a buff to sun spells, instead gives Restoration cost reduction.
  - **Jyggalag**: Has been added by [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/99144).
  - **Saint Jiub**: New Pilgrim deity added by [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019). Can be found in the Raven Rock Temple.
    > Your Movement Speed is increased by 5/10%. / Your Carry Weight is increased by 100.
@@ -113,12 +115,15 @@ Fahluaan modifies the vanilla leveling experience in a way to reward the player 
    > You have a 5/10% chance to absorb the Magicka from incoming spells. / Your staff enchantments are twice as strong, but cost three times as much.
 
 #### Spell Tweaks
+
  - **Abyss**
    - The majority of spells are not obtainable or usable by the player.
  - **Flames of Coldharbour**
    - Power Tomes have been removed from vendor inventories and NPC drops, making them unobtainable in normal gameplay.
+   - Spells are sold by a vendor in the Moorside Inn.
  - **Lunaris**
    - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
+   - Spells are sold by a vendor in the Temple of Mara.
  - **Natura**
    - Power Tomes have been removed from vendor inventories, making them unobtainable in normal gameplay.
    - Natura's specific poison spells have been removed.
@@ -131,6 +136,7 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Dawnguard**: You will not be approached until level 20+, however this questline can be started whenever by heading to Fort Dawnguard.
    - **Hearthfire Letter**: Requires completion of [The Forsworn Conspiracy](https://en.uesp.net/wiki/Skyrim:The_Forsworn_Conspiracy), [The Man Who Cried Wolf](https://en.uesp.net/wiki/Skyrim:The_Man_Who_Cried_Wolf), and [Rise in the East](https://en.uesp.net/wiki/Skyrim:Rise_in_the_East).
    - **Dragonborn**: Level 30+ and the completion of [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller).
+
  - **Level Locked Quests**
    - **Level 15+**
      - **Grimsever's Return**: Same as vanilla, but the quest can not be initiated until a later level.
@@ -156,21 +162,24 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
      - **Pieces of the Past**: Same as vanilla, but the courier will not seek the player out until a later level.
      - **The Only Cure**: Same as vanilla, but the quest can not be initiated until a later level.
      - **The Whispering Door**: Same as vanilla, but the quest can not be initiated until a later level.
+     
  - **Other Quest Changes**
     - **The Ebony Warrior** is no longer level locked, but instead requires the completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer), [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment), and [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha).
    - **Whiterun Thaneship** is changed due to [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962). In order to become the Thane of Whiterun and acquire Lydia as a follower, you must complete the quests **Blessings of Nature** and **Bleak Falls Barrow**, purchase Breezehome, and complete the standard thaneship quest (help 10 people).
    - **A Blade in the Dark** has been changed due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704). The Horn of Jurgen Windcaller will be found in Ustengrav, in order to start [A Blade in the Dark](https://en.uesp.net/wiki/Skyrim:A_Blade_in_the_Dark), you must speak to Arngeir and then Farengar to setup a meeting with Delphine.
    - **Season Unending** has been removed, Balgruuf will help you trap Odahviing without requiring the meeting.
    - **The Book of Love** and **Spread the Love** have been swapped in quest order. You will first need to deliver pamphlets to the people of Riften before you can go on the pilgrimage.
+
  - **Creation Club Quests**
    - **Bow of Shadows**: Original quest has been disabled and the Bow of Shadows has been placed as static loot in a reward chest for defeating a Morag Tong assassin.
+   - **Crossbows**: Night Hunter quest is now tied into [Ancient Technology](https://en.uesp.net/wiki/Skyrim:Ancient_Technology).
    - **Chryasmere**: Original quest has been disabled and Chryasmere has been placed as static loot in a [cave near winterhold](https://en.uesp.net/wiki/Skyrim:Bleakcoast_Cave).
    - **Civil War Champions**: Original quest has been disabled and the armors have been redistributed to Imperial and Stormcloak commanders.
-   - **Daedric Mail**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Daedric Mail**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
    - **Divine Crusader**: Reintegrated with [Knight of the North](https://www.nexusmods.com/skyrimspecialedition/mods/45869). Quest guide in the Articles section of the mod page.
-   - **Dwarven Mail**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
-   - **Ebony Plate**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
-   - **Elven Hunter**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Dwarven Mail**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
+   - **Ebony Plate**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
+   - **Elven Hunter**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
    - **Fearsome Fists**: Original quest has been disabled and the armors have been redistributed to NPCs accordingly.
    - **Fishing**: Questline has been removed and the unique items have been redistributed into the world as static loot.
    - **Ghosts of the Tribunal**: Questline has been removed and the items have been redistributed around Solstheim or have been given to the [Dremora Merchant](https://en.uesp.net/wiki/Skyrim:Dremora_Merchant) to sell.
@@ -178,11 +187,11 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Headman's Cleaver**: Original quest has been disabled and the Headman's Cleaver can now be found on a named Bandit Chief holed up [in Falkreath Hold](https://en.uesp.net/wiki/Skyrim:Bilegulch_Mine).
    - **Nordic Jewelry**: Original quest has been disabled and the jewelry can now be found in regular loot and worn by prestigious nords.
    - **Redguard Elite Armaments**: Original quest has been disabled and you can now find the Armor and items worn by Kematu and his group.
-   - **Spell Knight**: Original quest has been disabled and the armor is now craftable as Iron, Steel, or Ebony with the appropriate perk(s).
-   - **Stalhrim Fur**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
-   - **Steel Soldier**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Spell Knight**: In order to start the original quest, the book has been moved to [Southfringe Sanctum](https://en.uesp.net/wiki/Skyrim:Southfringe_Sanctum).
+   - **Stalhrim Fur**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
+   - **Steel Soldier**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
    - **Stendarr's Hammer**: Original quest has been disabled and Stendarr's Hammer can now be found on a Vampire hiding out in [The Rift](https://en.uesp.net/wiki/Skyrim:Dead_Drop_Falls).
-   - **Studded Dragonscale**: Quest is handled by [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647).
+   - **Studded Dragonscale**: Quest has been disabled and armor has been integrated into the world similarly to vanilla variant(s).
    - **The Arms of Chaos**: Original quest has been disabled and the items can now be found scattered across the warlock lairs of Skyrim.  
    - **The Contest**: Original quest has been disabled. The Fists of Randagulf have been given to [Skjor](https://en.uesp.net/wiki/Skyrim:Skjor) amd the Iceblade of the Monarch can now be found guarded by a Spriggan [on Solstheim](https://en.uesp.net/wiki/Skyrim:Headwaters_of_Harstrad).
    - **The Gray Cowl**: Original quest has been disabled and the Gray Cowl can now be found in the [Twilight Sepulcher](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher).
@@ -196,8 +205,8 @@ Fahluaan changes a significant amount of vanilla quests in one way or another in
    - **Hendraheim**: Requires completion of [Glory of the Dead](https://en.uesp.net/wiki/Skyrim:Glory_of_the_Dead). Additionally, read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/98688).
    - **Myrwatch**: Read more on the modpage [here](https://www.nexusmods.com/skyrimspecialedition/mods/97659).
    - **Shadowfoot Sanctum**: Requires being Guildmaster of the Thieves Guild.
+
  - **Modded Quests**
-   - **The Forgotten City**: Requires level 15+.
    - **Wyrmstooth**: Requires level 20+ and completion of [Way of the Voice](https://en.uesp.net/wiki/Skyrim:The_Way_of_the_Voice).
    - **Vigilant**: Requires level 25+ and the completion of [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) and [House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
    - **Glenmoril**: Requires completion of Discerning the Transmundane, [At the Summit of Apocrypha](https://en.uesp.net/wiki/Skyrim:At_the_Summit_of_Apocrypha), Vigilant (any ending), and Sacred Anatomancer (this quest is started in the Ratway after you finish Vigilant, it is suggested you do the "Divine the Future" path).
@@ -209,15 +218,13 @@ This section will try to list the new content focused mods added to the list, an
 
 ### New Quests
 
- - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
  - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849): Read more under the [Quest Changes](#quests-changes) section.
  - [GLENMORIL](https://www.nexusmods.com/skyrimspecialedition/mods/32998): Read more under the [Quest Changes](#quests-changes) section.
  - [UNSLAAD](https://www.nexusmods.com/skyrimspecialedition/mods/11789): Read more under the [Quest Changes](#quests-changes) section.
  - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
- - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179)
  - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+ - [Siege at Icemoth](nexusmods.com/skyrimspecialedition/mods/109541)
  - [Fists of Fury - Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/73835)
- - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494)
  - [Sirenroot - Deluge of Deceit](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
  - [Dragon Hunting - Quest Rewards and Alchemy Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/99193)
  - [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625)
@@ -227,13 +234,14 @@ This section will try to list the new content focused mods added to the list, an
 ### Vanilla Quest Expansions and Edits
 
  - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704): College of Winterhold, Companions, Dawnguard, Main Quest (+Skyrim Unbound patch), and Thieves Guild modules.
+   - In order to become the Arch-Mage of the College you **must** meet the minimum requirements for Ritual Quests before completing the questline. This requirement can be checked (or changed) in the Mod Configuration Menu for the mod.
+   - In order to become the Harbinger of the Companions you **must** meet the minimum skill requirements before completing the questline. These requirements can be checked (or changed) in the Mod Configuration Menu for the mod. 
  - [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300)
  - [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861)
  - [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916)
  - [Silence is Golden](https://www.nexusmods.com/skyrimspecialedition/mods/50581)
  - [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
  - [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)
- - [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815)
  - [Ill Met Bolar's Oathblade](https://www.nexusmods.com/skyrimspecialedition/mods/60994)
  - [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466)
  - [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
@@ -244,18 +252,20 @@ This section will try to list the new content focused mods added to the list, an
  - [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285)
  - [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792)
  - [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+ - [Unamasking Sybille](https://www.nexusmods.com/skyrimspecialedition/mods/109265)
 
 ### Followers
 
- - [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075)
- - [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)
  - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
+ - [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075)
  - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622)
+ - [Light and Shade SE](https://www.nexusmods.com/skyrimspecialedition/mods/77993), Eris will spawn in the Bannered Mare once the player reaches level 5.
+ - [Nessa SE](https://www.nexusmods.com/skyrimspecialedition/mods/77337)
+ - [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)
  - [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
  - Serana Expanded - Dialogue Additions
 
 ## Tips and Help
 
 Due to Fahluaan being a very build-oriented list that rewards proper preparation and varying degrees of min-maxing, newer players may have a difficult time starting out or may feel overwhelmed and uncertain with how they want to build their characters. This section will contain varying community tips and build guides to be expanded over time.
- - The [Fahluaan Build Spreadsheet](https://tinyurl.com/fahluaanbuilds) can be a great place to start out for those looking for a general idea of a character to play.
  - [Builds](https://github.com/Oghma-Infinium/Fahluaan/tree/main/Builds) section of the github has some more up-to-date builds that I have personally played and tweaked, they'll be a bit more involved than the spreadsheet, and I will likely flesh them out more and more over time.

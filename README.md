@@ -78,9 +78,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
 Downloads: ~190 GB  
-Install: ~250 GB  
+Install: ~240 GB  
 Temp Files: ~40 GB (on OS drive)  
-**TOTAL:** ~440 GB  
+**TOTAL:** ~430 GB  
 
  > Wabbajack requires around 30 GB of space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
@@ -237,15 +237,7 @@ Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the
 
 ### Controller and Gamepad Setup
 
-Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
- 1. Under the **Gamepad Support** Separator in MO2, activate the `Fahluaan - Controller Support` mod.
- 2. Once in game, open the Settings > Controls and Reset Controls to default with the `Y` button (or equivalent) on your controller.
- 3. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
-   - [Keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png)
-   - [Gamepad](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png)
- 4. The [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) will likely need some additional configuration to play nicely with controller. To do some open the dMenu using `Home` on your keyboard and change the keybind(s) in the **Mod Config** tab.
-
-If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
+The list currently offers minimal gamepad support, this section will be updated in the future when gamepad support is improved.
 
 ## Playing the List
 

@@ -23,13 +23,15 @@ The following sections detail the **supported** modifications to the list. Any o
 
 This section will cover the `Performance Options` section of the modlist. Due to Fahluaan's relatively good performance, at least in the data that has been collected, the performance options are not extremely robust to keep users from having to download additional LOD Outputs.
 
-Currently the only supported performance modifications include some Performance-oriented ENB and Grass tweaks, which should provide a 20-40% net performance gain, depending on hardware and area, with minimal loss in the visual fidelity of the list. In order to use these Performance tweaks, activate the `Performance Mode` mod under the `Performance Options` separator in MO2 and disable the following mods above it:
+Based on user feedback, the performance options should provide a 20-40% net performance gain, depending on hardware and area (interior vs exterior), with minimal loss in the visual fidelity of the list. In order to use these Performance tweaks, activate the `Performance Mode` mod under the `Performance Options` separator in MO2 and disable the following mods above it:
  - `Tamrielic Grass For ENB Complex Grass`
  - `Veydosebrom Regions - Complex Grass`
  - `Folkvangr for ENB Complex Grass`
  - `Folkvangr Summer Tundra for ENB Complex Grass`
  - `Origins of forest for ENB Complex Grass`
  - `Cathedral - 3D Pine Grass for ENB Complex Grass`
+
+In order to gain some additional performance, you can also deactivate `Enhanced Volumetric Lighting and Shadows (EVLaS)` under the performance Options tab.
 
 ### Insects Begone
 
@@ -41,20 +43,25 @@ This section will cover the following Optional Tweaks that are included as a par
  1. **Yet Another Music Merge - Content Creator Version**: Read more [here](#note-for-content-creators).
  2. **Content Creator Music Patches**: Read more [here](#note-for-content-creators).
  3. **QuickLoot RE - Disable in Combat**: An edited `.toml` file for QuickLoot RE to disable the loot box from appearing while in combat.
- 4. **No ENB Lens Effect**: Disables ENB Lens effect (the frost and rain overlays).
- 5. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
- 6. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
- 7. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
- 8. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
- 9. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
- 10. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
- 11. **ENB Dynamic Cubemaps**: Enable if using Dynamic Cubemap setting in ENB. Dynamic Cubemapes must be enabled **in game** in the ENB GUI.
+ 4. **Show Compass Markers**: Makes it so compass markers are shown before they are discovered.
+ 5. **No ENB Lens Effect**: Disables ENB Lens effect (the frost and rain overlays).
+ 6. **No Survival Camera Effects**: Removes the image space effects added by CC Survival Mode.
+ 7. **Vigilant - No Enemy Blur**: Removes the image space blur effects that some enemies produce in Act 3 of Vigilant.
+ 8. **Lux - Brighter Templates**: Overwrites Lux's base lighting templates with brighter ones, for those who find interiors to be too dark.
+ 9. **V's Blursed RaceMenu Presets**: Brings back some classic meme presets seen in older versions of the list. Optional to enable.
+ 10. **NeverNude**: (Enabled by default), Removes Female nudity from the list, the list does not support male nudity without modifications.
+ 11. **Khajiit Speak Patch**: Patches all Dialogue in the list to act like [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/441).
  12. **Capture Warmer (Dynamic Cubemaps)**: Enable if using Dynamic Cubemap setting in ENB. **WARNING** Can cause camera glitches when changing cells.
  13. **Journeyman - A Fast Travel Overhaul**: Redesigns fast travel, read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/92220) for more info.
  14. **Arena - Harder Easy Spawns**: Easy spawns are always any number between X and 1, where X is 0.75 of the level set by the Encounter Zone, Easy actors are often quite low level. This mod makes it so once you hit level 10, the level range of Easy actor spawns are extended, so they will more often spawn at higher levels.
  15. **Blade and Blunt - Dynamic Difficulty**: Level Based Difficulty Scaling makes incremental changes to your game’s difficulty in the background when you reach levels 10, 20, 30, and 40, to simulate increasing the difficulty of your game by one tier (Adept to Expert; Expert to Master, etc) over the course of your game. You can read more about specific numbers on the [Blade and Blunt modpage](https://www.nexusmods.com/skyrimspecialedition/mods/34549). Note that Dynamic Difficulty **does not** affect Novice or Legendary difficulties.
- 16. **Blade and Blunt - Vanilla Difficult Modifiers**: Restores Vanilla Difficulty Multipliers for those who want an easier experience. Make sure to disable Dynamic Difficulty if you use this mod.
- 17. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable **BEFORE** making a new game.
+ 16. **Fahluaan - Cloak Integration**: Adds cloaks to outfit records of some NPCs so cloaks can be seen in the world. Enable or Disable **BEFORE** making a new game.
+ 17. **Fahluaan - No Killmoves**: Disables Killmoves. Enabled by default.
+
+
+### ENB Dynamic Cubemaps
+
+SoonTM
 
 ### Gamepad Support
 
@@ -110,7 +117,6 @@ Most MCMs will come pre-configured, the following is a list of Mod Configuration
  - **Skyrim Outfit System**: This mod can be used to essentially acheive armor [transmogrification](https://www.merriam-webster.com/dictionary/transmogrify) in Skyrim, read more on the usage on the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42162).
  - **SmoothCam**: Default preset is a slightly modified version of Vanilla Enhanced 2.0.
  - **Ultimate Immersion Toggle**: Hide UI Keybind. (Default: `X`).
- - **Weapon Styles**: If you change where your weapon sheathes via IED, then change the animation here so it matches correctly.
 
 ## Wheeler
 
