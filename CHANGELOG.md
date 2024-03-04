@@ -77,7 +77,7 @@ Key Info
 
 ### Misc. Tweaks
 
- - Cleaned masters on Cloak Integration path.
+ - Cleaned masters on Cloak Integration patch.
 
 </Details>
 
