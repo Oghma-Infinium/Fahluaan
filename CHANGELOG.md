@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.1.1](#211) Release Date: March 4, 2024
 - [2.1.0](#210) Release Date: March 2, 2024
 - [2.0.3](#203) Release Date: February 3, 2024
 - [2.0.2](#202) Release Date: February 2, 2024
@@ -52,6 +53,55 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.1.1
+
+Key Info
+
+ - Save-Safe.
+ - Ignore missing plugin(s).
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Adjusted prices of Bound Weapon spell tomes to be consistent as some were still mistakenly priced as Adept spells despite being Apprentice.
+
+### Bug Fixes
+ 
+ - Orcish Spell Knight Armor now has tempering and crafting recipes.
+ - Fixed floating objects near Rorikstead.
+ - Winter stonecrop will now use the correct asset.
+ - Potentially fixed issue where drawing weapons caused the animation to be played twice while in first person.
+
+### Misc. Tweaks
+
+ - Cleaned masters on Cloak Integration path.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+ - [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979)
+ - [Natural Waterfalls](https://www.nexusmods.com/skyrimspecialedition/mods/87261)
+ - [Saints and Seducers - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/81950)
+ - [The Shivering Bestiary - Summonable ECSS Creatures for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/96056)
+ - [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254)
+ - [Xelzaz - Custom Fully Voiced Argonian Telvanni Follower](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
+ - [Swords of the Sanctum - Spell Knight Expansion and Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/112153)
+ - [Nordic Winds](https://www.nexusmods.com/skyrimspecialedition/mods/112370)
+
+### Added
+
+ - [Lux - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/113002)
+ - [Shouting Provokes Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/112664)
+
+</Details>
 
 ## 2.1.0
 
