@@ -26,11 +26,8 @@ A: It's not freezing, the list has a [mod](https://www.nexusmods.com/skyrimspeci
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
 
-### Q: Why are potions showing on my character?
-A: Because of [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001). If you would like to remove them from your character then press `Left Shift+Backspace` to open the IED menu and remove them from under Display Manager.
-
 ### Q: I can't level up, what do I do?  
-A: You need to sleep in a bed in order to level up. If you do not want to be forced to sleep in a bed, then you may change this option in the Survival Mode Control Panel MCM.
+A: You need to sleep in a bed in order to level up. If you do not want to be forced to sleep in a bed, then you may change this option in the Survival Mode Control Panel MCM or disable Survival Mode.
 
 ### Q: How do I start the main questline?  
 A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to not be the Dragonborn, then you can not proceed with the main questline, doing so will also lock you out of a fair amount of content in the list due to the way quest progression is setup.
@@ -67,12 +64,6 @@ A: This is usually caused by an alternate start mod that adds random items to yo
 ### Q: Can I still use the vanilla favorites menu? I do not like the wheel.
 A: If you're on keyboard press `G` to open up the vanilla favorites menu.
 
-### Q: The marker on my compass doesn't correspond with the map marker!
-A: This is an issue with [CoMAP](https://www.nexusmods.com/skyrimspecialedition/mods/56123) and [CNO](https://www.nexusmods.com/skyrimspecialedition/mods/74484), it's unfixable unless CoMAP updates. Unfortunately I like both mods and want to keep using both mods.
-
-### Q: The map is too bright.
-A: This is a conflict between Flat World Map Frameworks and Seasons of Skyrim. I am working on a fix and reaching out to the relevant authors about it when I have time.
-
 ### Q: Sex?
 A: No.
 
@@ -82,23 +73,9 @@ A: No.
 Solution(s)
  1. Skyrim Outfit System overrides the Armor that is "worn" in Vampire Lord form, but since only the Non-playable armor worn in Vampire Lord form works with Vampire Lord race, the armor that Outfit System visually equips is invisible. Minor issue that is not fixable unless the author of the mod adds some type of smart toggle if you are detected in a VL/WW transformation.
 
-### [Insert NPC] is naked despite having armor in their inventory!
-Solution(s)
- 1. Currently there is no known solution to this as it is a non-reproducible issue with [SPID's](https://www.nexusmods.com/skyrimspecialedition/mods/36869) outfit distribution method from version 6.5 onwards. Unfortunately, the newer versions of SPID have added some much needed functions utilized by other mods, so while this issue is rare, it's entirely unavoidable.
-
 ### Being randomly attacked or arrested by NPCs!
 Solution(s)
  1. open the console, select one of the NPCs, and type `paycrimegold 0 0`
-
-### [Insert Issue with the Civil War]
-Solution(s)
- 1. The civil war is broken in vanilla. I generally suggest not doing it or saving it until the end of a playthrough.
-   > [Blood on the Ice](https://en.uesp.net/wiki/Skyrim:Blood_on_the_Ice), Radiant Thieves' Guild quests that send you to inaccessible houses (like Heimskr's), and certain favor quests are known to break as a result of the Civil War in vanilla.
- 2. Fast traveling after battles can cause issues as the game tends to get stuck in a perpetually battle state.
-
-### Body type won't change when trying to apply a new body through OBody.
-Solution(s)
- 1. This issue should be fixed with versions 4.2.0+ of [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016), however if you still encounter this issue then you should check the [Troubleshooting Guide](https://www.nexusmods.com/skyrimspecialedition/articles/4868).
 
 ### Awakening Quest does not start!
 Soultion(s)
@@ -111,3 +88,11 @@ Solution(s)
 ### Crashing when talking to Azura/Peryite/Augur of Dunlain/[Insert Talking Head Activator]!
 Solution(s)
  1. If you are using the Katana follower mod and you have the quest `Chasing the Current` with the quest stage `Talk to Katana another time`, then talk to Katana to progress to the next stage (`Head to the Drunken Huntsman`) in order to fix the crash.
+
+### Map is very bright!
+Solution(s)
+ 1. This is a conflict between Flat World Map Frameworks and Seasons of Skyrim. It only occurs during specific weather events and I have spoken to both authors about this. It will not be resolved.
+
+### Body type won't change when trying to apply a new body through OBody.
+Solution(s)
+ 1. This issue should be fixed with versions 4.2.0+ of [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016), however if you still encounter this issue then you should check the [Troubleshooting Guide](https://www.nexusmods.com/skyrimspecialedition/articles/4868).

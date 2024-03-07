@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.1.2](#212) Release Date: March 7, 2024
 - [2.1.1](#211) Release Date: March 4, 2024
 - [2.1.0](#210) Release Date: March 2, 2024
 - [2.0.3](#203) Release Date: February 3, 2024
@@ -53,6 +54,61 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.1.2
+
+Key Info
+
+ - Save-safe.
+ - If you are on version 2.1.1, please update for a crash fix.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ 
+ - Steed Stone now gives the appropriate +100 Carry Weight instead of +20.
+ - Critical crash fix.
+ - Fixed some issues with mystic bound weapon animations.
+ - Fixed jumping with two-handed weapons and bows using the wrong animations when the weapon is sheathed.
+ - Fixed torch and shield jumping/sprinting animations.
+ - Fixed landing in mid-air while falling.
+ - Fixed road gap on the border of cells <32,1> and <31,1>.
+ - Fixed bug where carriage drivers would never offer rides.
+
+### Misc. Tweaks
+
+ - Craftable Glenmoril items will no longer show up in the forge until the first quest is completed.
+ - Dagger and shields now use separate animations from sword and shield.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+ - [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
+ - [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+ - [Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)
+ - [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979)
+ - [Comprehensive First Person Animation Overhaul - CFPAO](https://www.nexusmods.com/skyrimspecialedition/mods/87169)
+ - [Riften Docks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40021)
+ - [Swords of the Sanctum - Spell Knight Expansion and Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/112153)
+ - [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
+
+### Added
+
+ - [Skyking Signs](https://www.nexusmods.com/skyrimspecialedition/mods/112902)
+ - [Extended Bandit Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/113168)
+
+### Removed
+
+ - [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481)
+ - [SkyFix SE - HD Blacksmith Signs](https://www.nexusmods.com/skyrimspecialedition/mods/10606)
+
+</Details>
 
 ## 2.1.1
 
