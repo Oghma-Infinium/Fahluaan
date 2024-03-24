@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.1.3](#213) Release Date: March 24, 2024
 - [2.1.2](#212) Release Date: March 7, 2024
 - [2.1.1](#211) Release Date: March 4, 2024
 - [2.1.0](#210) Release Date: March 2, 2024
@@ -54,6 +55,42 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.1.3
+
+Key Info
+
+ - Save-Safe, maintenance patch
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ 
+ - Fixed perk condition issue with unaspected branch of Destruction tree.
+ - Hopefully found a workaround to the disappearing mountains and cliff face issue that occured after a seasons change or a cell detachment.
+ - Fixed issue where wearing Thalmor Elven armor gave female actors an invisible torso.
+ - Fixed the invisible chair marker issue in the Bannered Mare
+
+### Misc. Tweaks
+
+ - Disabled po3 tweaks' validate screenshot location setting in hopes of stopping a CTD issue some people were facing.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - The Dragon Cult
+ - Mundus
+
+### Removed
+
+ - Elven Armors and Weapons Retexture SE - Practical Female Armors - AMB Variants Patch
+
+</Details>
 
 ## 2.1.2
 
