@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.1.4](#214) Release Date: April 9, 2024
 - [2.1.3](#213) Release Date: March 24, 2024
 - [2.1.2](#212) Release Date: March 7, 2024
 - [2.1.1](#211) Release Date: March 4, 2024
@@ -55,6 +56,30 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.1.4
+
+Key Info
+
+ - Save-Safe, maintenance patch
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ 
+ - Fixed an ice shader crash in Unslaad
+ - Fixed the AM/PM text not showing next to the time
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+ - Vey Alaxon - Thaumaturgy and Elven Gilded Expansion
+</Details>
 
 ## 2.1.3
 
