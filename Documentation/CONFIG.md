@@ -15,11 +15,29 @@
 
 ---
 
-## Optional Addons
+- [Optional Addons](#optional-addons)
+  - [Performance Options](#performance-options)
+  - [Insects Begone](#insects-begone)
+  - [Optional Tweaks](#optional-tweaks)
+  - [Gamepad Support](#gamepad-support)
+    - [Changing Keybinds](#changing-keybinds)
+  - [Ultrawide Patches](#ultrawide-patches)
+  - [Changing Resolution](#changing-resolution)
+  - [Skyrim Upscaler](#skyrim-upscaler)
+  - [In-Game MCM options](#in-game-mcm-options)
+  - [Wheeler](#wheeler)
+    - [Wheel Editing](#wheel-editing)
+      - [Creation](#creation)
+      - [Insertion](#insertion)
+      - [Ordering](#ordering)
+      - [Deletion](#deletion)
+
+
+# Optional Addons
 
 The following sections detail the **supported** modifications to the list. Any other modifications should be discussed in the `#fahluaan-modifications` channel of the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server.
 
-### Performance Options
+## Performance Options
 
 This section will cover the `Performance Options` section of the modlist. Due to Fahluaan's relatively good performance, at least in the data that has been collected, the performance options are not extremely robust to keep users from having to download additional LOD Outputs.
 
@@ -33,11 +51,11 @@ Based on user feedback, the performance options should provide a 20-40% net perf
 
 In order to gain some additional performance, you can also deactivate `Enhanced Volumetric Lighting and Shadows (EVLaS)` under the performance Options tab.
 
-### Insects Begone
+## Insects Begone
 
 For those with arachnophobia and/or entomophobia, the `Insects Begone` Separator contains some mods to remove most of the spider and insect adjacent models and enemies from the list. Some aspects of the list's vision are compromised to support these tweaks.
 
-### Optional Tweaks
+## Optional Tweaks
 
 This section will cover the following Optional Tweaks that are included as a part of the modlist. Please note that if you do any of these tweaks, it is in your best interest to share this information when reporting any potential bugs that you encounter when playing the modlist.
  1. **Yet Another Music Merge - Content Creator Version**: Read more [here](#note-for-content-creators).
@@ -59,36 +77,35 @@ This section will cover the following Optional Tweaks that are included as a par
  17. **Fahluaan - No Killmoves**: Disables Killmoves. Enabled by default.
 
 
-### ENB Dynamic Cubemaps
+## Gamepad Support
 
-SoonTM
+Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. Refer to the [Changing Keybinds](#changing-keybinds) section for gamepad binds that need to be changed ***outside of the game***. 
 
-### Gamepad Support
-
-Fahluaan offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
+In order to set up Fahluaan's gamepad support correctly, please follow these steps:
  1. Under the **Gamepad Support** Separator in MO2, activate the `Fahluaan - Controller Support` mod.
  2. Once in game, open the Settings > Controls and Reset Controls to default with the `Y` button (or equivalent) on your controller.
  3. Refer to the controlmap and set up your binds in the in-game Mod Configuration Menus as some of these can not be set in advanced.
-   - [Keybinds](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Keybinds.png)
-   - [Gamepad](https://github.com/Oghma-Infinium/Fahluaan/blob/main/images/Gamepad.png)
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Keybinds.png)
+
  4. The [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) will likely need some additional configuration to play nicely with controller. To do some open the dMenu using `Home` on your keyboard and change the keybind(s) in the **Mod Config** tab.
 
-If you wish to swap back to Keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to Gamepad.
+If you wish to swap back to keyboard and mouse afterwards, just activate the `Backup Default Control Map` mod in MO2, and deactivate it if you wish to swap back to gamepad.
 
-Please note that I (aljo) do not own a controller. The gamepad config is provided as-is by other users and helpers and may not be perfect.
+*****NOTE**: I (aljo) do not own a controller. The gamepad config is provided as-is by other users and helpers and may not be perfect.***
 
-### Ultrawide Patches
+### Changing Keybinds
+
+This section is going to be short and basic and only cover keybinds that must be changed ***outside of the game***. Please refer the [this](https://ck.uesp.net/wiki/Input_Script) page for the DXScanCodes used by most mods.
+
+1. **Dual Wield Blocking**: Open the mod `Dual Wield Parrying - Settings` and locate the `DualWieldParryingSKSE.ini` file.
+2. **Dodging**: Open the mod `TK Dodge - Settings` and locate the `TK Dodge RE.ini` file.
+
+## Ultrawide Patches
 
 Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
 Please note that I (aljo) do not own a widescreen monitor. The ultrawide settings and additional mods are what have been said to work based on user input and may not be perfect.
-
-## Changing Keybinds
-
-This section is going to be short and basic and only cover keybinds that must be changed OUT OF GAME, I trust that you will be able to figure out the other keybinds swaps in game. Please refer the [this](https://ck.uesp.net/wiki/Input_Script) page for the DXScanCodes used by most mods.
-
-1. **Dual Wield Blocking**: Open the mod `Dual Wield Parrying - Settings` and locate the `DualWieldParryingSKSE.ini` file.
-2. **Dodging**: Open the mod `TK Dodge - Settings` and locate the `TK Dodge RE.ini` file.
 
 ## Changing Resolution
 
