@@ -16,6 +16,7 @@
 ---
 
 # Changelog
+- [2.1.5](#215) Release Date: April 16, 2024
 - [2.1.4](#214) Release Date: April 9, 2024
 - [2.1.3](#213) Release Date: March 24, 2024
 - [2.1.2](#212) Release Date: March 7, 2024
@@ -56,6 +57,33 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+- 
+## 2.1.5
+
+Key Info
+
+ - Save-Safe, maintenance patch
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ 
+ The following bug(s) were fixed per Simon's changelogs on their mods:
+ - Added a missing keyword to Radiant Sunlight Rune
+ - Fixed an issue where the Armor Rating scaling was not correctly swifting to post-soft cap numbers
+ 
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Blade and Blunt - A Combat Overhaul
+ - Mysticism - A Magic Overhaul
+ - Gourmet - A Cooking Overhaul
+</Details>
 
 ## 2.1.4
 
