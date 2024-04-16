@@ -72,6 +72,7 @@ Key Info
  The following bug(s) were fixed per Simon's changelogs on their mods:
  - Added a missing keyword to Radiant Sunlight Rune
  - Fixed an issue where the Armor Rating scaling was not correctly swifting to post-soft cap numbers
+ - Fixed a bug where bashing (and possibly a few other other sources of "weird" damage, such as Ordinator's bear traps) dealt much more damage than intended when an enemy's Armor Rating fell below 0
  
 </Details>
 
