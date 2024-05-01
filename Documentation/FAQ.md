@@ -96,3 +96,7 @@ Solution(s)
 ### Body type won't change when trying to apply a new body through OBody.
 Solution(s)
  1. This issue should be fixed with versions 4.2.0+ of [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016), however if you still encounter this issue then you should check the [Troubleshooting Guide](https://www.nexusmods.com/skyrimspecialedition/articles/4868).
+
+### [Insert Male NPC] looks like he has tits / has a really big chest and arms!
+Solution(s)
+ 1. Change their OBody preset, do not report this as an issue to me, I'm tired of hearing about it.
