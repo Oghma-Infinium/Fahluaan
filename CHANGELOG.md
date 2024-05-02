@@ -57,7 +57,7 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
-- 
+
 ## 2.1.5
 
 Key Info
