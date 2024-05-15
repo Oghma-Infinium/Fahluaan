@@ -9,13 +9,15 @@
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/ADDONS.md">Addons</a> |
-  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> | 
+  <a href="https://ko-fi.com/aljoxo">Ko-fi</a> |
   <a href="https://www.patreon.com/aljoxo">Patreon</a> ]
 </p>
 
 ---
 
 # Changelog
+
+- [2.2.0](#220) Release Date: May 14, 2024
 - [2.1.5](#215) Release Date: April 16, 2024
 - [2.1.4](#214) Release Date: April 9, 2024
 - [2.1.3](#213) Release Date: March 24, 2024
@@ -50,13 +52,50 @@
 - [1.2.0](#120) Release Date: August 6, 2023
 - [1.1.0](#110) Release Date: August 5, 2023
 - [1.0.1](#101) Release Date: August 4, 2023
-- [1.0.0](#095) Release Date: August 4, 2023
+- [1.0.0](#100) Release Date: August 4, 2023
 - [0.9.4](#094) Release Date: July 28, 2023
 - [0.9.3](#093) Release Date: July 27, 2023
 - [0.9.2](#092) Release Date: July 25, 2023
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.2.0
+
+Key Info
+
+ - **This update is NOT save game compatible.**
+ - This update is primarily to get the installable again and to fix a crash issue
+  
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed a crash when encountering the Cure Injury spell tome
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+- Vanilla Hair Remake SMP
+- Modular SMP Hairstyles
+- Chooey's Modular SMP Hairstyles Edit
+- Starfrost
+  
+### Added 
+- Follower Distance Tweaks (Kaidan NO EE Version)
+
+### Removed
+- BWB HSF Kaidan 2 Extended Edition
+- BWB Kaidan 2 Lux Patch
+- Follower Distance Tweaks (Kaidan EE Version)
+
+</Details>
 
 ## 2.1.5
 
@@ -68,12 +107,12 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  The following bug(s) were fixed per Simon's changelogs on their mods:
  - Added a missing keyword to Radiant Sunlight Rune
  - Fixed an issue where the Armor Rating scaling was not correctly swifting to post-soft cap numbers
  - Fixed a bug where bashing (and possibly a few other other sources of "weird" damage, such as Ordinator's bear traps) dealt much more damage than intended when an enemy's Armor Rating fell below 0
- 
+
 </Details>
 
 <Details>
@@ -96,7 +135,7 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  - Fixed an ice shader crash in Unslaad
  - Fixed the AM/PM text not showing next to the time
 
@@ -120,7 +159,7 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  - Fixed perk condition issue with unaspected branch of Destruction tree.
  - Hopefully found a workaround to the disappearing mountains and cliff face issue that occured after a seasons change or a cell detachment.
  - Fixed issue where wearing Thalmor Elven armor gave female actors an invisible torso.
@@ -157,7 +196,7 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  - Steed Stone now gives the appropriate +100 Carry Weight instead of +20.
  - Critical crash fix.
  - Fixed some issues with mystic bound weapon animations.
@@ -216,7 +255,7 @@ Key Info
  - Adjusted prices of Bound Weapon spell tomes to be consistent as some were still mistakenly priced as Adept spells despite being Apprentice.
 
 ### Bug Fixes
- 
+
  - Orcish Spell Knight Armor now has tempering and crafting recipes.
  - Fixed floating objects near Rorikstead.
  - Winter stonecrop will now use the correct asset.
@@ -255,7 +294,7 @@ Key Info
 Key Info
 
  - Not Save-Safe.
- - Controversy Update. 
+ - Controversy Update.
  - Many changes were made in order to make the list easier to be maintained in the long run, as well as maintaining a higher consistent quality.
  - Significant amount of file space optimization.
  - Reorganization of several mods in Mod Organizer and a sanity check on the visual section of the modlist.
@@ -269,7 +308,7 @@ Key Info
 
 ### Balancing Changes
 
- - Fixed the exploit where you could spam Courage-type Illusion spells in towns and inns to quickly farm Illusion skill. (A big thanks to [Simon](https://www.nexusmods.com/skyrimspecialedition/users/67410746) for giving me the method to implement this). 
+ - Fixed the exploit where you could spam Courage-type Illusion spells in towns and inns to quickly farm Illusion skill. (A big thanks to [Simon](https://www.nexusmods.com/skyrimspecialedition/users/67410746) for giving me the method to implement this).
  - Augmented Flames, Frost, Shock, and Raw Power perks changed to require level 20/60 Destruction (was 30/70).
  - Firebrand, North Wind, and Unstable Current perks changed to require level 40/90 Destruction (was 60/90).
  - Execution perk changed to require level 40/90 Destruction (was 80/100).
@@ -278,7 +317,7 @@ Key Info
  - Spell Surge perk changed to require level 30 Destruction (was 20).
  - Spell Surge now reduces the cost of Dual Casting by 20% (was 25%).
  - Impact perk changed to require level 70 Destruction (was 40).
-    - The changes to Spell Surge and Impact were done to fill the new gaps at level 30 and 70 perks (as Augment X moved to 20/60 for consistency with Melee Weapon Specialization perks) and in order to nerf Destruction mages because they vastly overperform at every stage of character progression. 
+    - The changes to Spell Surge and Impact were done to fill the new gaps at level 30 and 70 perks (as Augment X moved to 20/60 for consistency with Melee Weapon Specialization perks) and in order to nerf Destruction mages because they vastly overperform at every stage of character progression.
  - Added Elemental Veil perk. Requires 60 Destruction. Elemental Cloak spells are twice as strong.
  - Empowered Ward perk changed to require level 30 Restoration (was 20).
  - Divine Glory perk changed to require level 20/60 Restoration (was 30/70).
@@ -307,15 +346,15 @@ Key Info
  - Companion's Helmet now increases Health by 20 (was 25).
  - Companion's Boots now increase Stamina Regeneration by 25% (was increase Stamina by 25).
  - Armor of the Companions is now disenchantable.
- - Stamina now regenerates 50% slower while casting a spell. 
+ - Stamina now regenerates 50% slower while casting a spell.
  - Steed Stone now makes sprinting cost no Stamina while out of combat and increases Carry Weight by 100 (was +20% Movement Speed and +100 Carry Weight).
  - Lover Stone now also increases damage taken while casting a spell.
  - Bretons' major skill is now Alteration (was Conjuration).
  - Orcs' major skill is now Smithing (was Heavy Armor).
  - Agent class now also reduces the stamina cost of sneaking by 25%.
  - Acrobat class now also reduces the cost of sprinting by 50%.
- - Monk class now increases base unarmed damage by 5 points instead of by 25%. 
-    - This is a 20% buff for Khajiit and Argonians (or Werewolves) and a 60% buff for all Human and Elf races at level 1. 
+ - Monk class now increases base unarmed damage by 5 points instead of by 25%.
+    - This is a 20% buff for Khajiit and Argonians (or Werewolves) and a 60% buff for all Human and Elf races at level 1.
     - Flat unarmed damage is a much stronger way of implementing this buff and the previous iteration of Monk was a flat out less desirable choice than picking a class like Barbarian.
  - Eris will only appear in the Bannered Mare after level 5.
  - Removed 2 Spider Spawns before the Web Mother room in Bleak Falls Barrow.
@@ -325,7 +364,7 @@ Key Info
  - Reduced Arch-Mage Ritual quest requirement from 2 to 1.
 
 ### Bug Fixes
- 
+
  - Fixed Windcaller (Stormcrown perk) unintentionally affecting Werewolf howls.
  - Fixed Aspen trees and Fall Forest Shrubes using the wrong seasonal swaps.
  - Fixed typo in `FlamesOfColdharbourAtroForge_FLM.ini` that made Coldfire spells impossible to craft at the Atronach Forge.
@@ -363,9 +402,9 @@ Key Info
  - Elven Gilded Armor now has a distinct look from regular Elven Armor.
  - Added Elven Gilded Helmet, Gauntlets, and Boots to match the new Elven Gilded Armor, each with their own new enchanted sublists.
  - Renamed Master spells from [Darenii](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files)'s magic mods. I stole a significant amount of these names (and inspiration in general) from [Slampire](https://www.nexusmods.com/skyrimspecialedition/users/55046777?tab=user+files).
- - Stamina cost of sprinting was completely reimplemented. 
-    - Sprinting costs 8 Stamina by default. 
-    - Each piece of Light Armor increases the cost of sprinting by 0.5 Stamina. 
+ - Stamina cost of sprinting was completely reimplemented.
+    - Sprinting costs 8 Stamina by default.
+    - Each piece of Light Armor increases the cost of sprinting by 0.5 Stamina.
     - Each piece of Heavy Armor increases the cost of sprinting by 1 Stamina.
  - Improved appearance of Dead Marsh Mushrooms.
  - Rebuilt several HIMBO Creation Club Bodyslides.
@@ -389,7 +428,7 @@ Key Info
 <summary>Changes</summary>
 
 ### Updated
- 
+
  - xLodGen Output
  - TexGen Output
  - Grass Resources
@@ -650,7 +689,7 @@ Key Info
  - Nerfed the Sneak XP gains from stealing items by 20%.
 
 ### Bug Fixes
- 
+
  - Reduced scale of REFR `00057785` by ~15% to fix clipping issue with a Lux Via Brazier near Falkreth.
  - Removed Distinct Interior edits from the Vilemyr Inn (`IvarsteadVilemyrInn`) to fix clipping issues with some assets.
 
@@ -706,7 +745,7 @@ Key Info
  - Bound Battleaxe, Bow, Greatsword, and Warhammer are now Apprentice level spells (was Adept).
 
 ### Bug Fixes
- 
+
  - Changed XCWT record in cells <-19,16>, <20,-17>, <25,-16>, <18,-17>, <17,-17>, <21,-16>, <18,-16>, <25,-17>, <24,-17>, <25,-18>, <24,-18>, <26,-19>, <25,-21>, <25,-19>, and <26,-22> from `RiverWaterFlow` to `GeirWater`.
  - Changed XCWT record in cells <29,-20>, <31,-21>, <30,-21>, <29,-21>, <28,-21>, <31,-22>, <28,-22>, <39,-25>, <38,-25>, <37,-25>, <33,-25>, <32,-25>, <39,-26>, <38,-26>, <37,-26>, <36,-26>, <35,-26>, <33,-23>, <32,-23>, <38,-24>, <37,-24>, <33,-24>, <32,-24>, <42,-25>, <41,-25>, <40,-26>, <42,-23>, <41,-24> from `RiverWaterFlow` to `HonrichWater`.
  - Changed XCWT record in cells <-34,6>, <-38,2>, <-39,2>, <-39,1>, <-41,0>, <-33,7>, <-34,5>, <-35,5>, <-36,4>, <-36,3>, <-36,2>, <-36,1>, <-34,0>, <-35,0>, <-36,0>, <-39,0>, <-40,0>, <-33,-1>, <-34,-1>, <-35,-1>, <-33,-2>, <-32,7>, <-32,0>, <-29,9>, <-30,9>, <-31,8>, <-32,8>, <-32,-1>, <-31,-2>, <-32,-2>, and <-31,-3> from `RiverWaterFlow` to `MarkarthWaterFlow`.
@@ -796,7 +835,7 @@ Key Info
  - Gladiator's Shield now has Reflect Damage enchantment instead of Fortify Blocking, in addition to Fortify Health.
 
 ### Bug Fixes
- 
+
  - Adjusted Z-axis height of a Brazier in Cell <8,4> near Lorieus farm.
  - Adjusted Z-axis height of COTN_RockBridge2 in Cell <-29,10> near Markarth.
  - Removed Parallax flag and textures from `WRSkyforge01.nif` and the corresponding `WIN` and `SUM` variants due to warping.
@@ -870,7 +909,7 @@ Key Info
  - Reduced the number of quests it takes to progress the Companion's storyline.
  - Updated the classifications and effects of Remiel's potions and poisons.
  - The St. Jiub shrine in Solstheim now gives a Pilgrim related buff instead of being useless. Read about it on the Gameplay Guide.
- - Nerfed the gear that can be obtained from the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest if you side with [Saadia](https://en.uesp.net/wiki/Skyrim:Saadia) (or otherwise kill [Kematu](https://en.uesp.net/wiki/Skyrim:Kematu)). 
+ - Nerfed the gear that can be obtained from the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest if you side with [Saadia](https://en.uesp.net/wiki/Skyrim:Saadia) (or otherwise kill [Kematu](https://en.uesp.net/wiki/Skyrim:Kematu)).
  - Reduced the cost of freeing the Alik'r prisoner in the [In My Time of Need](https://en.uesp.net/wiki/Skyrim:In_My_Time_Of_Need) quest.
  - Rebalanced Divine Crusader Weapons.
  - Rebalanced enchantments on enchanted Dragonbone Mail gear.
@@ -935,7 +974,7 @@ Key Info
  - Buffed Bound Weapons Conjuration experience gains.
 
 ### Bug Fixes
- 
+
  - (Katana) Corrected "Confront River" not getting marked as completed.
  - Gladiator helmet no longer tunrs your head invisible as an Argonian, Khajiit, or Orc.
  - Acrobat class now gives the intended 50 Carry Weight instead of 100.
@@ -944,8 +983,8 @@ Key Info
  - Completion of Daedric quests no longer rewards perk points.
  - Gift of Charity no longer gives 10% experience, instead giving the intended 5% experience.
  - Major Gift of Charity (added by BUVARP) now gives +5% experience but for 5x the duration of the normal buff.
- - Raw Beef no longer incorrectly has the `MAG_FoodCorrectorEffect`. 
- - Cooked Beef now correctly has the `MAG_FoodCorrectorEffect`. 
+ - Raw Beef no longer incorrectly has the `MAG_FoodCorrectorEffect`.
+ - Cooked Beef now correctly has the `MAG_FoodCorrectorEffect`.
  - Animal Senses (Werewolf Night Eye) now has a tooltip.
  - Fixed Thieves Guild Nocturnal shrine.
  - Fixed Ritual Master's outfit distribution.
@@ -1044,7 +1083,7 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  - Fixed stuttering when using Conjure Ancestral Guardian and Ancestral Wizard spells.
  - Added missing mesh for Torygg's War Horn.
  - Fixed incorrect shader flags on ApoUrn01 and 02 nifs.
@@ -1084,12 +1123,12 @@ Key Info
 
 ### Balancing Changes
 
- - Bonelord Armor (Enchanted CC Dragonscale) is no longer disenchantable. 
+ - Bonelord Armor (Enchanted CC Dragonscale) is no longer disenchantable.
  - Woodsman's gear (Enchanted CC Elven Hunter) is no longer disenchantable.
  - Miraak's Dragon Aspect shout now uses the same effects (and magnitudes) as the Player version, so he will no longer have 100% Magic Resist when his Dragon Aspect and Flesh Spell are active at the same time.
 
 ### Bug Fixes
- 
+
  - Fixed neck gaps female actors had when wearing Hide, Fur, or Studded armor.
  - Fixed Luna Moths missing textures.
  - Necromancer Robes and Hoods from Necromantic Grimoire (CC) are no longer disenchantable.
@@ -1134,7 +1173,7 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  - Fine Leather Backpack now properly shows up when equipped.
  - Katanas, Daggers, Maces, and Spears should now have their own appropriate, separate animations. The reason this is under [Bug Fixes](#bug-fixes) is because them not having them was a wabbajack compilation issue.
  - Battleaxe and warhammer animations no longer incorrectly play when the weapon is sheathed.
@@ -1181,7 +1220,7 @@ Key Info
  - Brought Lord's Mail value, Armor Rating, and Weight in line with Ebony Mail.
 
 ### Bug Fixes
- 
+
  - Fixed missing eyebrow textures for some NPCs.
 
 ### Consistency Tweaks
@@ -1253,7 +1292,7 @@ Key Info
  - Edited forsworn and hagraven enemies added by [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494) to be consistent with other forsworn enemies.
 
 ### Bug Fixes
- 
+
  - Removed a duplicate Fixed Mesh Lighting download.
  - Removed alpha from `dlc02stalhrimoreouter_m.dds` due to texture bug it caused.
  - Removed Imperial Dragon Cloak and Storm-Bear Cloak from the Civil War Champion's container. These items were not intended to be acquirable.
@@ -1506,7 +1545,7 @@ Key Info
  - Reworked Master Necromancer Robes and Hood effect and made the +1 zombie bonus a set bonus.
 
 ### Bug Fixes
- 
+
  - (Hopefully) fixed texture mapping issues on Werewolves.
  - Fixed Xander's Hair Texture, for real this time, I think.
  - Fixed missing textures on male version of Lord's Mail. I'm not sure why it was missing textures in the previous version, but it's fixed now.
@@ -1545,7 +1584,7 @@ Key Info
  - NPCs React To Necromancy - No Consequences Patch
  - Hagraven Houses - Animated
 
-### Removed 
+### Removed
 
  - Madmen - Leveled List Difficulty Addon
 
@@ -1563,7 +1602,7 @@ Key Info
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
- 
+
  - The enchanting perk Seeker now applies to scrolls for Regeneration and Attunement spells.
  - Fixed an issue where friendly Flame Atronachs would explode on death under certain conditions.
  - Fixed an issue with Rapid Regeneration having incorrect conditions for Repose.
@@ -1606,18 +1645,18 @@ Key Info
 
 <Details>
 <summary>Patch Notes</summary>
- 
+
 ### Balancing Changes
 
  - Disabled [Scrambled Bugs'](https://www.nexusmods.com/skyrimspecialedition/mods/43532) Follower (`teammates`) and Commanded Actor (`commandedActors`) difficulty mulitplier patch (`difficultyMultipliers`) as it overly punished conjuration builds and made followers much weaker than intended.
  - Removed Wildfire, Deep Freeze, and Power Surge from non-boss NPCs. This change was made to reduce the amount of times the player could be one-shot from 50%.
- - Removed Curse Binging and Rank 2 of Chaos Binding from NPCs. This change was made to reduce the occassional one-shots that could be experienced against bound weapon wielding enemies, especially due to how inconsistent they could occur, while also aimed to bring the damage these enemies deal more in line with other enemy sub-types. 
+ - Removed Curse Binging and Rank 2 of Chaos Binding from NPCs. This change was made to reduce the occassional one-shots that could be experienced against bound weapon wielding enemies, especially due to how inconsistent they could occur, while also aimed to bring the damage these enemies deal more in line with other enemy sub-types.
  - Dragon Rising and Bleak Falls Barrow now give perk points on completion, bringing total number of perk points to be acquired from quests to 25.
  - Adjusted Vampire Hours from 7pm to 5am to 7pm to 6am.
  - Reduced value of Brawler's Gauntlets. Next major update I am going to look into reworking their function.
 
 ### Bug Fixes
- 
+
  - Added missing left hand nodes to some weapons that were missing them.
  - Removed custom texture set from Hearthfire's Potato Bread and BS Bruma's Rice Bread.
  - Fixed texture set not applying on Bruma Butter and Hearthfire Butter.
@@ -1627,7 +1666,7 @@ Key Info
  - Fixed Lob's facegen mesh.
  - Fixed invalid FormID in Children of the Pariah.
  - "Suprise me." dialogue option will no longer start every available bounty quest instead of a random one.
- - Potential fix for CTD that sometimes occurred when starting every available bounty quest at once. 
+ - Potential fix for CTD that sometimes occurred when starting every available bounty quest at once.
  - Fixed Katana's scene not triggering in the Frozen Hearth.
  - Fixed an issue with River in the final fight in the Chasing the Current quest (Katana).
  - Added missing temper recipes for Companion's Armor (set).
@@ -1637,9 +1676,9 @@ Key Info
  - Fixed filepath typo in `Praedy's College of Winterhold - Patches and Addons` for `WinterHoldWindowMetal_EM.dds` and `WinterHoldWindowMetal_N.dds`
  - Removed a Nirnroot in the Whiterun tundra that was inside of a structure, causing it to be unobtainable.
  - Fixed issue where Bound Bow's flame effect stopped animating for the remaining duration after you fired the bow once.
- 
+
 ### Consistency Fixes
- 
+
  - Recolored torch wood.
  - Hid some textures that were overwriting KS Salt and Wind retexture, causing some hairs to have the incorrect texture.
  - Reworked Flame, Shock, and Frost Cloak and Stendarr's Aura visuals to be less blinding in first person.
@@ -1670,7 +1709,7 @@ Key Info
  - Katana - Journey in the Shadows
  - aljos Apothecary Patches
  - Mythic Dawn Armour 3BA HDT-SMP
- - JS Unique Utopia SE - Daggers 
+ - JS Unique Utopia SE - Daggers
  - Improved Follower Dialogue - Lydia
  - Narrative Gameplay Consistent Dialogue Tweaks
  - Flames of Coldharbour
@@ -1687,7 +1726,7 @@ Key Info
  - Camera Follows
 
 ### Added
- 
+
  - Dynamic Activation Key
  - Dismiss Friendly Conjured Creatures
  - The Eyes of Beauty - Vampire Eyes AI Remastered - Standalone
@@ -1766,7 +1805,7 @@ Info
  - Aptitude - A Minimalistic Class Mod
 
 ### Added
- 
+
  - Disk Cache Enabler
  - Spaghetti's Faction Halls - Sky Haven Temple
  - Riverwood Trader Is A Mess
@@ -1817,7 +1856,7 @@ Info
     - Reworked Bounty rewards again.
     - Serpent Stone should now grant +50% more poison uses instead of +2 additional hits.
     - Changed the malus on Master Necromancer's Robes.
- - __Bug Fixes:__ 
+ - __Bug Fixes:__
     - Fixed issue where entering Quicksilver Mine caused the player to get stuck in a void.
     - Fixed the selected options in Two-Handed and Ranged subtypes not being saved in Skyrim Unbound start.
     - Fixed first person Katana animation being used under the incorrect conditions.
@@ -1995,7 +2034,7 @@ Info
  - The Watcher in the midden depths now gives an actual shrine buff.
  - Nerfed Clavicus Vile to bring Scroll builds more inline with other builds in terms of end-game damage output. They are still the highest DPE builds possible by a solid margin.
  - Changed Ysolda's OBody distribution as her current distribution had some gaps due to the bodyslided outfit. This change will not take effect on existing games.
- - Adjusted some dialogue conditions surrounding the completion of the College questline and the title of Arch-Mage. 
+ - Adjusted some dialogue conditions surrounding the completion of the College questline and the title of Arch-Mage.
  - (Potentially) Fixed werewolf texture issue.
  - Rebalanced Afflicted Vile Vapors Ability to better reflect other poison spells and abilities.
  - Shield spells (Master level shell spells) buffed from 75% Resist to 100% Resist (75% resist is still cap). This change is made to allow certain builds to better offset certain debuffs they may have to take.
@@ -2104,7 +2143,7 @@ Info
 ## 1.3.0
 
 Info
- 
+
  - Conflict check over the entire list, cleaned up (a lot of) errors.
  - Unslaad 3.0 Update.
  - Seasons of Skyrim Added.
@@ -2137,19 +2176,19 @@ Info
  - Added light variants of the Volkihar Knight armor to be crafted. They require Glass Smithing and completion of Dawnguard.
  - Fixed invisible meshes on some unique items (this might have only been a pre-release issue).
  - The Spell Absorb visual was removed, due to more enemy types having spell absorb now and the visual being very annoying and triggering too often in some cases. The player will still be alerted that enemies "resisted" a spell when absorption occurs.
- - Player is no longer randomly assigned an OBody preset in racemenu. 
+ - Player is no longer randomly assigned an OBody preset in racemenu.
 
 <Details>
 
 ### Updated
- 
+
  - UNSLAAD
  - Unslaad Voiced - English Addon SE
  - Unslaad - Silent Translation SE
  - Fahluaan List Outputs
  - Keyword Item Distributor (KID)
  - Base Object Swapper
- - COIN - Coins of Interesting Natures 
+ - COIN - Coins of Interesting Natures
  - Slampire's Creation Cave - CC Reintegration
  - College of Winterhold - Quest Expansion
  - Simplicity of Snow
@@ -2192,14 +2231,14 @@ Info
  - LOD Model Library for DynDOLOD
  - Vulcano
  - Gore
- - Icy Mesh Remaster 
+ - Icy Mesh Remaster
  - dMenu
  - Skyrim Unbound Reborn (Alternate Start)
  - Remiel
  - Cathedral 3D Mountain Flowers -Base Object Swapper
  - NPC Stuck in Bleedout fix
  - Ambient Bird Sounds Expanded
- - OBody NG 
+ - OBody NG
  - OBody NG - Settings Loader
  - Artifacts of the Ancestors
  - aljos Apothecary Patches
@@ -2213,7 +2252,7 @@ Info
  - Environs - Hroggar's House
  - Environs - The Ruined Tundra Farmhouse
  - Dragon War - A Dragon Overhaul
- - Catir Club - Goldbrand 
+ - Catir Club - Goldbrand
  - Particle Patch for ENB
  - Sharpen Other Swords II - AnimObject Swapper
  - C.O.I.N.
@@ -2284,7 +2323,7 @@ Info
  - Open Animation Replacer - IED conditions
  - Weapon Styles for IED
  - Twilight Princess Armor Light Version
- - Immersive Equipment Displays - Extra Skeleton Nodes 
+ - Immersive Equipment Displays - Extra Skeleton Nodes
  - Capitals and Towns of Skyrim
  - Capitals and Towns of Skyrim - Snow Fix
  - Juniper's Fort Dawnguard
@@ -2444,7 +2483,7 @@ Sorry, ***this** is the last update. Save in an interior before updating. For th
 <Details>
 
 ### Updated
- 
+
  - DynDOLOD 3 Alpha
  - DynDOLOD DLL NG
 
@@ -2468,7 +2507,7 @@ Save Safe.
 <Details>
 
 ### Updated
- 
+
  - Unique Markarth Doors - Security Overhaul SKSE
  - Enemies Respect Encounter Zones
  - Survival Mode Improved - SKSE
@@ -2495,7 +2534,7 @@ Hotfix, GIHB (god i hate bingus). Save Safe.
 <Details>
 
 ### Updated
- 
+
  - Starfrost - A Survival Overhaul
 
 </Details>
@@ -2522,7 +2561,7 @@ Probably not save-safe. 90% not save-safe.
 <Details>
 
 ### Updated
- 
+
  - Fahluaan - Lodgen Output
  - Fahluaan - TexGen Output
  - Fahluaan - DynDOLOD Output
@@ -2827,7 +2866,7 @@ Should be Save Safe.
 <Details>
 
 ### Updated
- 
+
  - Environs - Abandoned Abodes
  - powerofthree's Papyrus Extender
  - Embers XD
@@ -2860,7 +2899,7 @@ Recompiled for gallery and updated one mod.
 <Details>
 
 ### Updated
- 
+
  - Environs - Abandoned Abodes
 
 </Details>
@@ -2869,7 +2908,7 @@ Recompiled for gallery and updated one mod.
 
 ### Info
 
-Probably **not** Save Safe, sorry. Minor Fixes and some updates. 
+Probably **not** Save Safe, sorry. Minor Fixes and some updates.
 
  - Racial Bonuses have been changed, read more on the [Aptitude mod page](https://www.nexusmods.com/skyrimspecialedition/mods/96034).
  - Locked fps at 61 by default. You can undo this in the ENB menu.
@@ -2907,7 +2946,7 @@ Probably **not** Save Safe, sorry. Minor Fixes and some updates.
 
 ### Info
 
-This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe. 
+This version entailed a complete rebuild of the list on top [Ascensio](https://github.com/Oghma-Infinium/Ascensio). Absolutely, without a doubt, **not** Save-Safe.
 
  - Changed MO2 Themeing and Separators (themeing is from bingus, I was too lazy to change it).
  - Overhauled interiors.
@@ -2928,7 +2967,7 @@ This version entailed a complete rebuild of the list on top [Ascensio](https://g
  - lol  
  - lmao  
  - rofl even  
- 
+
 </Details>
 
 ## Legacy Versions
@@ -3063,7 +3102,7 @@ Maintenance Update. Save Safe?
 ### Info
 
 Maintenance Update. Save Safe.
- 
+
  - Forgot to disable Precision debug from testing in the last compile. Update is unneeded, you can simply toggle it off in the Precision MCM.
  - Fixed Crash when using certain weapon+shield combinations. (Colin fixed this, I'm just listing it for documentation purposes).
  - Removed redundant plugin that caused floating objects near Ivarstead.
@@ -3574,7 +3613,7 @@ This version is absolutely **NOT** Save Safe.
 ### Info
 
 This update is **save-safe.** Just another bug-fixing update
- 
+
  - Fixed Penitus Oculatus armor
  - Fixed Dark Brotherhood armor
  - Incorporated Styyx's gamepad fixes
@@ -3586,10 +3625,12 @@ This update is **save-safe.** Just another bug-fixing update
 <Details>
 
 ### Updated
+
 - Smaller 3D Cathedral Plants
 - Kreate (once again)
 
 ### Added
+
 - Classic Sprinting Redone
 
 </Details>
@@ -3609,6 +3650,7 @@ This update is **save-safe.** This is mostly a maintenance update with a few bug
 <Details>
 
 ### Updated
+
  - Kreate
 
 </Details>
@@ -3639,7 +3681,7 @@ This update may be save safe, but if you are continuing a save you might encount
     - If you are continuing a save, **please save in an interior and backup your saves**.
  - Fixed potion inventory sizes.
  - Fixed an oversight with God-King Soul Reaver's Weapon.
- - Fixed neck gaps with certain named Khajiit. 
+ - Fixed neck gaps with certain named Khajiit.
  - Fixed(?) Controlmap setup for Gamepad.
  - Fixed Muiri's missing texture.
  - Fixed face issue with Kematu, Kleppr, and Arniel Gane. I can't catch all of these so please report any fucked up faces.
@@ -3747,7 +3789,7 @@ This update may be save safe, but if you are continuing a save you might encount
  - The Dragon Cult - A Draugr Overhaul
 
 ### Added
- 
+
  - Some flora stuff, I forgor
  - The White Phial - My version SE
  - Extended Cut - Saints and Seducers Paper Map for FWMF
@@ -4464,7 +4506,7 @@ This update may be save safe, but if you are continuing a save you might encount
     - Reason: Performance for this mod was sadly too poor to keep it in the list, regardless of how cool the area was.
  - Ryn's Halted Stream Camp
     - Reason: Performance for this mod was sadly too poor to keep it in the list, regardless of how cool the area was.
- - Carved Brink 
+ - Carved Brink
     - Reason: Bad mod/kinda buggy.
        - Carved Brink - Modpocalypse
        - Carved Brink - High Poly NPCs
@@ -4670,7 +4712,7 @@ This update may be save safe, but if you are continuing a save you might encount
  - Daedric Shrines - Hermaeus Mora
     - Reason: AIO Version.
  - Daedric Shrines - Hircine
-    - Reason: AIO Version. 
+    - Reason: AIO Version.
  - Daedric Shrines - Sanguine
     - Reason: AIO Version.
  - Heavy Armory
@@ -4742,7 +4784,7 @@ This update may be save safe, but if you are continuing a save you might encount
  - Much Better Night Mother
     - Reason: Redundant mod.
  - Simplest Horses (and other mounts)
-    - Reason: . . . 
+    - Reason: . . .
  - Honed Metal
     - Reason: Balancing and stability concerns.
  - Simple Werewolf Favourite Howls Menu
@@ -4837,7 +4879,7 @@ This update may be save safe, but if you are continuing a save you might encount
     - Reason: I wanted to swap College Overhauls.
  - Mostly Treeless Tundra
     - Reason: Due to a seasonal change, the trees have started to repopulate the area around Whiterun.
- - REALORE Skin Ultima V2 
+ - REALORE Skin Ultima V2
     - Reason: Changed skin mod.
  - Tempered Skins for Males - SOS Light (nexus + LL files)
     - Reason: Changed skin mod.
@@ -4874,9 +4916,9 @@ This update may be save safe, but if you are continuing a save you might encount
  - 3-D Jazbay Grapes by Renthal311
     - Reason: I did not like these.
  - Trade and Barter
-    - Reason: . . . 
+    - Reason: . . .
  - Perseids Inns and Taverns - Realistic Room Rental Enhanced
-    - Reason: . . . 
+    - Reason: . . .
  - Extended Encounters
     - Reason: I had a lot of the stuff from this mod disabled and still felt mostly annoyed by the content that was left enabled, decided to cut it.
  - Immersive World Encounters. FINAL SE
@@ -4972,7 +5014,7 @@ This update may be save safe, but if you are continuing a save you might encount
     - Reason: Incompatible with game version 1.6+
  - Disable Follower Collision
     - Reason: Incompatible with game version 1.6+
- - Turn Animation Fix 
+ - Turn Animation Fix
     - Reason: Shouldn't be necessary with TDM apparently.
  - Fix Toggle Walk Run
     - Reason: Incompatible with game version 1.6+
@@ -4987,14 +5029,14 @@ This update may be save safe, but if you are continuing a save you might encount
  - Player Rotation in ShowRaceMenu
     - Reason: Incompatible with game version 1.6+
  - zxlice's ultimate potion animation - ZUPA
-    - Reason: Incompatible with game version 1.6+ 
+    - Reason: Incompatible with game version 1.6+
        - Zxlice's Ultimate Potion Animation - Alternative slowdown effect Patch
  - To Your Face Redux
     - Reason: Incompatible with game version 1.6+ and redundance with To Your Face AE.
  - Smooth Random Jump Animation - Rework
-    - Reason: . . . 
+    - Reason: . . .
  - Smooth Weapon Jump Animation
-    - Reason: . . . 
+    - Reason: . . .
  - Slow sprint bug fix
     - Reason: Replaced by Sprint Sneak Movement Speed Fix.
  - Jumping Attack
@@ -5115,7 +5157,7 @@ This update may be save safe, but if you are continuing a save you might encount
  - Majestic Mountains (and associated patches, I lost track)
     - Reason: Bingus and I decided to do this for visual consistency.
  - Smart NPC Potions
-    - Reason: . . . 
+    - Reason: . . .
  - Viridian Knight Armor - Color Variations (hdt-SMP - CBBE - 3BA - UUNP - BHUNP - HIMBO)
     - Reason: this was a massive mod for no reason.
  - Screenshot Helper
