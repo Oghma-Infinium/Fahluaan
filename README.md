@@ -178,8 +178,6 @@ Downloading and installing Fahluaan can take a while depending on your internet 
 6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
-- [BWB HSF Kaidan 2 Extended Edition V8.3.2](https://mega.nz/file/pNcFUIIT#tSvpP8ZPQeEqYmztne_gymwAJG-OKIQ-C1IzXINE-oQ)
-- [BWB Kaidan 2 Lux Patch](https://mega.nz/file/0A1DiaDL#kld_Q-jx-e_CsC1jn8wb0SHA7GMBCZJMq_adNbRk3Sg)
 - [Mod Organizer 2.4.5 Alpha 3](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
 - [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 

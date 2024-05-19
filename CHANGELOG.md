@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.2.2](#221) Release Date: May 19, 2024
 - [2.2.1](#221) Release Date: May 18, 2024
 - [2.2.0](#220) Release Date: May 14, 2024
 - [2.1.5](#215) Release Date: April 16, 2024
@@ -60,6 +61,29 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.2.2
+
+Key Info
+
+ - **This update is save game compatible.**
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed a CTD issue with enemies spawned by Hand Placed Enemies when loading a save in Blackreach
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- Vanilla Hair Remake - High Poly Head - Expressive Facegen Morphs - patches
+
+</Details>
 
 ## 2.2.1
 
