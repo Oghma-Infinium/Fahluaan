@@ -60,6 +60,33 @@
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
 
+## 2.2.1
+
+Key Info
+
+ - **This update is save game compatible.**
+
+  
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed neck seams with the Ancient Nord Armor, Hide Armor, and Scaled Armor for females
+- Fixed the blacked out eyes with Performance Mode enabled
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+
+### Added 
+- Vanilla Hair Remake - High Poly Head - Expressive Facegen Morphs - patches
+
+</Details>
+
 ## 2.2.0
 
 Key Info
