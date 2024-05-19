@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.2.1](#221) Release Date: May 18, 2024
 - [2.2.0](#220) Release Date: May 14, 2024
 - [2.1.5](#215) Release Date: April 16, 2024
 - [2.1.4](#214) Release Date: April 9, 2024
@@ -66,8 +67,6 @@ Key Info
 
  - **This update is save game compatible.**
 
-  
-
 <Details>
 <summary>Patch Notes</summary>
 
@@ -80,7 +79,6 @@ Key Info
 
 <Details>
 <summary>Changes</summary>
-
 
 ### Added 
 - Vanilla Hair Remake - High Poly Head - Expressive Facegen Morphs - patches
