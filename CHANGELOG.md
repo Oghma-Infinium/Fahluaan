@@ -17,7 +17,8 @@
 
 # Changelog
 
-- [2.2.2](#221) Release Date: May 19, 2024
+- [2.2.3](#223) Release Date: June 2, 2024
+- [2.2.2](#222) Release Date: May 19, 2024
 - [2.2.1](#221) Release Date: May 18, 2024
 - [2.2.0](#220) Release Date: May 14, 2024
 - [2.1.5](#215) Release Date: April 16, 2024
@@ -61,6 +62,23 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.2.3
+
+Key Info
+
+ - **This update is save game compatible.**
+ - This update was just to regenerate the Khajiit Speak Patch for the Khats
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- Vanilla Hair Remake - High Poly Head - Expressive Facegen Morphs - patches
+
+</Details>
 
 ## 2.2.2
 
