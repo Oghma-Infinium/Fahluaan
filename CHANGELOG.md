@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.2.4](#224) Release Date: June 17, 2024
 - [2.2.3](#223) Release Date: June 2, 2024
 - [2.2.2](#222) Release Date: May 19, 2024
 - [2.2.1](#221) Release Date: May 18, 2024
@@ -77,11 +78,15 @@ Key Info
 - Fixed the `Bow of Shadows - Reduced Cut` not properly adding the Bow's perk to the player when using the bow
 - Fixed the Bow of Shadows having an incorrect tooltip
 - Fixed a bug where the Bloodline quest wouldn't progress due to `Pause After Load Unscripted NG`
+- *Hopefully* fixed most instances where men had abnormally large boobs
 
 </Details>
 
 <Details>
 <summary>Changes</summary>
+
+### Updated
+- Highly Improved Male Body Overhaul (HIMBO)
 
 ### Removed
 - Pause After Load Unscripted NG (This mod will come back when some of the issues )
