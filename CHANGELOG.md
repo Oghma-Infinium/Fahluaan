@@ -89,7 +89,8 @@ Key Info
 - Highly Improved Male Body Overhaul (HIMBO)
 
 ### Removed
-- Pause After Load Unscripted NG (This mod will come back when some of the issues )
+- Pause After Load Unscripted NG
+   >This mod will come back when some of the issues with it are fixed
 
 </Details>
 
