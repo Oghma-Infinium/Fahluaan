@@ -79,6 +79,7 @@ Key Info
 - Fixed the Bow of Shadows having an incorrect tooltip
 - Fixed a bug where the Bloodline quest wouldn't progress due to `Pause After Load Unscripted NG`
 - *Hopefully* fixed most instances where men had abnormally large boobs
+   > ***WARNING: This will not take effect on existing save-games***
 
 </Details>
 
