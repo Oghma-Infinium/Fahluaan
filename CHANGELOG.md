@@ -63,6 +63,31 @@
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
 
+## 2.2.4
+
+Key Info
+
+ - **This update is save game compatible.**
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed the `Bow of Shadows - Reduced Cut` not properly adding the Bow's perk to the player when using the bow
+- Fixed the Bow of Shadows having an incorrect tooltip
+- Fixed a bug where the Bloodline quest wouldn't progress due to `Pause After Load Unscripted NG`
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Removed
+- Pause After Load Unscripted NG (This mod will come back when some of the issues )
+
+</Details>
+
 ## 2.2.3
 
 Key Info

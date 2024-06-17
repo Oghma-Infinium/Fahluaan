@@ -15,13 +15,37 @@
 
 ---
 
+- [FAQ](#faq)
+  - [Q: Do I have to read this?](#q-do-i-have-to-read-this)
+  - [Q: What mod is it that makes favorited items/potions/quest items show on my character?](#q-what-mod-is-it-that-makes-favorited-itemspotionsquest-items-show-on-my-character)
+  - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
+  - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
+  - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
+  - [Q: How do I become the Thane of Whiterun?](#q-how-do-i-become-the-thane-of-whiterun)
+  - [Q: I finished The Blessing of Nature, how long does the tree take to bloom?](#q-i-finished-the-blessing-of-nature-how-long-does-the-tree-take-to-bloom)
+  - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
+  - [Q: How do I get rid of the black bars? How to disable letterbox.](#q-how-do-i-get-rid-of-the-black-bars-how-to-disable-letterbox)
+  - [Q: What is the Pilgrim skill / How do I access the Pilgrim skill tree?](#q-what-is-the-pilgrim-skill--how-do-i-access-the-pilgrim-skill-tree)
+  - [Q: Issue with wrist/hand when weilding Warhammers or Battleaxes in first person without gauntlets.](#q-issue-with-wristhand-when-weilding-warhammers-or-battleaxes-in-first-person-without-gauntlets)
+  - [Q: How do I set up the quick wheel?](#q-how-do-i-set-up-the-quick-wheel)
+  - [Q: I can't add a weapon/armor to the wheel.](#q-i-cant-add-a-weaponarmor-to-the-wheel)
+  - [Q: Can I still use the vanilla favorites menu? I do not like the wheel.](#q-can-i-still-use-the-vanilla-favorites-menu-i-do-not-like-the-wheel)
+  - [Q: Sex?](#q-sex)
+- [Known Issues](#known-issues)
+  - [Naked when in Vampire Lord form!](#naked-when-in-vampire-lord-form)
+  - [Being randomly attacked or arrested by NPCs!](#being-randomly-attacked-or-arrested-by-npcs)
+  - [Awakening Quest does not start!](#awakening-quest-does-not-start)
+  - [Having issues controlling NPCs in Sirenroot!](#having-issues-controlling-npcs-in-sirenroot)
+  - [Crashing when talking to Azura/Peryite/Augur of Dunlain/\[Insert Talking Head Activator\]!](#crashing-when-talking-to-azuraperyiteaugur-of-dunlaininsert-talking-head-activator)
+  - [Map is very bright!](#map-is-very-bright)
+  - [Body type won't change when trying to apply a new body through OBody.](#body-type-wont-change-when-trying-to-apply-a-new-body-through-obody)
+  - [\[Insert Male NPC\] looks like he has tits / has a really big chest and arms!](#insert-male-npc-looks-like-he-has-tits--has-a-really-big-chest-and-arms)
+
+
 ## FAQ
 
 ### Q: Do I have to read this?
 A: No, but if you ask me any question on this document, I will refer you back to here.
-
-### Q: Why does my game freeze after every load transition?
-A: It's not freezing, the list has a [mod](https://www.nexusmods.com/skyrimspecialedition/mods/60958) that pauses the game after cell transitions.
 
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
