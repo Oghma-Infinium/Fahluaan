@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.3.0](#230) Release Date: June 30, 2024
 - [2.2.4](#224) Release Date: June 17, 2024
 - [2.2.3](#223) Release Date: June 2, 2024
 - [2.2.2](#222) Release Date: May 19, 2024
@@ -64,6 +65,54 @@
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
 
+## 2.3.0
+
+Key Info
+
+ - **This update is absolutely NOT save game compatible.**
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed corpses being unable to be raised as a zombie after dying due to `Random Death Animation`
+- Fixed Stalhrim Fur Armor looking wonky due to Bodyslide and mesh issues
+- Fixed a bug where equipping Stalhrim Fur and Dwarven Mail helmets caused the player's head to be invisible
+- Fixed guards not commenting on `aMidianBorn Armor Variants Lite`'s Steel Armor, Ebony Armor, and Iron Armor variants if the player is wearing them
+- Fixed an issue with `NPC Animation Remix` having incorrect conditions set for cooking pot animations
+- Fixed the `Skyking Signs` Moorside Inn signpost floating due to incorrectly using the Dead Man's Drink mesh
+- Fixed Pine Shrubs dissapearing after a certain distance due to a mipmap issue with `Cathedral - 3D Happy Little Pine Shrubs and Solstheim Ash Shrub Add-on` and adjusted their colors to match kojak747's `Happy Little Trees - Reduced Saturation` patch
+- Fixed a water seam in cell `41,-23` (It wasn't noticable due to our personal ENB tweaks for water)
+- Issues with the `dragonactorscript` script getting stuck after killing a dragon should be fixed now
+
+### Misc. Tweaks
+
+ - Many ENB adjustments were made to different weathers based on Zangdar's private updated version of Zangdar's Rudy ENB (with permission)
+ - Changed Volanic Water and Rift Water to Water for ENB's blue versions to help mitigate water LOD transition seams with said ENB tweaks above
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- Dragon War - A Dragon Overhaul
+- Random Death Animation
+- NPC Animation Remix
+- Skyking Signs
+- ENB Binaries
+
+### Added 
+- Andrealphus' Papyrus Functions
+
+### Removed
+- Dragons Fall Down - Immersive Airborne Death
+- Dragonactorscript infinite loop fix
+  > Not needed since we're using Dragon War's version of this fix
+
+</Details>
+
 ## 2.2.4
 
 Key Info
@@ -75,7 +124,7 @@ Key Info
 
 ### Bug Fixes
 
-- Fixed the `Bow of Shadows - Reduced Cut` not properly adding the Bow's perk to the player when using the bow
+- Fixed the `Bow of Shadows - Reduced Cut` not properly adding the bow's perk to the player when using the bow
 - Fixed the Bow of Shadows having an incorrect tooltip
 - Fixed a bug where the Bloodline quest wouldn't progress due to `Pause After Load Unscripted NG`
 - *Hopefully* fixed most instances where men had abnormally large boobs
