@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.3.1](#230) Release Date: July 1, 2024
 - [2.3.0](#230) Release Date: June 30, 2024
 - [2.2.4](#224) Release Date: June 17, 2024
 - [2.2.3](#223) Release Date: June 2, 2024
@@ -64,6 +65,27 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.3.1
+
+Key Info
+
+ - **This update is save game compatible.**
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed Kaidan not following the player out of his cell after rescuing him
+- Fixed Night Eye and similar powers not working
+- Fixed Fahluaan's Bodyslide Output accidentally reverting a couple of armor mesh changes (such as Better Shrouded Armor, Practical Iron Armor, etc)
+
+### Misc. Tweaks
+
+ - Removed the letterbox effect from the ENB by default
+
+</Details>
 
 ## 2.3.0
 
