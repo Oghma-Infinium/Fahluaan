@@ -17,7 +17,7 @@
 
 # Changelog
 
-- [2.3.2](#231) Release Date: July 20, 2024
+- [2.3.2](#232) Release Date: July 20, 2024
 - [2.3.1](#231) Release Date: July 1, 2024
 - [2.3.0](#230) Release Date: June 30, 2024
 - [2.2.4](#224) Release Date: June 17, 2024
