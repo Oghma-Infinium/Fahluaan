@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.3.2](#231) Release Date: July 20, 2024
 - [2.3.1](#231) Release Date: July 1, 2024
 - [2.3.0](#230) Release Date: June 30, 2024
 - [2.2.4](#224) Release Date: June 17, 2024
@@ -65,6 +66,36 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.3.2
+
+Key Info
+
+ - **This update is save game compatible.**
+ - This update is mainly to address a permission concern from another author.
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Fixed the missing texture on the Staff of Worms mesh
+   > This was due to Praedy's model needing textures from Undeath which the modlist doesn't use
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Added 
+- Dynamic Interface Patcher
+- DIP - Untarnished UI RaceMenu Patch
+
+### Removed
+- Dynamic RaceMenu Interface Patcher
+- DRIP - Untarnished UI RaceMenu Patch
+
+</Details>
 
 ## 2.3.1
 
