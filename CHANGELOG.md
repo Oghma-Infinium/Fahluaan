@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.3.3](#233) Release Date: August 11, 2024
 - [2.3.2](#232) Release Date: July 20, 2024
 - [2.3.1](#231) Release Date: July 1, 2024
 - [2.3.0](#230) Release Date: June 30, 2024
@@ -66,6 +67,29 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.3.3
+
+Key Info
+
+ - **This update is save game compatible.**
+ - This update was just to update Dragon War, no other changes were made
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+- Hopefully fixed crashes during dragon fights?
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- Dragon War - A Dragon Overhaul
+
+</Details>
 
 ## 2.3.2
 
