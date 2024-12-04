@@ -17,6 +17,7 @@
 
 # Changelog
 
+- [2.3.4](#234) Release Date: December 4, 2024
 - [2.3.3](#233) Release Date: August 11, 2024
 - [2.3.2](#232) Release Date: July 20, 2024
 - [2.3.1](#231) Release Date: July 1, 2024
@@ -67,6 +68,24 @@
 - [0.9.1](#091) Release Date: July 25, 2023
 - [0.9.0](#090) Release Date: July 23, 2023
 - [Legacy Versions](#legacy-versions)
+
+## 2.3.4
+
+Key Info
+
+ - **This update is save game compatible.**
+ - This update was just to get the modlist installable again
+
+<Details>
+<summary>Mod Changes</summary>
+
+### Updated
+- ENB Series Binaries
+
+### Removed
+- Warrior Princess 3BA Preset
+
+</Details>
 
 ## 2.3.3
 
